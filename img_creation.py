@@ -3,12 +3,12 @@ import requests
 from bs4 import BeautifulSoup
 from io import BytesIO
 
-URL = 'https://api.coinmarketcap.com/v1/ticker/bitcoin/'
+URL = 'https://api.coinmarketcap.com/v1/ticker/ethereum/'
 width = 320
-height = 160
+height = 120
 
 
-def draw_text(d, pos, color=(0, 0, 0), text='', size=18):
+def draw_text(d, pos, color=(0, 0, 0, 255), text='', size=16):
     fnt = ImageFont.truetype("data/ARIAL.TTF", size)
     d.text(pos, fill=color, text=text, font=fnt)
 
@@ -25,13 +25,21 @@ def get_image(name):
     soup = BeautifulSoup(r.text, 'lxml')
     image = soup.find('a', text=name).parent.parent.find('img').attrs['src']
     return image
-  
+
+
+def get_color(x):
+    if float(x) >= 0:
+        return 0, 255, 0
+    else:
+        return 255, 0, 0
+
+
 def main():
     # Здесь, первый параметр это тип картинки, может быть:
     # 1 (черно-белый), L (монохромный, оттенки серого),
     # RGB, RGBA (RGB с альфа каналом), CMYK, YCbCr, I (32 bit Integer pixels),
     # F (32 bit Float pixels).
-    img = Image.new("RGBA", (width, height), (0, 0, 0, 0))
+    img = Image.new("RGBA", (width, height), (255, 255, 255, 255))
     draw = ImageDraw.Draw(img)
 
     rq = requests.get(URL).json()[0]
@@ -47,17 +55,19 @@ def main():
 
     img_rq = requests.get(get_image(_id))
     graph = Image.open(BytesIO(img_rq.content)).convert('RGBA')
+    dx = height / 6
 
-    img.paste(graph, (0, height - graph.height), graph)
-    draw_text(draw, (10, 0), text=symbol, size=50)
-    draw_text(draw, (0, 0), text=rank)
-    draw_text(draw, (200, 18), text=price_usd)
-    draw_text(draw, (200, 80), text='1H  ' + percent_change_1h + '%')
-    draw_text(draw, (200, 100), text='24H ' + percent_change_24h + '%')
-    draw_text(draw, (200, 120), text='7D  ' + percent_change_7d + '%')
-    draw_text(draw, (100, 50), text='MC   ' + market_cap_usd + '$')
-    draw_text(draw, (100, 70), text='VOL  ' + market_cap_usd + '$')
-    # draw.bitmap((50, 50), graph, fill=None)
+    img.paste(graph, (width - graph.width - 2, 10), graph)
+    draw_text(draw, (width - 100, height - 50), text=symbol, size=50)
+    draw_text(draw, (width / 2 + 50, height - 19), text=rank)
+
+    draw_text(draw, (2, dx * 0), text=price_usd + '$', size=18)
+
+    draw_text(draw, (2, dx * 1), text='1H    ' + percent_change_1h + '%', color=get_color(percent_change_1h))
+    draw_text(draw, (2, dx * 2), text='1D    ' + percent_change_24h + '%', color=get_color(percent_change_24h))
+    draw_text(draw, (2, dx * 3), text='7D    ' + percent_change_7d + '%', color=get_color(percent_change_7d))
+    draw_text(draw, (2, dx * 4), text='MC    ' + market_cap_usd + '$')
+    draw_text(draw, (2, dx * 5), text='VOL   ' + market_cap_usd + '$')
 
     del draw
     img.save("test.png", "PNG")
@@ -66,4 +76,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
