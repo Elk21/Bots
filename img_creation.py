@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from io import BytesIO
 
 URL = 'https://api.coinmarketcap.com/v1/ticker/bitcoin/'
-width  = 320
+width = 320
 height = 160
 
 
@@ -46,9 +46,7 @@ percent_change_24h = rq['percent_change_24h']
 percent_change_7d = rq['percent_change_7d']
 
 img_rq = requests.get(get_image(_id))
-graph = Image.open(BytesIO(img_rq.content))
-graph.save('saved_graph.png')
-graph = Image.open('saved_graph.png').convert('RGBA')
+graph = Image.open(BytesIO(img_rq.content)).convert('RGBA')
 
 img.paste(graph, (0, height - graph.height), graph)
 draw_text(draw, (10, 0), text=symbol, size=50)
