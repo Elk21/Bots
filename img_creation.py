@@ -32,6 +32,7 @@ img = Image.new("RGBA", (320, 160), (0, 0, 0, 0))
 draw = ImageDraw.Draw(img)
 
 rq = requests.get(URL).json()[0]
+_id = rq['id']
 price_usd = rq['price_usd']
 rank = rq['rank']
 symbol = rq['symbol']
@@ -39,6 +40,7 @@ market_cap_usd = rq['market_cap_usd']
 percent_change_1h = rq['percent_change_1h']
 percent_change_24h = rq['percent_change_24h']
 percent_change_7d = rq['percent_change_7d']
+img = Image.open(get_image(_id))
 
 draw_text(draw, (10, 0), text=symbol, size=50)
 draw_text(draw, (0, 0), text=rank)
@@ -46,7 +48,10 @@ draw_text(draw, (200, 18), text=price_usd)
 draw_text(draw, (200, 80), text='1h:  ' + percent_change_1h + '%')
 draw_text(draw, (200, 100), text='24h: ' + percent_change_24h + '%')
 draw_text(draw, (200, 120), text='7d:  ' + percent_change_7d + '%')
-draw_text(draw, (200, 50), text=market_cap_usd)
+draw_text(draw, (100, 50), text=market_cap_usd)
+draw.bitmap((50, 50), img.bitmap(), fill=None)
+
+
 
 del draw
 img.save("test.png", "PNG")
