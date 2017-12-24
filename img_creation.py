@@ -25,7 +25,7 @@ def get_image(name):
     soup = BeautifulSoup(r.text, 'lxml')
     image = soup.find('a', text=name).parent.parent.find('img').attrs['src']
     return image
-
+  
 
 # Здесь, первый параметр это тип картинки, может быть:
 # 1 (черно-белый), L (монохромный, оттенки серого),
