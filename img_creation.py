@@ -3,13 +3,14 @@ import requests
 from bs4 import BeautifulSoup
 from io import BytesIO
 
-URL = 'https://api.coinmarketcap.com/v1/ticker/ethereum/'
+coin = 'bitcoin'
+URL = 'https://api.coinmarketcap.com/v1/ticker/' + coin + '/'
 width = 320
 height = 120
 
 
 def draw_text(d, pos, color=(0, 0, 0, 255), text='', size=16):
-    fnt = ImageFont.truetype("data/ARIAL.TTF", size)
+    fnt = ImageFont.truetype("data/HLR.TTF", size)
     d.text(pos, fill=color, text=text, font=fnt)
 
 
@@ -19,7 +20,6 @@ def get_html(url):
 
 
 def get_image(name):
-    print(name)
     url = 'https://coinmarketcap.com/'
     r = requests.get(url)
     soup = BeautifulSoup(r.text, 'lxml')
@@ -29,9 +29,15 @@ def get_image(name):
 
 def get_color(x):
     if float(x) >= 0:
-        return 0, 255, 0
+        return 0, 200, 0
     else:
-        return 255, 0, 0
+        return 220, 0, 0
+
+
+def convert_big_value(x):
+    if float(x) >= 1000000:
+        y = int(float(x) / 1000000)
+        return str(round(float(x) / 1000000000, 3)) + ' M'
 
 
 def main():
@@ -58,19 +64,18 @@ def main():
     dx = height / 6
 
     img.paste(graph, (width - graph.width - 2, 10), graph)
-    draw_text(draw, (width - 100, height - 50), text=symbol, size=50)
-    draw_text(draw, (width / 2 + 50, height - 19), text=rank)
+
+    draw_text(draw, (width / 2 + 10, height - 50), text=symbol, size=50)
+    draw_text(draw, (width / 2 + 10, height - 19), text=rank)
 
     draw_text(draw, (2, dx * 0), text=price_usd + '$', size=18)
-
     draw_text(draw, (2, dx * 1), text='1H    ' + percent_change_1h + '%', color=get_color(percent_change_1h))
     draw_text(draw, (2, dx * 2), text='1D    ' + percent_change_24h + '%', color=get_color(percent_change_24h))
     draw_text(draw, (2, dx * 3), text='7D    ' + percent_change_7d + '%', color=get_color(percent_change_7d))
-    draw_text(draw, (2, dx * 4), text='MC    ' + market_cap_usd + '$')
-    draw_text(draw, (2, dx * 5), text='VOL   ' + market_cap_usd + '$')
-
+    draw_text(draw, (2, dx * 4), text='MC    ' + convert_big_value(market_cap_usd) + '$')
+    draw_text(draw, (2, dx * 5), text='VOL   ' + convert_big_value(volume_usd_24h) + '$')
     del draw
-    img.save("test.png", "PNG")
+    img.save('img/' + coin + '.png', "PNG")
     print(rq)
 
 
