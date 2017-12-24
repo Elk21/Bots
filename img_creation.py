@@ -42,6 +42,7 @@ percent_change_24h = rq['percent_change_24h']
 percent_change_7d = rq['percent_change_7d']
 img = Image.open(get_image(_id))
 
+
 draw_text(draw, (10, 0), text=symbol, size=50)
 draw_text(draw, (0, 0), text=rank)
 draw_text(draw, (200, 18), text=price_usd)
