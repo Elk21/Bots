@@ -18,9 +18,10 @@ def get_html(url):
 def get_image(name):
     url = 'https://coinmarketcap.com/'
     r = requests.get(url)
-    soup = BeautifulSoup('lxml', r.text)
+    soup = BeautifulSoup(r.text, 'lxml')
     image = soup.find('a', text=name).parent.parent.find('img').attrs['src']
     return image
+
 
 
 def main():
