@@ -31,7 +31,7 @@ def get_image(name):
 # 1 (черно-белый), L (монохромный, оттенки серого),
 # RGB, RGBA (RGB с альфа каналом), CMYK, YCbCr, I (32 bit Integer pixels),
 # F (32 bit Float pixels).
-img = Image.new("RGBA", (width, height), (0, 0, 0, 0))
+img = Image.new("RGBA", (width, height), (255, 255, 255, 255))
 draw = ImageDraw.Draw(img)
 
 rq = requests.get(URL).json()[0]
@@ -57,9 +57,6 @@ draw_text(draw, (200, 100), text='24H ' + percent_change_24h + '%')
 draw_text(draw, (200, 120), text='7D  ' + percent_change_7d + '%')
 draw_text(draw, (100, 50), text='MC   ' + market_cap_usd + '$')
 draw_text(draw, (100, 70), text='VOL  ' + market_cap_usd + '$')
-# draw.bitmap((50, 50), graph, fill=None)
-
 
 del draw
 img.save("test.png", "PNG")
-print(rq)
