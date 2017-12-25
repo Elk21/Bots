@@ -3,14 +3,14 @@ import requests
 from bs4 import BeautifulSoup
 from io import BytesIO
 
-coin = 'bitcoin'
-URL = 'https://api.coinmarketcap.com/v1/ticker/' + coin + '/'
-width = 320
-height = 120
+coins = ['ripple', 'bitcoin', 'cardano', 'iota', 'litecoin', 'bitcoin-cash']
+font = 'RMM.ttf'
+width = 300
+height = 150
 
 
 def draw_text(d, pos, color=(0, 0, 0, 255), text='', size=16):
-    fnt = ImageFont.truetype("data/HLR.TTF", size)
+    fnt = ImageFont.truetype("data/" + font, size)
     d.text(pos, fill=color, text=text, font=fnt)
 
 
@@ -36,22 +36,22 @@ def get_color(x):
 
 def convert_big_value(x):
     if float(x) >= 1000000:
-        y = int(float(x) / 1000000)
         return str(round(float(x) / 1000000000, 3)) + ' M'
 
 
-def main():
+def create_single_coin_img(coin='bitcoin'):
     # Здесь, первый параметр это тип картинки, может быть:
     # 1 (черно-белый), L (монохромный, оттенки серого),
     # RGB, RGBA (RGB с альфа каналом), CMYK, YCbCr, I (32 bit Integer pixels),
     # F (32 bit Float pixels).
-    img = Image.new("RGBA", (width, height), (255, 255, 255, 255))
+    img = Image.new("RGBA", (width, height), (240, 240, 240, 255))
     draw = ImageDraw.Draw(img)
 
-    rq = requests.get(URL).json()[0]
-    _id = rq['id'][0].title() + rq['id'][1:]
+    url = 'https://api.coinmarketcap.com/v1/ticker/' + coin + '/'
+    rq = requests.get(url).json()[0]
+    print(rq)
+    _id = rq['name']
     price_usd = rq['price_usd']
-    rank = rq['rank']
     symbol = rq['symbol']
     market_cap_usd = rq['market_cap_usd']
     volume_usd_24h = rq['24h_volume_usd']
@@ -59,24 +59,70 @@ def main():
     percent_change_24h = rq['percent_change_24h']
     percent_change_7d = rq['percent_change_7d']
 
+    dx = 2
+    dy = 2
+    s_font = 16
+    m_font = 22
+    l_font = 34
+
+    # Graph
     img_rq = requests.get(get_image(_id))
     graph = Image.open(BytesIO(img_rq.content)).convert('RGBA')
-    dx = height / 6
-
     img.paste(graph, (width - graph.width - 2, 10), graph)
 
-    draw_text(draw, (width / 2 + 10, height - 50), text=symbol, size=50)
-    draw_text(draw, (width / 2 + 10, height - 19), text=rank)
+    # Coin icon
+    icon = Image.new("RGBA", (l_font, l_font), (0, 0, 0, 255))
+    img.paste(icon,
+              (width - graph.width + 5 * dx, height - (l_font + dy)),
+              icon)
 
-    draw_text(draw, (2, dx * 0), text=price_usd + '$', size=18)
-    draw_text(draw, (2, dx * 1), text='1H    ' + percent_change_1h + '%', color=get_color(percent_change_1h))
-    draw_text(draw, (2, dx * 2), text='1D    ' + percent_change_24h + '%', color=get_color(percent_change_24h))
-    draw_text(draw, (2, dx * 3), text='7D    ' + percent_change_7d + '%', color=get_color(percent_change_7d))
-    draw_text(draw, (2, dx * 4), text='MC    ' + convert_big_value(market_cap_usd) + '$')
-    draw_text(draw, (2, dx * 5), text='VOL   ' + convert_big_value(volume_usd_24h) + '$')
+    # Symbol
+    draw_text(draw,
+              pos=(width - graph.width + l_font + 6 * dx, height - (l_font + dy)),
+              text=symbol,
+              size=l_font)
+
+    # Price USD
+    draw_text(draw,
+              pos=(6, height / 8),
+              text=price_usd + '$',
+              size=m_font)
+
+    # Price change
+    draw_text(draw,
+              pos=(6, height / 2 - s_font - dy),
+              text='1H  ' + percent_change_1h + '%',
+              color=get_color(percent_change_1h),
+              size=s_font)
+    draw_text(draw,
+              pos=(6, height / 2),
+              text='1D  ' + percent_change_24h + '%',
+              color=get_color(percent_change_24h),
+              size=s_font)
+    draw_text(draw,
+              pos=(6, height / 2 + s_font + dy),
+              text='7D  ' + percent_change_7d + '%',
+              color=get_color(percent_change_7d),
+              size=s_font)
+
+    # Price volume
+    draw_text(draw,
+              pos=(6, height - (s_font * 2 + dy)),
+              text='MC  ' + convert_big_value(market_cap_usd) + '$',
+              size=s_font)
+    draw_text(draw,
+              pos=(6, height - (s_font + dy)),
+              text='VOL ' + convert_big_value(volume_usd_24h) + '$',
+              size=s_font)
     del draw
     img.save('img/' + coin + '.png', "PNG")
-    print(rq)
+    return img
+
+
+def main():
+    create_single_coin_img('iota')
+    for c in coins:
+        create_single_coin_img(c)
 
 
 if __name__ == '__main__':
