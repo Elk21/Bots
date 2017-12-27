@@ -2,15 +2,16 @@ from PIL import Image, ImageDraw, ImageFont
 import requests
 from bs4 import BeautifulSoup
 from io import BytesIO
+import telebot
 
-coins = ['ripple', 'bitcoin', 'cardano', 'iota', 'litecoin', 'bitcoin-cash']
-font = 'RMM.ttf'
+coins = ['ripple', 'bitcoin', 'cardano', 'iota', 'litecoin', 'bitcoin-cash', 'ethereum']
+font = 'RML.ttf'
 width = 300
 height = 150
 
 
 def draw_text(d, pos, color=(0, 0, 0, 255), text='', size=16):
-    fnt = ImageFont.truetype("data/" + font, size)
+    fnt = ImageFont.truetype("fonts/" + font, size)
     d.text(pos, fill=color, text=text, font=fnt)
 
 
@@ -19,6 +20,7 @@ def get_html(url):
     return r.text
 
 
+# Get graph image of price change in last 7 days
 def get_image(name):
     url = 'https://coinmarketcap.com/'
     r = requests.get(url)
@@ -119,6 +121,48 @@ def create_single_coin_img(coin='bitcoin'):
     return img
 
 
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+bot = telebot.TeleBot('488210005:AAFtVtoY4lk4_ZmXGAScM-xeMxyL_J6TDMo')
+
+
+# @bot.message_handler(commands=['music'])
+# def find_file_ids(message):
+#     for file in os.listdir('music/'):
+#         if file.split('.')[-1] == 'ogg':
+#             f = open('music/' + file, 'rb')
+#             msg = bot.send_voice(message.chat.id, f, None)
+#             # А теперь отправим вслед за файлом его file_id
+#             bot.send_message(message.chat.id, msg.voice.file_id, reply_to_message_id=msg.message_id)
+#         time.sleep(3)
+
+
+@bot.message_handler(content_types=['text'])
+def answer(message):
+    in_coin = message.text
+    if in_coin in coins:
+        create_single_coin_img(in_coin)
+        with open('img/' + in_coin + '.png', 'rb') as photo:
+            # Create button
+            keyboard = telebot.types.InlineKeyboardMarkup()
+            url_button = telebot.types.InlineKeyboardButton(text="to CoinMarketCap",
+                                                            url='https://coinmarketcap.com/currencies/' + in_coin + '/')
+            keyboard.add(url_button)
+            # Send photo with reply markup
+            bot.send_photo(message.chat.id, photo=photo, reply_markup=keyboard)
+    else:
+        bot.send_message(message.chat.id, 'no such crypto')
+
+
 def main():
     create_single_coin_img('iota')
     for c in coins:
@@ -126,4 +170,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    bot.polling(none_stop=True)
