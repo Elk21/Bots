@@ -1,2278 +1,2278 @@
 {
   "1": [
-    "BTC",
+    "btc",
     "bitcoin",
-    "Bitcoin"
+    "bitcoin"
   ],
   "2": [
-    "ETH",
+    "eth",
     "ethereum",
-    "Ethereum"
+    "ethereum"
   ],
   "3": [
-    "BCH",
+    "bch",
     "bitcoin-cash",
-    "Bitcoin Cash"
+    "bitcoin cash"
   ],
   "4": [
-    "XRP",
+    "xrp",
     "ripple",
-    "Ripple"
+    "ripple"
   ],
   "5": [
-    "LTC",
+    "ltc",
     "litecoin",
-    "Litecoin"
+    "litecoin"
   ],
   "6": [
-    "ADA",
+    "ada",
     "cardano",
-    "Cardano"
+    "cardano"
   ],
   "7": [
-    "MIOTA",
+    "miota",
     "iota",
-    "IOTA"
+    "iota"
   ],
   "8": [
-    "DASH",
     "dash",
-    "Dash"
+    "dash",
+    "dash"
   ],
   "9": [
-    "XEM",
+    "xem",
     "nem",
-    "NEM"
+    "nem"
   ],
   "10": [
-    "XMR",
+    "xmr",
     "monero",
-    "Monero"
+    "monero"
   ],
   "11": [
-    "EOS",
     "eos",
-    "EOS"
+    "eos",
+    "eos"
   ],
   "12": [
-    "BTG",
+    "btg",
     "bitcoin-gold",
-    "Bitcoin Gold"
+    "bitcoin gold"
   ],
   "13": [
-    "NEO",
     "neo",
-    "NEO"
+    "neo",
+    "neo"
   ],
   "14": [
-    "QTUM",
     "qtum",
-    "Qtum"
+    "qtum",
+    "qtum"
   ],
   "15": [
-    "XLM",
+    "xlm",
     "stellar",
-    "Stellar"
+    "stellar"
   ],
   "16": [
-    "ETC",
+    "etc",
     "ethereum-classic",
-    "Ethereum Classic"
+    "ethereum classic"
   ],
   "17": [
-    "LSK",
+    "lsk",
     "lisk",
-    "Lisk"
+    "lisk"
   ],
   "18": [
-    "BCC",
+    "bcc",
     "bitconnect",
-    "BitConnect"
+    "bitconnect"
   ],
   "19": [
-    "TRX",
+    "trx",
     "tron",
-    "TRON"
+    "tron"
   ],
   "20": [
-    "XVG",
+    "xvg",
     "verge",
-    "Verge"
+    "verge"
   ],
   "21": [
-    "ICX",
+    "icx",
     "icon",
-    "ICON"
+    "icon"
   ],
   "22": [
-    "ZEC",
+    "zec",
     "zcash",
-    "Zcash"
+    "zcash"
   ],
   "23": [
-    "ARDR",
+    "ardr",
     "ardor",
-    "Ardor"
+    "ardor"
   ],
   "24": [
-    "BTS",
+    "bts",
     "bitshares",
-    "BitShares"
+    "bitshares"
   ],
   "25": [
-    "OMG",
+    "omg",
     "omisego",
-    "OmiseGO"
+    "omisego"
   ],
   "26": [
-    "NXT",
     "nxt",
-    "Nxt"
+    "nxt",
+    "nxt"
   ],
   "27": [
-    "PPT",
+    "ppt",
     "populous",
-    "Populous"
+    "populous"
   ],
   "28": [
-    "STRAT",
+    "strat",
     "stratis",
-    "Stratis"
+    "stratis"
   ],
   "29": [
-    "WAVES",
     "waves",
-    "Waves"
+    "waves",
+    "waves"
   ],
   "30": [
-    "HSR",
+    "hsr",
     "hshare",
-    "Hshare"
+    "hshare"
   ],
   "31": [
-    "USDT",
+    "usdt",
     "tether",
-    "Tether"
+    "tether"
   ],
   "32": [
-    "XRB",
+    "xrb",
     "raiblocks",
-    "RaiBlocks"
+    "raiblocks"
   ],
   "33": [
-    "BCN",
+    "bcn",
     "bytecoin-bcn",
-    "Bytecoin"
+    "bytecoin"
   ],
   "34": [
-    "KMD",
+    "kmd",
     "komodo",
-    "Komodo"
+    "komodo"
   ],
   "35": [
-    "DOGE",
+    "doge",
     "dogecoin",
-    "Dogecoin"
+    "dogecoin"
   ],
   "36": [
-    "REP",
+    "rep",
     "augur",
-    "Augur"
+    "augur"
   ],
   "37": [
-    "BNB",
+    "bnb",
     "binance-coin",
-    "Binance Coin"
+    "binance coin"
   ],
   "38": [
-    "SC",
+    "sc",
     "siacoin",
-    "Siacoin"
+    "siacoin"
   ],
   "39": [
-    "STEEM",
     "steem",
-    "Steem"
+    "steem",
+    "steem"
   ],
   "40": [
-    "ARK",
     "ark",
-    "Ark"
+    "ark",
+    "ark"
   ],
   "41": [
-    "VERI",
+    "veri",
     "veritaseum",
-    "Veritaseum"
+    "veritaseum"
   ],
   "42": [
-    "PIVX",
     "pivx",
-    "PIVX"
+    "pivx",
+    "pivx"
   ],
   "43": [
-    "MONA",
+    "mona",
     "monacoin",
-    "MonaCoin"
+    "monacoin"
   ],
   "44": [
-    "DCR",
+    "dcr",
     "decred",
-    "Decred"
+    "decred"
   ],
   "45": [
-    "SALT",
     "salt",
-    "SALT"
+    "salt",
+    "salt"
   ],
   "46": [
-    "DGB",
+    "dgb",
     "digibyte",
-    "DigiByte"
+    "digibyte"
   ],
   "47": [
-    "GNT",
+    "gnt",
     "golem-network-tokens",
-    "Golem"
+    "golem"
   ],
   "48": [
-    "XZC",
+    "xzc",
     "zcoin",
-    "ZCoin"
+    "zcoin"
   ],
   "49": [
-    "SNT",
+    "snt",
     "status",
-    "Status"
+    "status"
   ],
   "50": [
-    "PAY",
+    "pay",
     "tenx",
-    "TenX"
+    "tenx"
   ],
   "51": [
-    "GBYTE",
+    "gbyte",
     "byteball",
-    "Byteball Bytes"
+    "byteball bytes"
   ],
   "52": [
-    "ETN",
+    "etn",
     "electroneum",
-    "Electroneum"
+    "electroneum"
   ],
   "53": [
-    "BTM",
+    "btm",
     "bytom",
-    "Bytom"
+    "bytom"
   ],
   "54": [
-    "BAT",
+    "bat",
     "basic-attention-token",
-    "Basic Attention Token"
+    "basic attention token"
   ],
   "55": [
-    "VET",
+    "vet",
     "vechain",
-    "VeChain"
+    "vechain"
   ],
   "56": [
-    "MAID",
+    "maid",
     "maidsafecoin",
-    "MaidSafeCoin"
+    "maidsafecoin"
   ],
   "57": [
-    "RDD",
+    "rdd",
     "reddcoin",
-    "ReddCoin"
+    "reddcoin"
   ],
   "58": [
-    "SYS",
+    "sys",
     "syscoin",
-    "Syscoin"
+    "syscoin"
   ],
   "59": [
-    "BTCD",
+    "btcd",
     "bitcoindark",
-    "BitcoinDark"
+    "bitcoindark"
   ],
   "60": [
-    "FCT",
+    "fct",
     "factom",
-    "Factom"
+    "factom"
   ],
   "61": [
-    "SAN",
+    "san",
     "santiment",
-    "Santiment Network Token"
+    "santiment network token"
   ],
   "62": [
-    "AION",
     "aion",
-    "Aion"
+    "aion",
+    "aion"
   ],
   "63": [
-    "DGD",
+    "dgd",
     "digixdao",
-    "DigixDAO"
+    "digixdao"
   ],
   "64": [
-    "AE",
+    "ae",
     "aeternity",
-    "Aeternity"
+    "aeternity"
   ],
   "65": [
-    "POWR",
+    "powr",
     "power-ledger",
-    "Power Ledger"
+    "power ledger"
   ],
   "66": [
-    "KNC",
+    "knc",
     "kyber-network",
-    "Kyber Network"
+    "kyber network"
   ],
   "67": [
-    "DENT",
     "dent",
-    "Dent"
+    "dent",
+    "dent"
   ],
   "68": [
-    "VTC",
+    "vtc",
     "vertcoin",
-    "Vertcoin"
+    "vertcoin"
   ],
   "69": [
-    "QASH",
     "qash",
-    "QASH"
+    "qash",
+    "qash"
   ],
   "70": [
-    "CVC",
+    "cvc",
     "civic",
-    "Civic"
+    "civic"
   ],
   "71": [
-    "ZRX",
+    "zrx",
     "0x",
     "0x"
   ],
   "72": [
-    "GAME",
+    "game",
     "gamecredits",
-    "GameCredits"
+    "gamecredits"
   ],
   "73": [
-    "WTC",
+    "wtc",
     "walton",
-    "Walton"
+    "walton"
   ],
   "74": [
-    "GAS",
     "gas",
-    "Gas"
+    "gas",
+    "gas"
   ],
   "75": [
-    "SKY",
+    "sky",
     "skycoin",
-    "Skycoin"
+    "skycoin"
   ],
   "76": [
-    "FUN",
+    "fun",
     "funfair",
-    "FunFair"
+    "funfair"
   ],
   "77": [
-    "GNO",
+    "gno",
     "gnosis-gno",
-    "Gnosis"
+    "gnosis"
   ],
   "78": [
-    "SUB",
+    "sub",
     "substratum",
-    "Substratum"
+    "substratum"
   ],
   "79": [
-    "CNX",
+    "cnx",
     "cryptonex",
-    "Cryptonex"
+    "cryptonex"
   ],
   "80": [
-    "ICN",
+    "icn",
     "iconomi",
-    "Iconomi"
+    "iconomi"
   ],
   "81": [
-    "MCO",
+    "mco",
     "monaco",
-    "Monaco"
+    "monaco"
   ],
   "82": [
-    "DRGN",
+    "drgn",
     "dragonchain",
-    "Dragonchain"
+    "dragonchain"
   ],
   "83": [
-    "BAY",
+    "bay",
     "bitbay",
-    "BitBay"
+    "bitbay"
   ],
   "84": [
-    "GXS",
+    "gxs",
     "gxshares",
-    "GXShares"
+    "gxshares"
   ],
   "85": [
-    "REQ",
+    "req",
     "request-network",
-    "Request Network"
+    "request network"
   ],
   "86": [
-    "EMC2",
+    "emc2",
     "einsteinium",
-    "Einsteinium"
+    "einsteinium"
   ],
   "87": [
-    "BNT",
+    "bnt",
     "bancor",
-    "Bancor"
+    "bancor"
   ],
   "88": [
-    "DCN",
+    "dcn",
     "dentacoin",
-    "Dentacoin"
+    "dentacoin"
   ],
   "89": [
-    "RDN",
+    "rdn",
     "raiden-network-token",
-    "Raiden Network Token"
+    "raiden network token"
   ],
   "90": [
-    "RCN",
+    "rcn",
     "ripio-credit-network",
-    "Ripio Credit Network"
+    "ripio credit network"
   ],
   "91": [
-    "MANA",
+    "mana",
     "decentraland",
-    "Decentraland"
+    "decentraland"
   ],
   "92": [
-    "NXS",
+    "nxs",
     "nexus",
-    "Nexus"
+    "nexus"
   ],
   "93": [
-    "ETHOS",
     "ethos",
-    "Ethos"
+    "ethos",
+    "ethos"
   ],
   "94": [
-    "NAV",
+    "nav",
     "nav-coin",
-    "NAV Coin"
+    "nav coin"
   ],
   "95": [
-    "EDG",
+    "edg",
     "edgeless",
-    "Edgeless"
+    "edgeless"
   ],
   "96": [
-    "ADX",
+    "adx",
     "adx-net",
-    "AdEx"
+    "adex"
   ],
   "97": [
-    "UBQ",
+    "ubq",
     "ubiq",
-    "Ubiq"
+    "ubiq"
   ],
   "98": [
-    "ENG",
+    "eng",
     "enigma-project",
-    "Enigma"
+    "enigma"
   ],
   "99": [
-    "BLOCK",
+    "block",
     "blocknet",
-    "Blocknet"
+    "blocknet"
   ],
   "100": [
-    "LINK",
+    "link",
     "chainlink",
-    "ChainLink"
+    "chainlink"
   ],
   "101": [
-    "STORJ",
     "storj",
-    "Storj"
+    "storj",
+    "storj"
   ],
   "102": [
-    "AGRS",
+    "agrs",
     "agoras-tokens",
-    "Agoras Tokens"
+    "agoras tokens"
   ],
   "103": [
-    "MTL",
+    "mtl",
     "metal",
-    "Metal"
+    "metal"
   ],
   "104": [
-    "PPP",
+    "ppp",
     "paypie",
-    "PayPie"
+    "paypie"
   ],
   "105": [
-    "XDN",
+    "xdn",
     "digitalnote",
-    "DigitalNote"
+    "digitalnote"
   ],
   "106": [
-    "DATA",
+    "data",
     "streamr-datacoin",
-    "Streamr DATAcoin"
+    "streamr datacoin"
   ],
   "107": [
-    "PART",
+    "part",
     "particl",
-    "Particl"
+    "particl"
   ],
   "108": [
-    "CTR",
+    "ctr",
     "centra",
-    "Centra"
+    "centra"
   ],
   "109": [
-    "TNB",
+    "tnb",
     "time-new-bank",
-    "Time New Bank"
+    "time new bank"
   ],
   "110": [
-    "KCS",
+    "kcs",
     "kucoin-shares",
-    "KuCoin Shares"
+    "kucoin shares"
   ],
   "111": [
-    "SNGLS",
+    "sngls",
     "singulardtv",
-    "SingularDTV"
+    "singulardtv"
   ],
   "112": [
-    "GRS",
+    "grs",
     "groestlcoin",
-    "Groestlcoin"
+    "groestlcoin"
   ],
   "113": [
-    "XAS",
+    "xas",
     "asch",
-    "Asch"
+    "asch"
   ],
   "114": [
-    "EMC",
+    "emc",
     "emercoin",
-    "Emercoin"
+    "emercoin"
   ],
   "115": [
-    "INK",
     "ink",
-    "Ink"
+    "ink",
+    "ink"
   ],
   "116": [
-    "RISE",
     "rise",
-    "Rise"
+    "rise",
+    "rise"
   ],
   "117": [
-    "ANT",
+    "ant",
     "aragon",
-    "Aragon"
+    "aragon"
   ],
   "118": [
-    "ZEN",
+    "zen",
     "zencash",
-    "ZenCash"
+    "zencash"
   ],
   "119": [
-    "ETP",
+    "etp",
     "metaverse",
-    "Metaverse ETP"
+    "metaverse etp"
   ],
   "120": [
-    "PPC",
+    "ppc",
     "peercoin",
-    "Peercoin"
+    "peercoin"
   ],
   "121": [
-    "R",
+    "r",
     "revain",
-    "Revain"
+    "revain"
   ],
   "122": [
-    "VOX",
+    "vox",
     "voxels",
-    "Voxels"
+    "voxels"
   ],
   "123": [
-    "RHOC",
+    "rhoc",
     "rchain",
-    "RChain"
+    "rchain"
   ],
   "124": [
-    "QRL",
+    "qrl",
     "quantum-resistant-ledger",
-    "Quantum Resistant Ledger"
+    "quantum resistant ledger"
   ],
   "125": [
-    "WINGS",
     "wings",
-    "Wings"
+    "wings",
+    "wings"
   ],
   "126": [
-    "BURST",
     "burst",
-    "Burst"
+    "burst",
+    "burst"
   ],
   "127": [
-    "SNM",
+    "snm",
     "sonm",
-    "SONM"
+    "sonm"
   ],
   "128": [
-    "ACT",
+    "act",
     "achain",
-    "Achain"
+    "achain"
   ],
   "129": [
-    "CLOAK",
+    "cloak",
     "cloakcoin",
-    "CloakCoin"
+    "cloakcoin"
   ],
   "130": [
-    "ENJ",
+    "enj",
     "enjin-coin",
-    "Enjin Coin"
+    "enjin coin"
   ],
   "131": [
-    "SMART",
+    "smart",
     "smartcash",
-    "SmartCash"
+    "smartcash"
   ],
   "132": [
-    "QSP",
+    "qsp",
     "quantstamp",
-    "Quantstamp"
+    "quantstamp"
   ],
   "133": [
-    "WGR",
+    "wgr",
     "wagerr",
-    "Wagerr"
+    "wagerr"
   ],
   "134": [
-    "XBY",
+    "xby",
     "xtrabytes",
-    "XTRABYTES"
+    "xtrabytes"
   ],
   "135": [
-    "KIN",
     "kin",
-    "Kin"
+    "kin",
+    "kin"
   ],
   "136": [
-    "XPA",
+    "xpa",
     "xplay",
-    "XPlay"
+    "xplay"
   ],
   "137": [
-    "HMQ",
+    "hmq",
     "humaniq",
-    "Humaniq"
+    "humaniq"
   ],
   "138": [
-    "VIA",
+    "via",
     "viacoin",
-    "Viacoin"
+    "viacoin"
   ],
   "139": [
-    "PURA",
     "pura",
-    "Pura"
+    "pura",
+    "pura"
   ],
   "140": [
-    "TRIG",
+    "trig",
     "triggers",
-    "Triggers"
+    "triggers"
   ],
   "141": [
-    "MGO",
+    "mgo",
     "mobilego",
-    "MobileGo"
+    "mobilego"
   ],
   "142": [
-    "JINN",
     "jinn",
-    "Jinn"
+    "jinn",
+    "jinn"
   ],
   "143": [
-    "CFI",
+    "cfi",
     "cofound-it",
-    "Cofound.it"
+    "cofound.it"
   ],
   "144": [
-    "LBC",
+    "lbc",
     "library-credit",
-    "LBRY Credits"
+    "lbry credits"
   ],
   "145": [
-    "LRC",
+    "lrc",
     "loopring",
-    "Loopring"
+    "loopring"
   ],
   "146": [
-    "EDO",
+    "edo",
     "eidoo",
-    "Eidoo"
+    "eidoo"
   ],
   "147": [
-    "RPX",
+    "rpx",
     "red-pulse",
-    "Red Pulse"
+    "red pulse"
   ],
   "148": [
-    "XCP",
+    "xcp",
     "counterparty",
-    "Counterparty"
+    "counterparty"
   ],
   "149": [
-    "RLC",
     "rlc",
-    "iExec RLC"
+    "rlc",
+    "iexec rlc"
   ],
   "150": [
-    "WABI",
     "wabi",
-    "WaBi"
+    "wabi",
+    "wabi"
   ],
   "151": [
-    "1ST",
+    "1st",
     "firstblood",
-    "FirstBlood"
+    "firstblood"
   ],
   "152": [
-    "DPY",
+    "dpy",
     "delphy",
-    "Delphy"
+    "delphy"
   ],
   "153": [
-    "FTC",
+    "ftc",
     "feathercoin",
-    "Feathercoin"
+    "feathercoin"
   ],
   "154": [
-    "ATM",
+    "atm",
     "attention-token-of-media",
-    "ATMChain"
+    "atmchain"
   ],
   "155": [
-    "SLS",
+    "sls",
     "salus",
-    "SaluS"
+    "salus"
   ],
   "156": [
-    "PLR",
+    "plr",
     "pillar",
-    "Pillar"
+    "pillar"
   ],
   "157": [
-    "SHIFT",
     "shift",
-    "Shift"
+    "shift",
+    "shift"
   ],
   "158": [
-    "CND",
+    "cnd",
     "cindicator",
-    "Cindicator"
+    "cindicator"
   ],
   "159": [
-    "LEND",
+    "lend",
     "ethlend",
-    "ETHLend"
+    "ethlend"
   ],
   "160": [
-    "NEBL",
+    "nebl",
     "neblio",
-    "Neblio"
+    "neblio"
   ],
   "161": [
-    "SIB",
+    "sib",
     "sibcoin",
-    "SIBCoin"
+    "sibcoin"
   ],
   "162": [
-    "MLN",
+    "mln",
     "melon",
-    "Melon"
+    "melon"
   ],
   "163": [
-    "THC",
+    "thc",
     "hempcoin",
-    "HempCoin"
+    "hempcoin"
   ],
   "164": [
-    "XWC",
+    "xwc",
     "whitecoin",
-    "WhiteCoin"
+    "whitecoin"
   ],
   "165": [
-    "COB",
+    "cob",
     "cobinhood",
-    "Cobinhood"
+    "cobinhood"
   ],
   "166": [
-    "DNT",
+    "dnt",
     "district0x",
     "district0x"
   ],
   "167": [
-    "POT",
+    "pot",
     "potcoin",
-    "PotCoin"
+    "potcoin"
   ],
   "168": [
-    "VIB",
+    "vib",
     "viberate",
-    "Viberate"
+    "viberate"
   ],
   "169": [
-    "DCT",
+    "dct",
     "decent",
-    "DECENT"
+    "decent"
   ],
   "170": [
-    "MER",
+    "mer",
     "mercury",
-    "Mercury"
+    "mercury"
   ],
   "171": [
-    "PEPECASH",
+    "pepecash",
     "pepe-cash",
-    "Pepe Cash"
+    "pepe cash"
   ],
   "172": [
-    "POE",
+    "poe",
     "poet",
-    "Po.et"
+    "po.et"
   ],
   "173": [
-    "NLG",
+    "nlg",
     "gulden",
-    "Gulden"
+    "gulden"
   ],
   "174": [
-    "MNX",
+    "mnx",
     "minexcoin",
-    "MinexCoin"
+    "minexcoin"
   ],
   "175": [
-    "YOYOW",
     "yoyow",
-    "YOYOW"
+    "yoyow",
+    "yoyow"
   ],
   "176": [
-    "TNT",
+    "tnt",
     "tierion",
-    "Tierion"
+    "tierion"
   ],
   "177": [
-    "NMC",
+    "nmc",
     "namecoin",
-    "Namecoin"
+    "namecoin"
   ],
   "178": [
-    "STORM",
     "storm",
-    "Storm"
+    "storm",
+    "storm"
   ],
   "179": [
-    "LKK",
+    "lkk",
     "lykke",
-    "Lykke"
+    "lykke"
   ],
   "180": [
-    "MTH",
+    "mth",
     "monetha",
-    "Monetha"
+    "monetha"
   ],
   "181": [
-    "ION",
     "ion",
-    "ION"
+    "ion",
+    "ion"
   ],
   "182": [
-    "AST",
+    "ast",
     "airswap",
-    "AirSwap"
+    "airswap"
   ],
   "183": [
-    "MOD",
+    "mod",
     "modum",
-    "Modum"
+    "modum"
   ],
   "184": [
-    "VEE",
+    "vee",
     "blockv",
-    "BLOCKv"
+    "blockv"
   ],
   "185": [
-    "FAIR",
+    "fair",
     "faircoin",
-    "FairCoin"
+    "faircoin"
   ],
   "186": [
-    "XEL",
+    "xel",
     "elastic",
-    "Elastic"
+    "elastic"
   ],
   "187": [
-    "AEON",
     "aeon",
-    "Aeon"
+    "aeon",
+    "aeon"
   ],
   "188": [
-    "XP",
     "xp",
-    "Experience Points"
+    "xp",
+    "experience points"
   ],
   "189": [
-    "CRW",
+    "crw",
     "crown",
-    "Crown"
+    "crown"
   ],
   "190": [
-    "CDT",
+    "cdt",
     "coindash",
-    "CoinDash"
+    "coindash"
   ],
   "191": [
-    "AMB",
+    "amb",
     "amber",
-    "Ambrosus"
+    "ambrosus"
   ],
   "192": [
-    "MUE",
+    "mue",
     "monetaryunit",
-    "MonetaryUnit"
+    "monetaryunit"
   ],
   "193": [
-    "EXP",
+    "exp",
     "expanse",
-    "Expanse"
+    "expanse"
   ],
   "194": [
-    "IOC",
+    "ioc",
     "iocoin",
-    "I/O Coin"
+    "i/o coin"
   ],
   "195": [
-    "AMP",
+    "amp",
     "synereo",
-    "Synereo"
+    "synereo"
   ],
   "196": [
-    "BITCNY",
     "bitcny",
-    "bitCNY"
+    "bitcny",
+    "bitcny"
   ],
   "197": [
-    "TAAS",
     "taas",
-    "TaaS"
+    "taas",
+    "taas"
   ],
   "198": [
-    "BLK",
+    "blk",
     "blackcoin",
-    "BlackCoin"
+    "blackcoin"
   ],
   "199": [
-    "GUP",
+    "gup",
     "guppy",
-    "Matchpool"
+    "matchpool"
   ],
   "200": [
-    "DMD",
+    "dmd",
     "diamond",
-    "Diamond"
+    "diamond"
   ],
   "201": [
-    "TRST",
+    "trst",
     "trust",
-    "WeTrust"
+    "wetrust"
   ],
   "202": [
-    "FUEL",
+    "fuel",
     "etherparty",
-    "Etherparty"
+    "etherparty"
   ],
   "203": [
-    "OST",
+    "ost",
     "simple-token",
-    "Simple Token"
+    "simple token"
   ],
   "204": [
-    "TIX",
+    "tix",
     "blocktix",
-    "Blocktix"
+    "blocktix"
   ],
   "205": [
-    "BCO",
+    "bco",
     "bridgecoin",
-    "BridgeCoin"
+    "bridgecoin"
   ],
   "206": [
-    "OMNI",
     "omni",
-    "Omni"
+    "omni",
+    "omni"
   ],
   "207": [
-    "BOT",
+    "bot",
     "bodhi",
-    "Bodhi"
+    "bodhi"
   ],
   "208": [
-    "HST",
+    "hst",
     "decision-token",
-    "Decision Token"
+    "decision token"
   ],
   "209": [
-    "SPANK",
+    "spank",
     "spankchain",
-    "SpankChain"
+    "spankchain"
   ],
   "210": [
-    "UKG",
+    "ukg",
     "unikoin-gold",
-    "Unikoin Gold"
+    "unikoin gold"
   ],
   "211": [
-    "NMR",
+    "nmr",
     "numeraire",
-    "Numeraire"
+    "numeraire"
   ],
   "212": [
-    "PTOY",
+    "ptoy",
     "patientory",
-    "Patientory"
+    "patientory"
   ],
   "213": [
-    "PHR",
+    "phr",
     "phore",
-    "Phore"
+    "phore"
   ],
   "214": [
-    "OK",
+    "ok",
     "okcash",
-    "OKCash"
+    "okcash"
   ],
   "215": [
-    "GRC",
+    "grc",
     "gridcoin",
-    "GridCoin"
+    "gridcoin"
   ],
   "216": [
-    "MYST",
+    "myst",
     "mysterium",
-    "Mysterium"
+    "mysterium"
   ],
   "217": [
-    "XSH",
+    "xsh",
     "shield-xsh",
-    "SHIELD"
+    "shield"
   ],
   "218": [
-    "MDA",
+    "mda",
     "moeda-loyalty-points",
-    "Moeda Loyalty Points"
+    "moeda loyalty points"
   ],
   "219": [
-    "PPY",
+    "ppy",
     "peerplays-ppy",
-    "Peerplays"
+    "peerplays"
   ],
   "220": [
-    "SBD",
+    "sbd",
     "steem-dollars",
-    "Steem Dollars"
+    "steem dollars"
   ],
   "221": [
-    "PRG",
+    "prg",
     "paragon",
-    "Paragon"
+    "paragon"
   ],
   "222": [
-    "GOLOS",
     "golos",
-    "Golos"
+    "golos",
+    "golos"
   ],
   "223": [
-    "NULS",
     "nuls",
-    "Nuls"
+    "nuls",
+    "nuls"
   ],
   "224": [
-    "OTN",
+    "otn",
     "open-trading-network",
-    "Open Trading Network"
+    "open trading network"
   ],
   "225": [
-    "DLT",
+    "dlt",
     "agrello-delta",
-    "Agrello"
+    "agrello"
   ],
   "226": [
-    "RADS",
+    "rads",
     "radium",
-    "Radium"
+    "radium"
   ],
   "227": [
-    "PRE",
+    "pre",
     "presearch",
-    "Presearch"
+    "presearch"
   ],
   "228": [
-    "GRID",
     "grid",
-    "Grid+"
+    "grid",
+    "grid+"
   ],
   "229": [
-    "WCT",
+    "wct",
     "waves-community-token",
-    "Waves Community Token"
+    "waves community token"
   ],
   "230": [
-    "PAYX",
+    "payx",
     "paypex",
-    "Paypex"
+    "paypex"
   ],
   "231": [
-    "ZSC",
+    "zsc",
     "zeusshield",
-    "Zeusshield"
+    "zeusshield"
   ],
   "232": [
-    "ADT",
+    "adt",
     "adtoken",
-    "adToken"
+    "adtoken"
   ],
   "233": [
-    "TIPS",
+    "tips",
     "fedoracoin",
-    "FedoraCoin"
+    "fedoracoin"
   ],
   "234": [
-    "XSPEC",
+    "xspec",
     "spectrecoin",
-    "Spectrecoin"
+    "spectrecoin"
   ],
   "235": [
-    "BITB",
+    "bitb",
     "bitbean",
-    "BitBean"
+    "bitbean"
   ],
   "236": [
-    "BTX",
+    "btx",
     "bitcore",
-    "Bitcore"
+    "bitcore"
   ],
   "237": [
-    "HEAT",
+    "heat",
     "heat-ledger",
-    "HEAT"
+    "heat"
   ],
   "238": [
-    "SWT",
+    "swt",
     "swarm-city",
-    "Swarm City"
+    "swarm city"
   ],
   "239": [
-    "NLC2",
+    "nlc2",
     "nolimitcoin",
-    "NoLimitCoin"
+    "nolimitcoin"
   ],
   "240": [
-    "EVX",
+    "evx",
     "everex",
-    "Everex"
+    "everex"
   ],
   "241": [
-    "RBY",
+    "rby",
     "rubycoin",
-    "Rubycoin"
+    "rubycoin"
   ],
   "242": [
-    "MOON",
+    "moon",
     "mooncoin",
-    "Mooncoin"
+    "mooncoin"
   ],
   "243": [
-    "RMC",
+    "rmc",
     "russian-mining-coin",
-    "Russian Miner Coin"
+    "russian miner coin"
   ],
   "244": [
-    "PST",
+    "pst",
     "primas",
-    "Primas"
+    "primas"
   ],
   "245": [
-    "QAU",
+    "qau",
     "quantum",
-    "Quantum"
+    "quantum"
   ],
   "246": [
-    "FLDC",
+    "fldc",
     "foldingcoin",
-    "FoldingCoin"
+    "foldingcoin"
   ],
   "247": [
-    "BCAP",
     "bcap",
-    "BCAP"
+    "bcap",
+    "bcap"
   ],
   "248": [
-    "XMY",
+    "xmy",
     "myriad",
-    "Myriad"
+    "myriad"
   ],
   "249": [
-    "HVN",
+    "hvn",
     "hive",
-    "Hive"
+    "hive"
   ],
   "250": [
-    "CSNO",
+    "csno",
     "bitdice",
-    "BitDice"
+    "bitdice"
   ],
   "251": [
-    "PASC",
+    "pasc",
     "pascal-coin",
-    "Pascal Coin"
+    "pascal coin"
   ],
   "252": [
-    "FLO",
+    "flo",
     "florincoin",
-    "FlorinCoin"
+    "florincoin"
   ],
   "253": [
-    "GVT",
+    "gvt",
     "genesis-vision",
-    "Genesis Vision"
+    "genesis vision"
   ],
   "254": [
-    "VRC",
+    "vrc",
     "vericoin",
-    "VeriCoin"
+    "vericoin"
   ],
   "255": [
-    "NET",
+    "net",
     "nimiq",
-    "Nimiq"
+    "nimiq"
   ],
   "256": [
-    "NEOS",
+    "neos",
     "neoscoin",
-    "NeosCoin"
+    "neoscoin"
   ],
   "257": [
-    "FRST",
+    "frst",
     "firstcoin",
-    "FirstCoin"
+    "firstcoin"
   ],
   "258": [
-    "ZCL",
+    "zcl",
     "zclassic",
-    "ZClassic"
+    "zclassic"
   ],
   "259": [
-    "GAM",
+    "gam",
     "gambit",
-    "Gambit"
+    "gambit"
   ],
   "260": [
-    "STX",
+    "stx",
     "stox",
-    "Stox"
+    "stox"
   ],
   "261": [
-    "LUN",
+    "lun",
     "lunyr",
-    "Lunyr"
+    "lunyr"
   ],
   "262": [
-    "OCT",
+    "oct",
     "oraclechain",
-    "OracleChain"
+    "oraclechain"
   ],
   "263": [
-    "CLAM",
+    "clam",
     "clams",
-    "Clams"
+    "clams"
   ],
   "264": [
-    "AVT",
+    "avt",
     "aventus",
-    "Aventus"
+    "aventus"
   ],
   "265": [
-    "DTB",
+    "dtb",
     "databits",
-    "Databits"
+    "databits"
   ],
   "266": [
-    "MSP",
+    "msp",
     "mothership",
-    "Mothership"
+    "mothership"
   ],
   "267": [
-    "XST",
+    "xst",
     "stealthcoin",
-    "Stealthcoin"
+    "stealthcoin"
   ],
   "268": [
-    "GCR",
+    "gcr",
     "global-currency-reserve",
-    "Global Currency Reserve"
+    "global currency reserve"
   ],
   "269": [
-    "VIBE",
     "vibe",
-    "VIBE"
+    "vibe",
+    "vibe"
   ],
   "270": [
-    "DRT",
+    "drt",
     "domraider",
-    "DomRaider"
+    "domraider"
   ],
   "271": [
-    "BMC",
+    "bmc",
     "blackmoon-crypto",
-    "Blackmoon Crypto"
+    "blackmoon crypto"
   ],
   "272": [
-    "TKN",
+    "tkn",
     "tokencard",
-    "TokenCard"
+    "tokencard"
   ],
   "273": [
-    "SNC",
+    "snc",
     "suncontract",
-    "SunContract"
+    "suncontract"
   ],
   "274": [
-    "LMC",
+    "lmc",
     "lomocoin",
-    "LoMoCoin"
+    "lomocoin"
   ],
   "275": [
-    "SOAR",
+    "soar",
     "soarcoin",
-    "Soarcoin"
+    "soarcoin"
   ],
   "276": [
-    "NXC",
+    "nxc",
     "nexium",
-    "Nexium"
+    "nexium"
   ],
   "277": [
-    "XRL",
+    "xrl",
     "rialto",
-    "Rialto"
+    "rialto"
   ],
   "278": [
-    "COVAL",
+    "coval",
     "circuits-of-value",
-    "Circuits of Value"
+    "circuits of value"
   ],
   "279": [
-    "ECC",
+    "ecc",
     "eccoin",
-    "ECC"
+    "ecc"
   ],
   "280": [
-    "BSD",
+    "bsd",
     "bitsend",
-    "BitSend"
+    "bitsend"
   ],
   "281": [
-    "REC",
+    "rec",
     "regalcoin",
-    "Regalcoin"
+    "regalcoin"
   ],
   "282": [
-    "LEO",
+    "leo",
     "leocoin",
-    "LEOcoin"
+    "leocoin"
   ],
   "283": [
-    "ALIS",
     "alis",
-    "ALIS"
+    "alis",
+    "alis"
   ],
   "284": [
-    "IOP",
+    "iop",
     "internet-of-people",
-    "Internet of People"
+    "internet of people"
   ],
   "285": [
-    "OBITS",
     "obits",
-    "OBITS"
+    "obits",
+    "obits"
   ],
   "286": [
-    "TX",
+    "tx",
     "transfercoin",
-    "TransferCoin"
+    "transfercoin"
   ],
   "287": [
-    "PRL",
+    "prl",
     "oyster-pearl",
-    "Oyster Pearl"
+    "oyster pearl"
   ],
   "288": [
-    "ONION",
+    "onion",
     "deeponion",
-    "DeepOnion"
+    "deeponion"
   ],
   "289": [
-    "CREDO",
     "credo",
-    "Credo"
+    "credo",
+    "credo"
   ],
   "290": [
-    "DIME",
+    "dime",
     "dimecoin",
-    "Dimecoin"
+    "dimecoin"
   ],
   "291": [
-    "BITUSD",
     "bitusd",
-    "bitUSD"
+    "bitusd",
+    "bitusd"
   ],
   "292": [
-    "PLBT",
+    "plbt",
     "polybius",
-    "Polybius"
+    "polybius"
   ],
   "293": [
-    "CV2",
+    "cv2",
     "colossuscoin-v2",
-    "Colossuscoin V2"
+    "colossuscoin v2"
   ],
   "294": [
-    "XAUR",
+    "xaur",
     "xaurum",
-    "Xaurum"
+    "xaurum"
   ],
   "295": [
-    "BBR",
+    "bbr",
     "boolberry",
-    "Boolberry"
+    "boolberry"
   ],
   "296": [
-    "SLR",
+    "slr",
     "solarcoin",
-    "SolarCoin"
+    "solarcoin"
   ],
   "297": [
-    "MUSIC",
+    "music",
     "musicoin",
-    "Musicoin"
+    "musicoin"
   ],
   "298": [
-    "IXT",
+    "ixt",
     "ixledger",
-    "iXledger"
+    "ixledger"
   ],
   "299": [
-    "NYC",
+    "nyc",
     "newyorkcoin",
-    "NewYorkCoin"
+    "newyorkcoin"
   ],
   "300": [
-    "PINK",
+    "pink",
     "pinkcoin",
-    "PinkCoin"
+    "pinkcoin"
   ],
   "301": [
-    "ATB",
+    "atb",
     "atbcoin",
-    "ATBCoin"
+    "atbcoin"
   ],
   "302": [
-    "RVT",
+    "rvt",
     "rivetz",
-    "Rivetz"
+    "rivetz"
   ],
   "303": [
-    "INCNT",
+    "incnt",
     "incent",
-    "Incent"
+    "incent"
   ],
   "304": [
-    "CAG",
+    "cag",
     "change",
-    "Change"
+    "change"
   ],
   "305": [
-    "DICE",
+    "dice",
     "etheroll",
-    "Etheroll"
+    "etheroll"
   ],
   "306": [
-    "XUC",
+    "xuc",
     "exchange-union",
-    "Exchange Union"
+    "exchange union"
   ],
   "307": [
-    "NSR",
+    "nsr",
     "nushares",
-    "NuShares"
+    "nushares"
   ],
   "308": [
-    "XVC",
+    "xvc",
     "vcash",
-    "Vcash"
+    "vcash"
   ],
   "309": [
-    "ABY",
+    "aby",
     "artbyte",
-    "ArtByte"
+    "artbyte"
   ],
   "310": [
-    "ENRG",
+    "enrg",
     "energycoin",
-    "Energycoin"
+    "energycoin"
   ],
   "311": [
-    "HTML5",
+    "html5",
     "htmlcoin",
-    "HTMLCOIN"
+    "htmlcoin"
   ],
   "312": [
-    "AIR",
+    "air",
     "airtoken",
-    "AirToken"
+    "airtoken"
   ],
   "313": [
-    "OAX",
     "oax",
-    "OAX"
+    "oax",
+    "oax"
   ],
   "314": [
-    "DBET",
+    "dbet",
     "decent-bet",
-    "DecentBet"
+    "decentbet"
   ],
   "315": [
-    "UNO",
+    "uno",
     "unobtanium",
-    "Unobtanium"
+    "unobtanium"
   ],
   "316": [
-    "ZNY",
+    "zny",
     "bitzeny",
-    "Bitzeny"
+    "bitzeny"
   ],
   "317": [
-    "BIS",
+    "bis",
     "bismuth",
-    "Bismuth"
+    "bismuth"
   ],
   "318": [
-    "SPHR",
+    "sphr",
     "sphere",
-    "Sphere"
+    "sphere"
   ],
   "319": [
-    "BQ",
+    "bq",
     "bitqy",
     "bitqy"
   ],
   "320": [
-    "BCY",
+    "bcy",
     "bitcrystals",
-    "Bitcrystals"
+    "bitcrystals"
   ],
   "321": [
-    "OXY",
+    "oxy",
     "oxycoin",
-    "Oxycoin"
+    "oxycoin"
   ],
   "322": [
-    "ICOS",
     "icos",
-    "ICOS"
+    "icos",
+    "icos"
   ],
   "323": [
-    "TCC",
+    "tcc",
     "the-champcoin",
-    "The ChampCoin"
+    "the champcoin"
   ],
   "324": [
-    "DNA",
+    "dna",
     "encrypgen",
-    "EncrypGen"
+    "encrypgen"
   ],
   "325": [
-    "KICK",
+    "kick",
     "kickico",
-    "KickCoin"
+    "kickcoin"
   ],
   "326": [
-    "SEQ",
+    "seq",
     "sequence",
-    "Sequence"
+    "sequence"
   ],
   "327": [
-    "POSW",
+    "posw",
     "posw-coin",
-    "PoSW Coin"
+    "posw coin"
   ],
   "328": [
-    "BLUE",
+    "blue",
     "ethereum-blue",
-    "BLUE"
+    "blue"
   ],
   "329": [
-    "CURE",
+    "cure",
     "curecoin",
-    "Curecoin"
+    "curecoin"
   ],
   "330": [
-    "CAT",
+    "cat",
     "blockcat",
-    "BlockCAT"
+    "blockcat"
   ],
   "331": [
-    "COSS",
     "coss",
-    "COSS"
+    "coss",
+    "coss"
   ],
   "332": [
-    "ART",
+    "art",
     "maecenas",
-    "Maecenas"
+    "maecenas"
   ],
   "333": [
-    "TIME",
+    "time",
     "chronobank",
-    "Chronobank"
+    "chronobank"
   ],
   "334": [
-    "BTM",
+    "btm",
     "bitmark",
-    "Bitmark"
+    "bitmark"
   ],
   "335": [
-    "XTO",
+    "xto",
     "tao",
-    "Tao"
+    "tao"
   ],
   "336": [
-    "XPM",
+    "xpm",
     "primecoin",
-    "Primecoin"
+    "primecoin"
   ],
   "337": [
-    "ECOB",
+    "ecob",
     "ecobit",
-    "Ecobit"
+    "ecobit"
   ],
   "338": [
-    "MEME",
+    "meme",
     "memetic",
-    "Memetic / PepeCoin"
+    "memetic / pepecoin"
   ],
   "339": [
-    "XNN",
+    "xnn",
     "xenon",
-    "Xenon"
+    "xenon"
   ],
   "340": [
-    "BLITZ",
+    "blitz",
     "blitzcash",
-    "Blitzcash"
+    "blitzcash"
   ],
   "341": [
-    "BCPT",
+    "bcpt",
     "blockmason",
-    "BlockMason Credit Protocol"
+    "blockmason credit protocol"
   ],
   "342": [
-    "NVST",
+    "nvst",
     "nvo",
-    "NVO"
+    "nvo"
   ],
   "343": [
-    "ELIX",
+    "elix",
     "elixir",
-    "Elixir"
+    "elixir"
   ],
   "344": [
-    "LA",
+    "la",
     "latoken",
-    "LAToken"
+    "latoken"
   ],
   "345": [
-    "IFT",
+    "ift",
     "investfeed",
-    "InvestFeed"
+    "investfeed"
   ],
   "346": [
-    "ATMS",
+    "atms",
     "atmos",
-    "Atmos"
+    "atmos"
   ],
   "347": [
-    "EXCL",
+    "excl",
     "exclusivecoin",
-    "ExclusiveCoin"
+    "exclusivecoin"
   ],
   "348": [
-    "ODN",
+    "odn",
     "obsidian",
-    "Obsidian"
+    "obsidian"
   ],
   "349": [
-    "NVC",
+    "nvc",
     "novacoin",
-    "Novacoin"
+    "novacoin"
   ],
   "350": [
-    "PRO",
+    "pro",
     "propy",
-    "Propy"
+    "propy"
   ],
   "351": [
-    "KORE",
+    "kore",
     "korecoin",
-    "Kore"
+    "kore"
   ],
   "352": [
-    "POLL",
+    "poll",
     "clearpoll",
-    "ClearPoll"
+    "clearpoll"
   ],
   "353": [
-    "AUR",
+    "aur",
     "auroracoin",
-    "Auroracoin"
+    "auroracoin"
   ],
   "354": [
-    "BET",
+    "bet",
     "dao-casino",
-    "DAO.Casino"
+    "dao.casino"
   ],
   "355": [
-    "TGT",
+    "tgt",
     "target-coin",
-    "Target Coin"
+    "target coin"
   ],
   "356": [
-    "ESP",
+    "esp",
     "espers",
-    "Espers"
+    "espers"
   ],
   "357": [
-    "SYNX",
+    "synx",
     "syndicate",
-    "Syndicate"
+    "syndicate"
   ],
   "358": [
-    "PLU",
+    "plu",
     "pluton",
-    "Pluton"
+    "pluton"
   ],
   "359": [
-    "XLR",
+    "xlr",
     "solaris",
-    "Solaris"
+    "solaris"
   ],
   "360": [
-    "SSS",
+    "sss",
     "sharechain",
-    "Sharechain"
+    "sharechain"
   ],
   "361": [
-    "QWARK",
     "qwark",
-    "Qwark"
+    "qwark",
+    "qwark"
   ],
   "362": [
-    "DOPE",
+    "dope",
     "dopecoin",
-    "DopeCoin"
+    "dopecoin"
   ],
   "363": [
-    "MINT",
+    "mint",
     "mintcoin",
-    "Mintcoin"
+    "mintcoin"
   ],
   "364": [
-    "NTRN",
+    "ntrn",
     "neutron",
-    "Neutron"
+    "neutron"
   ],
   "365": [
-    "SXC",
+    "sxc",
     "sexcoin",
-    "Sexcoin"
+    "sexcoin"
   ],
   "366": [
-    "B2B",
+    "b2b",
     "b2bx",
-    "B2B"
+    "b2b"
   ],
   "367": [
-    "PIX",
+    "pix",
     "lampix",
-    "Lampix"
+    "lampix"
   ],
   "368": [
-    "EAC",
+    "eac",
     "earthcoin",
-    "EarthCoin"
+    "earthcoin"
   ],
   "369": [
-    "MTNC",
+    "mtnc",
     "masternodecoin",
-    "Masternodecoin"
+    "masternodecoin"
   ],
   "370": [
-    "XBC",
+    "xbc",
     "bitcoin-plus",
-    "Bitcoin Plus"
+    "bitcoin plus"
   ],
   "371": [
-    "ASTRO",
     "astro",
-    "Astro"
+    "astro",
+    "astro"
   ],
   "372": [
-    "CRB",
+    "crb",
     "creditbit",
-    "Creditbit"
+    "creditbit"
   ],
   "373": [
-    "PAC",
+    "pac",
     "paccoin",
-    "Paccoin"
+    "paccoin"
   ],
   "374": [
-    "INXT",
+    "inxt",
     "internxt",
-    "Internxt"
+    "internxt"
   ],
   "375": [
-    "SPR",
+    "spr",
     "spreadcoin",
-    "SpreadCoin"
+    "spreadcoin"
   ],
   "376": [
-    "EDR",
+    "edr",
     "e-dinar-coin",
-    "E-Dinar Coin"
+    "e-dinar coin"
   ],
   "377": [
-    "PTC",
+    "ptc",
     "pesetacoin",
-    "Pesetacoin"
+    "pesetacoin"
   ],
   "378": [
-    "APX",
     "apx",
-    "APX"
+    "apx",
+    "apx"
   ],
   "379": [
-    "GLD",
+    "gld",
     "goldcoin",
-    "GoldCoin"
+    "goldcoin"
   ],
   "380": [
-    "BPL",
+    "bpl",
     "blockpool",
-    "Blockpool"
+    "blockpool"
   ],
   "381": [
-    "BELA",
+    "bela",
     "belacoin",
-    "Bela"
+    "bela"
   ],
   "382": [
-    "HGT",
+    "hgt",
     "hellogold",
-    "HelloGold"
+    "hellogold"
   ],
   "383": [
-    "MYB",
+    "myb",
     "mybit-token",
-    "MyBit Token"
+    "mybit token"
   ],
   "384": [
-    "DYN",
+    "dyn",
     "dynamic",
-    "Dynamic"
+    "dynamic"
   ],
   "385": [
-    "MXT",
+    "mxt",
     "martexcoin",
-    "MarteXcoin"
+    "martexcoin"
   ],
   "386": [
-    "ARN",
+    "arn",
     "aeron",
-    "Aeron"
+    "aeron"
   ],
   "387": [
-    "UNIT",
+    "unit",
     "universal-currency",
-    "Universal Currency"
+    "universal currency"
   ],
   "388": [
-    "COLX",
+    "colx",
     "colossuscoinxt",
-    "ColossusCoinXT"
+    "colossuscoinxt"
   ],
   "389": [
-    "ZEPH",
+    "zeph",
     "zephyr",
-    "Zephyr"
+    "zephyr"
   ],
   "390": [
-    "DBIX",
+    "dbix",
     "dubaicoin-dbix",
-    "DubaiCoin"
+    "dubaicoin"
   ],
   "391": [
-    "CREA",
+    "crea",
     "creativecoin",
-    "Creativecoin"
+    "creativecoin"
   ],
   "392": [
-    "2GIVE",
     "2give",
-    "2GIVE"
+    "2give",
+    "2give"
   ],
   "393": [
-    "ECA",
+    "eca",
     "electra",
-    "Electra"
+    "electra"
   ],
   "394": [
-    "PDC",
+    "pdc",
     "project-decorum",
-    "Project Decorum"
+    "project decorum"
   ],
   "395": [
-    "SNRG",
+    "snrg",
     "synergy",
-    "Synergy"
+    "synergy"
   ],
   "396": [
-    "TFL",
+    "tfl",
     "trueflip",
-    "TrueFlip"
+    "trueflip"
   ],
   "397": [
-    "PGL",
+    "pgl",
     "prospectors-gold",
-    "Prospectors Gold"
+    "prospectors gold"
   ],
   "398": [
-    "LOC",
+    "loc",
     "lockchain",
-    "LockChain"
+    "lockchain"
   ],
   "399": [
-    "PZM",
+    "pzm",
     "prizm",
-    "PRIZM"
+    "prizm"
   ],
   "400": [
-    "RIC",
+    "ric",
     "riecoin",
-    "Riecoin"
+    "riecoin"
   ],
   "401": [
-    "ETT",
+    "ett",
     "encryptotel",
-    "EncryptoTel [WAVES]"
+    "encryptotel [waves]"
   ],
   "402": [
-    "VRM",
+    "vrm",
     "veriumreserve",
-    "VeriumReserve"
+    "veriumreserve"
   ],
   "403": [
-    "FYP",
+    "fyp",
     "flypme",
-    "FlypMe"
+    "flypme"
   ],
   "404": [
-    "BRK",
+    "brk",
     "breakout",
-    "Breakout"
+    "breakout"
   ],
   "405": [
-    "BON",
+    "bon",
     "bonpay",
-    "Bonpay"
+    "bonpay"
   ],
   "406": [
-    "ERC",
+    "erc",
     "europecoin",
-    "EuropeCoin"
+    "europecoin"
   ],
   "407": [
-    "ZOI",
+    "zoi",
     "zoin",
-    "Zoin"
+    "zoin"
   ],
   "408": [
-    "CVCOIN",
     "cvcoin",
-    "CVCoin"
+    "cvcoin",
+    "cvcoin"
   ],
   "409": [
-    "START",
+    "start",
     "startcoin",
-    "Startcoin"
+    "startcoin"
   ],
   "410": [
-    "TOA",
+    "toa",
     "toacoin",
-    "ToaCoin"
+    "toacoin"
   ],
   "411": [
-    "BRX",
+    "brx",
     "breakout-stake",
-    "Breakout Stake"
+    "breakout stake"
   ],
   "412": [
-    "BTDX",
+    "btdx",
     "bitcloud",
-    "Bitcloud"
+    "bitcloud"
   ],
   "413": [
-    "FRD",
+    "frd",
     "farad",
-    "Farad"
+    "farad"
   ],
   "414": [
-    "SWIFT",
+    "swift",
     "bitswift",
-    "Bitswift"
+    "bitswift"
   ],
   "415": [
-    "UNB",
+    "unb",
     "unbreakablecoin",
-    "UnbreakableCoin"
+    "unbreakablecoin"
   ],
   "416": [
-    "PBL",
+    "pbl",
     "publica",
-    "Publica"
+    "publica"
   ],
   "417": [
-    "CHIPS",
     "chips",
-    "CHIPS"
+    "chips",
+    "chips"
   ],
   "418": [
-    "BLU",
+    "blu",
     "bluecoin",
-    "BlueCoin"
+    "bluecoin"
   ],
   "419": [
-    "DOVU",
     "dovu",
-    "Dovu"
+    "dovu",
+    "dovu"
   ],
   "420": [
-    "PBT",
+    "pbt",
     "primalbase",
-    "Primalbase Token"
+    "primalbase token"
   ],
   "421": [
-    "HDG",
+    "hdg",
     "hedge",
-    "Hedge"
+    "hedge"
   ],
   "422": [
-    "TRUST",
+    "trust",
     "trustplus",
-    "TrustPlus"
+    "trustplus"
   ],
   "423": [
-    "EBTC",
+    "ebtc",
     "ebtcnew",
-    "eBitcoin"
+    "ebitcoin"
   ],
   "424": [
-    "VSL",
+    "vsl",
     "vslice",
-    "vSlice"
+    "vslice"
   ],
   "425": [
-    "DAR",
+    "dar",
     "darcrus",
-    "Darcrus"
+    "darcrus"
   ],
   "426": [
-    "PIRL",
     "pirl",
-    "Pirl"
+    "pirl",
+    "pirl"
   ],
   "427": [
-    "GEO",
+    "geo",
     "geocoin",
-    "GeoCoin"
+    "geocoin"
   ],
   "428": [
-    "SPF",
+    "spf",
     "sportyfi",
-    "SportyFi"
+    "sportyfi"
   ],
   "429": [
-    "DIVX",
+    "divx",
     "divi",
-    "Divi"
+    "divi"
   ],
   "430": [
-    "ALQO",
     "alqo",
-    "ALQO"
+    "alqo",
+    "alqo"
   ],
   "431": [
-    "MCAP",
     "mcap",
-    "MCAP"
+    "mcap",
+    "mcap"
   ],
   "432": [
-    "GBX",
+    "gbx",
     "gobyte",
-    "GoByte"
+    "gobyte"
   ],
   "433": [
-    "DRP",
+    "drp",
     "dcorp",
-    "DCORP"
+    "dcorp"
   ],
   "434": [
-    "FLIXX",
+    "flixx",
     "flixxo",
-    "Flixxo"
+    "flixxo"
   ],
   "435": [
-    "HUSH",
     "hush",
-    "Hush"
+    "hush",
+    "hush"
   ],
   "436": [
-    "EGC",
+    "egc",
     "evergreencoin",
-    "EverGreenCoin"
+    "evergreencoin"
   ],
   "437": [
-    "CANN",
+    "cann",
     "cannabiscoin",
-    "CannabisCoin"
+    "cannabiscoin"
   ],
   "438": [
-    "IND",
+    "ind",
     "indorse-token",
-    "Indorse Token"
+    "indorse token"
   ],
   "439": [
-    "CHC",
+    "chc",
     "chaincoin",
-    "ChainCoin"
+    "chaincoin"
   ],
   "440": [
-    "VTR",
+    "vtr",
     "vtorrent",
-    "vTorrent"
+    "vtorrent"
   ],
   "441": [
-    "VOISE",
+    "voise",
     "voisecom",
-    "Voise"
+    "voise"
   ],
   "442": [
-    "YOC",
+    "yoc",
     "yocoin",
-    "Yocoin"
+    "yocoin"
   ],
   "443": [
-    "GCC",
+    "gcc",
     "thegcccoin",
-    "TheGCCcoin"
+    "thegcccoin"
   ],
   "444": [
-    "PUT",
+    "put",
     "putincoin",
-    "PutinCoin"
+    "putincoin"
   ],
   "445": [
-    "KRB",
+    "krb",
     "karbowanec",
-    "Karbo"
+    "karbo"
   ],
   "446": [
-    "XMG",
+    "xmg",
     "magi",
-    "Magi"
+    "magi"
   ],
   "447": [
-    "HYP",
+    "hyp",
     "hyperstake",
-    "HyperStake"
+    "hyperstake"
   ],
   "448": [
-    "TZC",
+    "tzc",
     "trezarcoin",
-    "TrezarCoin"
+    "trezarcoin"
   ],
   "449": [
-    "ADST",
+    "adst",
     "adshares",
-    "AdShares"
+    "adshares"
   ],
   "450": [
-    "HUC",
+    "huc",
     "huntercoin",
-    "HunterCoin"
+    "huntercoin"
   ],
   "451": [
-    "GMT",
+    "gmt",
     "mercury-protocol",
-    "Mercury Protocol"
+    "mercury protocol"
   ],
   "452": [
-    "PKB",
+    "pkb",
     "parkbyte",
-    "ParkByte"
+    "parkbyte"
   ],
   "453": [
-    "BWK",
+    "bwk",
     "bulwark",
-    "Bulwark"
+    "bulwark"
   ],
   "454": [
-    "BDL",
+    "bdl",
     "bitdeal",
-    "Bitdeal"
+    "bitdeal"
   ],
   "455": [
-    "GRE",
+    "gre",
     "greencoin",
-    "Greencoin"
+    "greencoin"
   ],
   "456": [
     "1337",
@@ -2280,454 +2280,454 @@
     "1337"
   ],
   "457": [
-    "ITNS",
+    "itns",
     "intensecoin",
-    "IntenseCoin"
+    "intensecoin"
   ],
   "458": [
-    "LIFE",
     "life",
-    "LIFE"
+    "life",
+    "life"
   ],
   "459": [
-    "WISH",
+    "wish",
     "mywish",
-    "MyWish"
+    "mywish"
   ],
   "460": [
-    "ZRC",
+    "zrc",
     "zrcoin",
-    "ZrCoin"
+    "zrcoin"
   ],
   "461": [
-    "PING",
+    "ping",
     "cryptoping",
-    "CryptoPing"
+    "cryptoping"
   ],
   "462": [
-    "SUMO",
+    "sumo",
     "sumokoin",
-    "Sumokoin"
+    "sumokoin"
   ],
   "463": [
-    "EFL",
+    "efl",
     "e-gulden",
-    "e-Gulden"
+    "e-gulden"
   ],
   "464": [
-    "INN",
+    "inn",
     "innova",
-    "Innova"
+    "innova"
   ],
   "465": [
-    "NOTE",
+    "note",
     "dnotes",
-    "DNotes"
+    "dnotes"
   ],
   "466": [
-    "CRAVE",
     "crave",
-    "Crave"
+    "crave",
+    "crave"
   ],
   "467": [
-    "SCL",
+    "scl",
     "social",
-    "Social"
+    "social"
   ],
   "468": [
-    "ANC",
+    "anc",
     "anoncoin",
-    "Anoncoin"
+    "anoncoin"
   ],
   "469": [
-    "LUX",
+    "lux",
     "luxcoin",
-    "LUXCoin"
+    "luxcoin"
   ],
   "470": [
-    "ONG",
+    "ong",
     "ongsocial",
-    "onG.social"
+    "ong.social"
   ],
   "471": [
-    "TKS",
+    "tks",
     "tokes",
-    "Tokes"
+    "tokes"
   ],
   "472": [
-    "KLN",
+    "kln",
     "kolion",
-    "Kolion"
+    "kolion"
   ],
   "473": [
-    "REX",
+    "rex",
     "real-estate-tokens",
-    "REX"
+    "rex"
   ],
   "474": [
-    "AC",
+    "ac",
     "asiacoin",
-    "AsiaCoin"
+    "asiacoin"
   ],
   "475": [
-    "OCL",
+    "ocl",
     "oceanlab",
-    "Oceanlab"
+    "oceanlab"
   ],
   "476": [
-    "CCT",
+    "cct",
     "crystal-clear",
-    "Crystal Clear "
+    "crystal clear "
   ],
   "477": [
-    "TRC",
+    "trc",
     "terracoin",
-    "Terracoin"
+    "terracoin"
   ],
   "478": [
-    "CRED",
+    "cred",
     "verify",
-    "Verify"
+    "verify"
   ],
   "479": [
-    "VIVO",
     "vivo",
-    "VIVO"
+    "vivo",
+    "vivo"
   ],
   "480": [
-    "MAG",
+    "mag",
     "magnet",
-    "Magnet"
+    "magnet"
   ],
   "481": [
-    "UFO",
+    "ufo",
     "ufo-coin",
-    "UFO Coin"
+    "ufo coin"
   ],
   "482": [
-    "KLC",
+    "klc",
     "kilocoin",
-    "KiloCoin"
+    "kilocoin"
   ],
   "483": [
-    "FST",
+    "fst",
     "fastcoin",
-    "Fastcoin"
+    "fastcoin"
   ],
   "484": [
-    "NIO",
+    "nio",
     "autonio",
-    "Autonio"
+    "autonio"
   ],
   "485": [
-    "STA",
+    "sta",
     "starta",
-    "Starta"
+    "starta"
   ],
   "486": [
-    "QRK",
+    "qrk",
     "quark",
-    "Quark"
+    "quark"
   ],
   "487": [
-    "SMART",
+    "smart",
     "smartbillions",
-    "SmartBillions"
+    "smartbillions"
   ],
   "488": [
-    "PURE",
     "pure",
-    "Pure"
+    "pure",
+    "pure"
   ],
   "489": [
-    "XCN",
+    "xcn",
     "cryptonite",
-    "Cryptonite"
+    "cryptonite"
   ],
   "490": [
-    "ELTCOIN",
     "eltcoin",
-    "ELTCOIN"
+    "eltcoin",
+    "eltcoin"
   ],
   "491": [
-    "DOT",
+    "dot",
     "dotcoin",
-    "Dotcoin"
+    "dotcoin"
   ],
   "492": [
-    "IXC",
+    "ixc",
     "ixcoin",
-    "Ixcoin"
+    "ixcoin"
   ],
   "493": [
-    "RUP",
+    "rup",
     "rupee",
-    "Rupee"
+    "rupee"
   ],
   "494": [
-    "EFYT",
+    "efyt",
     "ergo",
-    "Ergo"
+    "ergo"
   ],
   "495": [
-    "CPC",
+    "cpc",
     "capricoin",
-    "Capricoin"
+    "capricoin"
   ],
   "496": [
-    "EQT",
+    "eqt",
     "equitrader",
-    "EquiTrader"
+    "equitrader"
   ],
   "497": [
-    "WDC",
+    "wdc",
     "worldcoin",
-    "WorldCoin"
+    "worldcoin"
   ],
   "498": [
-    "ADC",
+    "adc",
     "audiocoin",
-    "AudioCoin"
+    "audiocoin"
   ],
   "499": [
-    "VSX",
+    "vsx",
     "vsync-vsx",
-    "Vsync"
+    "vsync"
   ],
   "500": [
-    "PND",
+    "pnd",
     "pandacoin-pnd",
-    "Pandacoin"
+    "pandacoin"
   ],
   "501": [
-    "LGD",
+    "lgd",
     "legends-room",
-    "Legends Room"
+    "legends room"
   ],
   "502": [
-    "OPT",
+    "opt",
     "opus",
-    "Opus"
+    "opus"
   ],
   "503": [
-    "MEC",
+    "mec",
     "megacoin",
-    "Megacoin"
+    "megacoin"
   ],
   "504": [
-    "REAL",
     "real",
-    "REAL"
+    "real",
+    "real"
   ],
   "505": [
-    "EBST",
+    "ebst",
     "eboostcoin",
-    "eBoost"
+    "eboost"
   ],
   "506": [
-    "HOLD",
+    "hold",
     "interstellar-holdings",
-    "Interstellar Holdings"
+    "interstellar holdings"
   ],
   "507": [
-    "ZEIT",
+    "zeit",
     "zeitcoin",
-    "Zeitcoin"
+    "zeitcoin"
   ],
   "508": [
-    "CRC",
+    "crc",
     "crowdcoin",
-    "CrowdCoin"
+    "crowdcoin"
   ],
   "509": [
-    "SIFT",
+    "sift",
     "smart-investment-fund-token",
-    "Smart Investment Fund Token"
+    "smart investment fund token"
   ],
   "510": [
-    "FLIK",
     "flik",
-    "FLiK"
+    "flik",
+    "flik"
   ],
   "511": [
-    "BTCRED",
+    "btcred",
     "bitcoin-red",
-    "Bitcoin Red"
+    "bitcoin red"
   ],
   "512": [
-    "ARC",
+    "arc",
     "arcticcoin",
-    "ArcticCoin"
+    "arcticcoin"
   ],
   "513": [
-    "QVT",
+    "qvt",
     "qvolta",
-    "Qvolta"
+    "qvolta"
   ],
   "514": [
-    "FCN",
+    "fcn",
     "fantomcoin",
-    "Fantomcoin"
+    "fantomcoin"
   ],
   "515": [
-    "XCPO",
+    "xcpo",
     "copico",
-    "Copico"
+    "copico"
   ],
   "516": [
-    "ERC20",
     "erc20",
-    "ERC20"
+    "erc20",
+    "erc20"
   ],
   "517": [
-    "ATL",
+    "atl",
     "atlant",
-    "ATLANT"
+    "atlant"
   ],
   "518": [
-    "BYC",
+    "byc",
     "bytecent",
-    "Bytecent"
+    "bytecent"
   ],
   "519": [
-    "LINDA",
     "linda",
-    "Linda"
+    "linda",
+    "linda"
   ],
   "520": [
-    "BUZZ",
+    "buzz",
     "buzzcoin",
-    "BuzzCoin"
+    "buzzcoin"
   ],
   "521": [
-    "FYN",
+    "fyn",
     "fundyourselfnow",
-    "FundYourselfNow"
+    "fundyourselfnow"
   ],
   "522": [
-    "BASH",
+    "bash",
     "luckchain",
-    "LuckChain"
+    "luckchain"
   ],
   "523": [
-    "INFX",
+    "infx",
     "influxcoin",
-    "Influxcoin"
+    "influxcoin"
   ],
   "524": [
-    "PROC",
+    "proc",
     "procurrency",
-    "ProCurrency"
+    "procurrency"
   ],
   "525": [
-    "LINX",
     "linx",
-    "Linx"
+    "linx",
+    "linx"
   ],
   "526": [
-    "NDC",
+    "ndc",
     "neverdie",
-    "NEVERDIE"
+    "neverdie"
   ],
   "527": [
-    "RAIN",
+    "rain",
     "condensate",
-    "Condensate"
+    "condensate"
   ],
   "528": [
-    "LOG",
+    "log",
     "woodcoin",
-    "Woodcoin"
+    "woodcoin"
   ],
   "529": [
-    "MBRS",
+    "mbrs",
     "embers",
-    "Embers"
+    "embers"
   ],
   "530": [
-    "ALT",
+    "alt",
     "altcoin-alt",
-    "Altcoin"
+    "altcoin"
   ],
   "531": [
-    "BTCZ",
+    "btcz",
     "bitcoinz",
-    "BitcoinZ"
+    "bitcoinz"
   ],
   "532": [
-    "SUPER",
+    "super",
     "supercoin",
-    "SuperCoin"
+    "supercoin"
   ],
   "533": [
-    "SPRTS",
+    "sprts",
     "sprouts",
-    "Sprouts"
+    "sprouts"
   ],
   "534": [
-    "DFT",
+    "dft",
     "draftcoin",
-    "DraftCoin"
+    "draftcoin"
   ],
   "535": [
-    "CTX",
+    "ctx",
     "cartaxi-token",
-    "CarTaxi Token"
+    "cartaxi token"
   ],
   "536": [
-    "FJC",
+    "fjc",
     "fujicoin",
-    "FujiCoin"
+    "fujicoin"
   ],
   "537": [
-    "BRIT",
+    "brit",
     "britcoin",
-    "BritCoin"
+    "britcoin"
   ],
   "538": [
-    "CARBON",
+    "carbon",
     "carboncoin",
-    "Carboncoin"
+    "carboncoin"
   ],
   "539": [
-    "XMCC",
+    "xmcc",
     "monacocoin",
-    "Monoeci"
+    "monoeci"
   ],
   "540": [
-    "TOKEN",
+    "token",
     "swaptoken",
-    "SwapToken"
+    "swaptoken"
   ],
   "541": [
-    "XFT",
+    "xft",
     "footy-cash",
-    "Footy Cash"
+    "footy cash"
   ],
   "542": [
-    "WGO",
+    "wgo",
     "wavesgo",
-    "WavesGo"
+    "wavesgo"
   ],
   "543": [
-    "ZENI",
+    "zeni",
     "zennies",
-    "Zennies"
+    "zennies"
   ],
   "544": [
-    "DGPT",
+    "dgpt",
     "digipulse",
-    "DigiPulse"
+    "digipulse"
   ],
   "545": [
-    "STRC",
+    "strc",
     "starcredits",
-    "StarCredits"
+    "starcredits"
   ],
   "546": [
-    "ELLA",
+    "ella",
     "ellaism",
-    "Ellaism"
+    "ellaism"
   ],
   "547": [
     "42",
@@ -2735,4118 +2735,4113 @@
     "42-coin"
   ],
   "548": [
-    "MZC",
+    "mzc",
     "mazacoin",
-    "MazaCoin"
+    "mazacoin"
   ],
   "549": [
-    "PRIX",
+    "prix",
     "privatix",
-    "Privatix"
+    "privatix"
   ],
   "550": [
-    "LDOGE",
+    "ldoge",
     "litedoge",
-    "LiteDoge"
+    "litedoge"
   ],
   "551": [
-    "HODL",
+    "hodl",
     "hodlcoin",
-    "HOdlcoin"
+    "hodlcoin"
   ],
   "552": [
-    "HAT",
+    "hat",
     "hawala-today",
-    "Hawala.Today"
+    "hawala.today"
   ],
   "553": [
-    "HBT",
+    "hbt",
     "hubii-network",
-    "Hubii Network"
+    "hubii network"
   ],
   "554": [
-    "NOBL",
+    "nobl",
     "noblecoin",
-    "NobleCoin"
+    "noblecoin"
   ],
   "555": [
-    "DNR",
+    "dnr",
     "denarius-dnr",
-    "Denarius"
+    "denarius"
   ],
   "556": [
-    "CNT",
+    "cnt",
     "centurion",
-    "Centurion"
+    "centurion"
   ],
   "557": [
-    "UIS",
+    "uis",
     "unitus",
-    "Unitus"
+    "unitus"
   ],
   "558": [
-    "GCN",
+    "gcn",
     "gcoin",
-    "GCoin"
+    "gcoin"
   ],
   "559": [
-    "BLOCKPAY",
     "blockpay",
-    "BlockPay"
+    "blockpay",
+    "blockpay"
   ],
   "560": [
-    "PFR",
+    "pfr",
     "payfair",
-    "Payfair"
+    "payfair"
   ],
   "561": [
-    "ZET",
+    "zet",
     "zetacoin",
-    "Zetacoin"
+    "zetacoin"
   ],
   "562": [
-    "XGOX",
     "xgox",
-    "XGOX"
+    "xgox",
+    "xgox"
   ],
   "563": [
-    "SMLY",
+    "smly",
     "smileycoin",
-    "SmileyCoin"
+    "smileycoin"
   ],
   "564": [
-    "OTX",
+    "otx",
     "octanox",
-    "Octanox"
+    "octanox"
   ],
   "565": [
-    "EMV",
+    "emv",
     "ethereum-movie-venture",
-    "Ethereum Movie Venture"
+    "ethereum movie venture"
   ],
   "566": [
-    "ELE",
+    "ele",
     "elementrem",
-    "Elementrem"
+    "elementrem"
   ],
   "567": [
-    "PHO",
+    "pho",
     "photon",
-    "Photon"
+    "photon"
   ],
   "568": [
-    "TRCT",
+    "trct",
     "tracto",
-    "Tracto"
+    "tracto"
   ],
   "569": [
-    "ONX",
+    "onx",
     "onix",
-    "Onix"
+    "onix"
   ],
   "570": [
-    "GB",
+    "gb",
     "goldblocks",
-    "GoldBlocks"
+    "goldblocks"
   ],
   "571": [
-    "VISIO",
     "visio",
-    "Visio"
+    "visio",
+    "visio"
   ],
   "572": [
-    "BTA",
+    "bta",
     "bata",
-    "Bata"
+    "bata"
   ],
   "573": [
-    "ZER",
+    "zer",
     "zero",
-    "Zero"
+    "zero"
   ],
   "574": [
-    "STU",
+    "stu",
     "student-coin",
-    "bitJob"
+    "bitjob"
   ],
   "575": [
-    "RKC",
+    "rkc",
     "royal-kingdom-coin",
-    "Royal Kingdom Coin"
+    "royal kingdom coin"
   ],
   "576": [
-    "BTCS",
+    "btcs",
     "bitcoin-scrypt",
-    "Bitcoin Scrypt"
+    "bitcoin scrypt"
   ],
   "577": [
-    "UNIFY",
     "unify",
-    "Unify"
+    "unify",
+    "unify"
   ],
   "578": [
-    "BBP",
+    "bbp",
     "biblepay",
-    "BiblePay"
+    "biblepay"
   ],
   "579": [
-    "RMC",
+    "rmc",
     "remicoin",
-    "Remicoin"
+    "remicoin"
   ],
   "580": [
-    "CDN",
+    "cdn",
     "canada-ecoin",
-    "Canada eCoin"
+    "canada ecoin"
   ],
   "581": [
-    "DP",
+    "dp",
     "digitalprice",
-    "DigitalPrice"
+    "digitalprice"
   ],
   "582": [
-    "MRT",
+    "mrt",
     "miners-reward-token",
-    "Miners' Reward Token"
+    "miners' reward token"
   ],
   "583": [
-    "KEK",
+    "kek",
     "kekcoin",
-    "KekCoin"
+    "kekcoin"
   ],
   "584": [
-    "DCY",
+    "dcy",
     "dinastycoin",
-    "Dinastycoin"
+    "dinastycoin"
   ],
   "585": [
-    "V",
+    "v",
     "version",
-    "Version"
+    "version"
   ],
   "586": [
-    "ADZ",
+    "adz",
     "adzcoin",
-    "Adzcoin"
+    "adzcoin"
   ],
   "587": [
-    "NUKO",
+    "nuko",
     "nekonium",
-    "Nekonium"
+    "nekonium"
   ],
   "588": [
-    "XIOS",
     "xios",
-    "Xios"
+    "xios",
+    "xios"
   ],
   "589": [
-    "NET",
+    "net",
     "netcoin",
-    "NetCoin"
+    "netcoin"
   ],
   "590": [
-    "ATS",
+    "ats",
     "authorship",
-    "Authorship"
+    "authorship"
   ],
   "591": [
-    "ETBS",
+    "etbs",
     "ethbits",
-    "Ethbits"
+    "ethbits"
   ],
   "592": [
-    "INSN",
+    "insn",
     "insanecoin-insn",
-    "InsaneCoin"
+    "insanecoin"
   ],
   "593": [
-    "WTT",
+    "wtt",
     "giga-watt-token",
-    "Giga Watt Token"
+    "giga watt token"
   ],
   "594": [
-    "KOBO",
+    "kobo",
     "kobocoin",
-    "Kobocoin"
+    "kobocoin"
   ],
   "595": [
-    "GRWI",
+    "grwi",
     "growers-international",
-    "Growers International"
+    "growers international"
   ],
   "596": [
-    "ORB",
+    "orb",
     "orbitcoin",
-    "Orbitcoin"
+    "orbitcoin"
   ],
   "597": [
-    "UFR",
+    "ufr",
     "upfiring",
-    "Upfiring"
+    "upfiring"
   ],
   "598": [
-    "SKIN",
+    "skin",
     "skincoin",
-    "SkinCoin"
+    "skincoin"
   ],
   "599": [
-    "ZZC",
+    "zzc",
     "zozocoin",
-    "ZoZoCoin"
+    "zozocoin"
   ],
   "600": [
-    "RNS",
+    "rns",
     "renos",
-    "Renos"
+    "renos"
   ],
   "601": [
-    "SIGT",
+    "sigt",
     "signatum",
-    "Signatum"
+    "signatum"
   ],
   "602": [
-    "RED",
+    "red",
     "redcoin",
-    "RedCoin"
+    "redcoin"
   ],
   "603": [
-    "NETKO",
     "netko",
-    "Netko"
+    "netko",
+    "netko"
   ],
   "604": [
-    "CRM",
+    "crm",
     "cream",
-    "Cream"
+    "cream"
   ],
   "605": [
-    "DSR",
+    "dsr",
     "desire",
-    "Desire"
+    "desire"
   ],
   "606": [
-    "BTB",
+    "btb",
     "bitbar",
-    "BitBar"
+    "bitbar"
   ],
   "607": [
-    "CMPCO",
+    "cmpco",
     "campuscoin",
-    "CampusCoin"
+    "campuscoin"
   ],
   "608": [
-    "DEM",
+    "dem",
     "deutsche-emark",
-    "Deutsche eMark"
+    "deutsche emark"
   ],
   "609": [
-    "EPY",
+    "epy",
     "emphy",
-    "Emphy"
+    "emphy"
   ],
   "610": [
-    "XHI",
+    "xhi",
     "hicoin",
-    "HiCoin"
+    "hicoin"
   ],
   "611": [
-    "NKA",
+    "nka",
     "incakoin",
-    "IncaKoin"
+    "incakoin"
   ],
   "612": [
-    "CNO",
+    "cno",
     "coin",
-    "Coin(O)"
+    "coin(o)"
   ],
   "613": [
-    "DSH",
+    "dsh",
     "dashcoin",
-    "Dashcoin"
+    "dashcoin"
   ],
   "614": [
-    "GAIA",
     "gaia",
-    "GAIA"
+    "gaia",
+    "gaia"
   ],
   "615": [
-    "GOOD",
+    "good",
     "goodomy",
-    "Goodomy"
+    "goodomy"
   ],
   "616": [
-    "TROLL",
+    "troll",
     "trollcoin",
-    "Trollcoin"
+    "trollcoin"
   ],
   "617": [
-    "CCRB",
+    "ccrb",
     "cryptocarbon",
-    "CryptoCarbon"
+    "cryptocarbon"
   ],
   "618": [
-    "XJO",
+    "xjo",
     "joulecoin",
-    "Joulecoin"
+    "joulecoin"
   ],
   "619": [
-    "TKR",
+    "tkr",
     "trackr",
-    "CryptoInsight"
+    "cryptoinsight"
   ],
   "620": [
-    "ACC",
+    "acc",
     "accelerator-network",
-    "Accelerator Network"
+    "accelerator network"
   ],
   "621": [
-    "FNC",
+    "fnc",
     "fincoin",
-    "FinCoin"
+    "fincoin"
   ],
   "622": [
-    "TIT",
+    "tit",
     "titcoin",
-    "Titcoin"
+    "titcoin"
   ],
   "623": [
-    "MOIN",
     "moin",
-    "Moin"
+    "moin",
+    "moin"
   ],
   "624": [
-    "BRO",
+    "bro",
     "bitradio",
-    "Bitradio"
+    "bitradio"
   ],
   "625": [
-    "ABJ",
+    "abj",
     "abjcoin",
-    "Abjcoin"
+    "abjcoin"
   ],
   "626": [
-    "PXC",
+    "pxc",
     "phoenixcoin",
-    "Phoenixcoin"
+    "phoenixcoin"
   ],
   "627": [
-    "MAC",
+    "mac",
     "machinecoin",
-    "Machinecoin"
+    "machinecoin"
   ],
   "628": [
-    "EMB",
+    "emb",
     "embercoin",
-    "EmberCoin"
+    "embercoin"
   ],
   "629": [
-    "VLT",
+    "vlt",
     "veltor",
-    "Veltor"
+    "veltor"
   ],
   "630": [
-    "FLT",
+    "flt",
     "fluttercoin",
-    "FlutterCoin"
+    "fluttercoin"
   ],
   "631": [
-    "HPC",
+    "hpc",
     "happycoin",
-    "Happycoin"
+    "happycoin"
   ],
   "632": [
-    "RLT",
+    "rlt",
     "roulettetoken",
-    "RouletteToken"
+    "roulettetoken"
   ],
   "633": [
-    "HBN",
+    "hbn",
     "hobonickels",
-    "HoboNickels"
+    "hobonickels"
   ],
   "634": [
-    "DGC",
+    "dgc",
     "digitalcoin",
-    "Digitalcoin"
+    "digitalcoin"
   ],
   "635": [
-    "EBET",
+    "ebet",
     "ethbet",
-    "EthBet"
+    "ethbet"
   ],
   "636": [
-    "UNY",
+    "uny",
     "unity-ingot",
-    "Unity Ingot"
+    "unity ingot"
   ],
   "637": [
-    "PIGGY",
+    "piggy",
     "piggycoin",
-    "Piggycoin"
+    "piggycoin"
   ],
   "638": [
-    "FC2",
+    "fc2",
     "fuelcoin",
-    "FuelCoin"
+    "fuelcoin"
   ],
   "639": [
-    "IFLT",
+    "iflt",
     "inflationcoin",
-    "InflationCoin"
+    "inflationcoin"
   ],
   "640": [
-    "OPAL",
     "opal",
-    "Opal"
+    "opal",
+    "opal"
   ],
   "641": [
-    "DAXX",
+    "daxx",
     "daxxcoin",
-    "DaxxCoin"
+    "daxxcoin"
   ],
   "642": [
-    "TES",
+    "tes",
     "teslacoin",
-    "TeslaCoin"
+    "teslacoin"
   ],
   "643": [
-    "ENT",
+    "ent",
     "eternity",
-    "Eternity"
+    "eternity"
   ],
   "644": [
-    "MAX",
+    "max",
     "maxcoin",
-    "MaxCoin"
+    "maxcoin"
   ],
   "645": [
-    "HERO",
+    "hero",
     "sovereign-hero",
-    "Sovereign Hero"
+    "sovereign hero"
   ],
   "646": [
-    "XCT",
+    "xct",
     "c-bit",
-    "C-Bit"
+    "c-bit"
   ],
   "647": [
-    "8BIT",
     "8bit",
-    "8Bit"
+    "8bit",
+    "8bit"
   ],
   "648": [
-    "FUNK",
+    "funk",
     "the-cypherfunks",
-    "The Cypherfunks"
+    "the cypherfunks"
   ],
   "649": [
-    "BUN",
+    "bun",
     "bunnycoin",
-    "BunnyCoin"
+    "bunnycoin"
   ],
   "650": [
-    "MNE",
+    "mne",
     "minereum",
-    "Minereum"
+    "minereum"
   ],
   "651": [
-    "LCP",
+    "lcp",
     "litecoin-plus",
-    "Litecoin Plus"
+    "litecoin plus"
   ],
   "652": [
-    "UTC",
+    "utc",
     "ultracoin",
-    "UltraCoin"
+    "ultracoin"
   ],
   "653": [
-    "SMC",
+    "smc",
     "smartcoin",
-    "SmartCoin"
+    "smartcoin"
   ],
   "654": [
-    "WHL",
+    "whl",
     "whalecoin",
-    "WhaleCoin"
+    "whalecoin"
   ],
   "655": [
-    "BITBTC",
     "bitbtc",
-    "bitBTC"
+    "bitbtc",
+    "bitbtc"
   ],
   "656": [
-    "TAG",
+    "tag",
     "tagcoin",
-    "TagCoin"
+    "tagcoin"
   ],
   "657": [
-    "ATOM",
+    "atom",
     "atomic-coin",
-    "Atomic Coin"
+    "atomic coin"
   ],
   "658": [
-    "PCOIN",
+    "pcoin",
     "pioneer-coin",
-    "Pioneer Coin"
+    "pioneer coin"
   ],
   "659": [
-    "ROC",
+    "roc",
     "rasputin-online-coin",
-    "Rasputin Online Coin"
+    "rasputin online coin"
   ],
   "660": [
-    "CFT",
+    "cft",
     "cryptoforecast",
-    "CryptoForecast"
+    "cryptoforecast"
   ],
   "661": [
-    "BBT",
+    "bbt",
     "bitboost",
-    "BitBoost"
+    "bitboost"
   ],
   "662": [
-    "MAO",
+    "mao",
     "mao-zedong",
-    "Mao Zedong"
+    "mao zedong"
   ],
   "663": [
-    "BPC",
+    "bpc",
     "bitpark-coin",
-    "Bitpark Coin"
+    "bitpark coin"
   ],
   "664": [
-    "ETG",
+    "etg",
     "ethereum-gold",
-    "Ethereum Gold"
+    "ethereum gold"
   ],
   "665": [
-    "MUT",
+    "mut",
     "mutual-coin",
-    "Mutual Coin"
+    "mutual coin"
   ],
   "666": [
-    "NTO",
+    "nto",
     "fujinto",
-    "Fujinto"
+    "fujinto"
   ],
   "667": [
-    "XPY",
+    "xpy",
     "paycoin2",
-    "PayCoin"
+    "paycoin"
   ],
   "668": [
-    "NYAN",
+    "nyan",
     "nyancoin",
-    "Nyancoin"
+    "nyancoin"
   ],
   "669": [
-    "SCORE",
+    "score",
     "scorecoin",
-    "Scorecoin"
+    "scorecoin"
   ],
   "670": [
-    "EL",
+    "el",
     "elcoin-el",
-    "Elcoin"
+    "elcoin"
   ],
   "671": [
-    "TYCHO",
+    "tycho",
     "tychocoin",
-    "Tychocoin"
+    "tychocoin"
   ],
   "672": [
-    "GUN",
+    "gun",
     "guncoin",
-    "Guncoin"
+    "guncoin"
   ],
   "673": [
-    "BTWTY",
+    "btwty",
     "bit20",
-    "Bit20"
+    "bit20"
   ],
   "674": [
-    "CFD",
+    "cfd",
     "confido",
-    "Confido"
+    "confido"
   ],
   "675": [
-    "SPACE",
+    "space",
     "spacecoin",
-    "SpaceCoin"
+    "spacecoin"
   ],
   "676": [
-    "BITS",
+    "bits",
     "bitstar",
-    "Bitstar"
+    "bitstar"
   ],
   "677": [
-    "ALTCOM",
+    "altcom",
     "altcommunity-coin",
-    "AltCommunity Coin"
+    "altcommunity coin"
   ],
   "678": [
-    "BLAS",
+    "blas",
     "blakestar",
-    "BlakeStar"
+    "blakestar"
   ],
   "679": [
-    "C2",
+    "c2",
     "coin2-1",
-    "Coin2.1"
+    "coin2.1"
   ],
   "680": [
-    "BAS",
+    "bas",
     "bitasean",
-    "BitAsean"
+    "bitasean"
   ],
   "681": [
-    "CCN",
+    "ccn",
     "cannacoin",
-    "CannaCoin"
+    "cannacoin"
   ],
   "682": [
-    "POS",
+    "pos",
     "postoken",
-    "PoSToken"
+    "postoken"
   ],
   "683": [
-    "TTC",
+    "ttc",
     "tittiecoin",
-    "TittieCoin"
+    "tittiecoin"
   ],
   "684": [
-    "BCF",
+    "bcf",
     "bitcoinfast",
-    "Bitcoin Fast"
+    "bitcoin fast"
   ],
   "685": [
-    "EBCH",
+    "ebch",
     "ebitcoin-cash",
-    "eBitcoinCash"
+    "ebitcoincash"
   ],
   "686": [
-    "TRUMP",
+    "trump",
     "trumpcoin",
-    "TrumpCoin"
+    "trumpcoin"
   ],
   "687": [
-    "LOT",
+    "lot",
     "lottocoin",
-    "LottoCoin"
+    "lottocoin"
   ],
   "688": [
-    "CJ",
+    "cj",
     "cryptojacks",
-    "Cryptojacks"
+    "cryptojacks"
   ],
   "689": [
-    "UNITS",
+    "units",
     "gameunits",
-    "GameUnits"
+    "gameunits"
   ],
   "690": [
-    "ZUR",
+    "zur",
     "zurcoin",
-    "Zurcoin"
+    "zurcoin"
   ],
   "691": [
-    "UNI",
+    "uni",
     "universe",
-    "Universe"
+    "universe"
   ],
   "692": [
-    "XPD",
+    "xpd",
     "petrodollar",
-    "PetroDollar"
+    "petrodollar"
   ],
   "693": [
-    "TRI",
+    "tri",
     "triangles",
-    "Triangles"
+    "triangles"
   ],
   "694": [
-    "LANA",
+    "lana",
     "lanacoin",
-    "LanaCoin"
+    "lanacoin"
   ],
   "695": [
-    "J",
+    "j",
     "joincoin",
-    "Joincoin"
+    "joincoin"
   ],
   "696": [
-    "PAK",
+    "pak",
     "pakcoin",
-    "Pakcoin"
+    "pakcoin"
   ],
   "697": [
-    "TRK",
+    "trk",
     "truckcoin",
-    "Truckcoin"
+    "truckcoin"
   ],
   "698": [
-    "E4ROW",
+    "e4row",
     "ether-for-the-rest-of-the-world",
-    "E4ROW"
+    "e4row"
   ],
   "699": [
-    "KUSH",
+    "kush",
     "kushcoin",
-    "KushCoin"
+    "kushcoin"
   ],
   "700": [
-    "STARS",
+    "stars",
     "starcash-network",
-    "StarCash Network"
+    "starcash network"
   ],
   "701": [
-    "FUNC",
+    "func",
     "funcoin",
-    "FUNCoin"
+    "funcoin"
   ],
   "702": [
-    "HNC",
+    "hnc",
     "helleniccoin",
-    "Helleniccoin"
+    "helleniccoin"
   ],
   "703": [
-    "DDF",
+    "ddf",
     "digital-developers-fund",
-    "DigitalDevelopersFund"
+    "digitaldevelopersfund"
   ],
   "704": [
-    "PASL",
+    "pasl",
     "pascal-lite",
-    "Pascal Lite"
+    "pascal lite"
   ],
   "705": [
-    "ICN",
+    "icn",
     "icoin",
-    "iCoin"
+    "icoin"
   ],
   "706": [
-    "ECASH",
+    "ecash",
     "ethereumcash",
-    "Ethereum Cash"
+    "ethereum cash"
   ],
   "707": [
-    "BTCR",
+    "btcr",
     "bitcurrency",
-    "Bitcurrency"
+    "bitcurrency"
   ],
   "708": [
-    "BIGUP",
     "bigup",
-    "BigUp"
+    "bigup",
+    "bigup"
   ],
   "709": [
-    "VIDZ",
+    "vidz",
     "purevidz",
-    "PureVidz"
+    "purevidz"
   ],
   "710": [
-    "Q2C",
+    "q2c",
     "qubitcoin",
-    "QubitCoin"
+    "qubitcoin"
   ],
   "711": [
-    "POST",
+    "post",
     "postcoin",
-    "PostCoin"
+    "postcoin"
   ],
   "712": [
-    "LTB",
+    "ltb",
     "litebar",
-    "LiteBar"
+    "litebar"
   ],
   "713": [
-    "SLG",
+    "slg",
     "sterlingcoin",
-    "Sterlingcoin"
+    "sterlingcoin"
   ],
   "714": [
-    "BRIA",
+    "bria",
     "briacoin",
-    "BriaCoin"
+    "briacoin"
   ],
   "715": [
-    "DRXNE",
+    "drxne",
     "droxne",
-    "DROXNE"
+    "droxne"
   ],
   "716": [
-    "XLC",
+    "xlc",
     "leviarcoin",
-    "LeviarCoin"
+    "leviarcoin"
   ],
   "717": [
-    "GAP",
+    "gap",
     "gapcoin",
-    "Gapcoin"
+    "gapcoin"
   ],
   "718": [
-    "POP",
+    "pop",
     "popularcoin",
-    "PopularCoin"
+    "popularcoin"
   ],
   "719": [
-    "BOLI",
+    "boli",
     "bolivarcoin",
-    "Bolivarcoin"
+    "bolivarcoin"
   ],
   "720": [
-    "BSTY",
+    "bsty",
     "globalboost-y",
-    "GlobalBoost-Y"
+    "globalboost-y"
   ],
   "721": [
-    "SAGA",
+    "saga",
     "sagacoin",
-    "SagaCoin"
+    "sagacoin"
   ],
   "722": [
-    "DALC",
+    "dalc",
     "dalecoin",
-    "Dalecoin"
+    "dalecoin"
   ],
   "723": [
-    "SDRN",
+    "sdrn",
     "senderon",
-    "Senderon"
+    "senderon"
   ],
   "724": [
-    "EAGLE",
+    "eagle",
     "eaglecoin",
-    "EagleCoin"
+    "eaglecoin"
   ],
   "725": [
-    "BITSILVER",
     "bitsilver",
-    "bitSilver"
+    "bitsilver",
+    "bitsilver"
   ],
   "726": [
-    "LEA",
+    "lea",
     "leacoin",
-    "LeaCoin"
+    "leacoin"
   ],
   "727": [
-    "CUBE",
+    "cube",
     "digicube",
-    "DigiCube"
+    "digicube"
   ],
   "728": [
-    "IETH",
+    "ieth",
     "iethereum",
-    "iEthereum"
+    "iethereum"
   ],
   "729": [
-    "CAT",
+    "cat",
     "catcoin",
-    "Catcoin"
+    "catcoin"
   ],
   "730": [
-    "MNM",
+    "mnm",
     "mineum",
-    "Mineum"
+    "mineum"
   ],
   "731": [
-    "XPTX",
+    "xptx",
     "platinumbar",
-    "PlatinumBAR"
+    "platinumbar"
   ],
   "732": [
-    "BTG",
+    "btg",
     "bitgem",
-    "Bitgem"
+    "bitgem"
   ],
   "733": [
-    "MOTO",
+    "moto",
     "motocoin",
-    "Motocoin"
+    "motocoin"
   ],
   "734": [
-    "CNNC",
+    "cnnc",
     "cannation",
-    "Cannation"
+    "cannation"
   ],
   "735": [
-    "KAYI",
+    "kayi",
     "kayicoin",
-    "Kayicoin"
+    "kayicoin"
   ],
   "736": [
-    "CCO",
+    "cco",
     "ccore",
-    "Ccore"
+    "ccore"
   ],
   "737": [
-    "ETHD",
+    "ethd",
     "ethereum-dark",
-    "Ethereum Dark"
+    "ethereum dark"
   ],
   "738": [
-    "BLC",
+    "blc",
     "blakecoin",
-    "Blakecoin"
+    "blakecoin"
   ],
   "739": [
-    "MCRN",
+    "mcrn",
     "macron",
-    "MACRON"
+    "macron"
   ],
   "740": [
-    "XBL",
+    "xbl",
     "billionaire-token",
-    "Billionaire Token"
+    "billionaire token"
   ],
   "741": [
-    "TSE",
+    "tse",
     "tattoocoin",
-    "Tattoocoin (Standard Edition)"
+    "tattoocoin (standard edition)"
   ],
   "742": [
-    "BLN",
+    "bln",
     "bolenum",
-    "Bolenum"
+    "bolenum"
   ],
   "743": [
-    "EVIL",
+    "evil",
     "evil-coin",
-    "Evil Coin"
+    "evil coin"
   ],
   "744": [
-    "ZCG",
+    "zcg",
     "zcash-gold",
-    "ZCash Gold"
+    "zcash gold"
   ],
   "745": [
-    "XRA",
+    "xra",
     "ratecoin",
-    "Ratecoin"
+    "ratecoin"
   ],
   "746": [
-    "XVP",
+    "xvp",
     "virtacoinplus",
-    "Virtacoinplus"
+    "virtacoinplus"
   ],
   "747": [
-    "ICE",
+    "ice",
     "idice",
-    "iDice"
+    "idice"
   ],
   "748": [
-    "ICOB",
+    "icob",
     "icobid",
-    "ICOBID"
+    "icobid"
   ],
   "749": [
-    "MOJO",
+    "mojo",
     "mojocoin",
-    "MojoCoin"
+    "mojocoin"
   ],
   "750": [
-    "RBX",
+    "rbx",
     "ripto-bux",
-    "Ripto Bux"
+    "ripto bux"
   ],
   "751": [
-    "SGR",
+    "sgr",
     "sugar-exchange",
-    "Sugar Exchange"
+    "sugar exchange"
   ],
   "752": [
-    "4CHN",
+    "4chn",
     "chancoin",
-    "ChanCoin"
+    "chancoin"
   ],
   "753": [
-    "PHS",
+    "phs",
     "philosopher-stones",
-    "Philosopher Stones"
+    "philosopher stones"
   ],
   "754": [
-    "EOT",
+    "eot",
     "eot-token",
-    "EOT Token"
+    "eot token"
   ],
   "755": [
-    "GRIM",
+    "grim",
     "grimcoin",
-    "Grimcoin"
+    "grimcoin"
   ],
   "756": [
-    "PXI",
+    "pxi",
     "prime-xi",
-    "Prime-XI"
+    "prime-xi"
   ],
   "757": [
-    "MARS",
+    "mars",
     "marscoin",
-    "Marscoin"
+    "marscoin"
   ],
   "758": [
-    "BLZ",
+    "blz",
     "blazecoin",
-    "BlazeCoin"
+    "blazecoin"
   ],
   "759": [
-    "PR",
+    "pr",
     "prototanium",
-    "Prototanium"
+    "prototanium"
   ],
   "760": [
-    "ECO",
+    "eco",
     "ecocoin",
-    "EcoCoin"
+    "ecocoin"
   ],
   "761": [
     "$$$",
     "money",
-    "Money"
+    "money"
   ],
   "762": [
-    "DUO",
+    "duo",
     "parallelcoin",
-    "ParallelCoin"
+    "parallelcoin"
   ],
   "763": [
     "808",
     "808coin",
-    "808Coin"
+    "808coin"
   ],
   "764": [
-    "MONK",
+    "monk",
     "monkey-project",
-    "Monkey Project"
+    "monkey project"
   ],
   "765": [
-    "RBT",
+    "rbt",
     "rimbit",
-    "Rimbit"
+    "rimbit"
   ],
   "766": [
-    "MTLMC3",
+    "mtlmc3",
     "metal-music-coin",
-    "Metal Music Coin"
+    "metal music coin"
   ],
   "767": [
-    "ACOIN",
     "acoin",
-    "Acoin"
+    "acoin",
+    "acoin"
   ],
   "768": [
-    "EUC",
+    "euc",
     "eurocoin",
-    "Eurocoin"
+    "eurocoin"
   ],
   "769": [
-    "GPL",
+    "gpl",
     "gold-pressed-latinum",
-    "Gold Pressed Latinum"
+    "gold pressed latinum"
   ],
   "770": [
-    "NANOX",
+    "nanox",
     "project-x",
-    "Project-X"
+    "project-x"
   ],
   "771": [
-    "VOT",
+    "vot",
     "votecoin",
-    "VoteCoin"
+    "votecoin"
   ],
   "772": [
-    "BITEUR",
     "biteur",
-    "bitEUR"
+    "biteur",
+    "biteur"
   ],
   "773": [
-    "QCN",
+    "qcn",
     "quazarcoin",
-    "QuazarCoin"
+    "quazarcoin"
   ],
   "774": [
-    "XRE",
+    "xre",
     "revolvercoin",
-    "RevolverCoin"
+    "revolvercoin"
   ],
   "775": [
-    "SRC",
+    "src",
     "securecoin",
-    "SecureCoin"
+    "securecoin"
   ],
   "776": [
-    "XCO",
+    "xco",
     "x-coin",
-    "X-Coin"
+    "x-coin"
   ],
   "777": [
-    "ARG",
+    "arg",
     "argentum",
-    "Argentum"
+    "argentum"
   ],
   "778": [
-    "XCXT",
+    "xcxt",
     "coinonatx",
-    "CoinonatX"
+    "coinonatx"
   ],
   "779": [
-    "HONEY",
     "honey",
-    "Honey"
+    "honey",
+    "honey"
   ],
   "780": [
-    "COAL",
+    "coal",
     "bitcoal",
-    "BitCoal"
+    "bitcoal"
   ],
   "781": [
-    "TEK",
+    "tek",
     "tekcoin",
-    "TEKcoin"
+    "tekcoin"
   ],
   "782": [
-    "VUC",
+    "vuc",
     "virta-unique-coin",
-    "Virta Unique Coin"
+    "virta unique coin"
   ],
   "783": [
-    "XBTS",
+    "xbts",
     "beatcoin",
-    "Beatcoin"
+    "beatcoin"
   ],
   "784": [
-    "CON",
+    "con",
     "paycon",
-    "PayCon"
+    "paycon"
   ],
   "785": [
-    "GLT",
+    "glt",
     "globaltoken",
-    "GlobalToken"
+    "globaltoken"
   ],
   "786": [
-    "DFS",
+    "dfs",
     "dfscoin",
-    "DFSCoin"
+    "dfscoin"
   ],
   "787": [
-    "KURT",
+    "kurt",
     "kurrent",
-    "Kurrent"
+    "kurrent"
   ],
   "788": [
-    "REE",
+    "ree",
     "reecoin",
-    "ReeCoin"
+    "reecoin"
   ],
   "789": [
-    "ICON",
+    "icon",
     "iconic",
-    "Iconic"
+    "iconic"
   ],
   "790": [
-    "BOST",
+    "bost",
     "boostcoin",
-    "BoostCoin"
+    "boostcoin"
   ],
   "791": [
-    "BITGOLD",
     "bitgold",
-    "bitGold"
+    "bitgold",
+    "bitgold"
   ],
   "792": [
-    "MAR",
+    "mar",
     "marijuanacoin",
-    "Marijuanacoin"
+    "marijuanacoin"
   ],
   "793": [
-    "SPT",
+    "spt",
     "spots",
-    "Spots"
+    "spots"
   ],
   "794": [
-    "CACH",
+    "cach",
     "cachecoin",
-    "CacheCoin"
+    "cachecoin"
   ],
   "795": [
-    "CMT",
+    "cmt",
     "comet",
-    "Comet"
+    "comet"
   ],
   "796": [
-    "MAY",
+    "may",
     "theresa-may-coin",
-    "Theresa May Coin"
+    "theresa may coin"
   ],
   "797": [
-    "BTPL",
+    "btpl",
     "bitcoin-planet",
-    "Bitcoin Planet"
+    "bitcoin planet"
   ],
   "798": [
     "611",
     "sixeleven",
-    "SixEleven"
+    "sixeleven"
   ],
   "799": [
-    "DIX",
+    "dix",
     "dix-asset",
-    "Dix Asset"
+    "dix asset"
   ],
   "800": [
-    "ALL",
+    "all",
     "allion",
-    "Allion"
+    "allion"
   ],
   "801": [
     "300",
     "300-token",
-    "300 Token"
+    "300 token"
   ],
   "802": [
-    "ITZ",
+    "itz",
     "interzone",
-    "Interzone"
+    "interzone"
   ],
   "803": [
-    "IMS",
+    "ims",
     "independent-money-system",
-    "Independent Money System"
+    "independent money system"
   ],
   "804": [
-    "AERM",
+    "aerm",
     "aerium",
-    "Aerium"
+    "aerium"
   ],
   "805": [
-    "NRO",
+    "nro",
     "neuro",
-    "Neuro"
+    "neuro"
   ],
   "806": [
-    "SOIL",
+    "soil",
     "soilcoin",
-    "SOILcoin"
+    "soilcoin"
   ],
   "807": [
-    "PRC",
+    "prc",
     "prcoin",
-    "PRCoin"
+    "prcoin"
   ],
   "808": [
-    "SFC",
+    "sfc",
     "solarflarecoin",
-    "Solarflarecoin"
+    "solarflarecoin"
   ],
   "809": [
-    "MST",
+    "mst",
     "mustangcoin",
-    "MustangCoin"
+    "mustangcoin"
   ],
   "810": [
-    "LUNA",
+    "luna",
     "luna-coin",
-    "Luna Coin"
+    "luna coin"
   ],
   "811": [
-    "LTCU",
+    "ltcu",
     "litecoin-ultra",
-    "LiteCoin Ultra"
+    "litecoin ultra"
   ],
   "812": [
-    "ACP",
+    "acp",
     "anarchistsprime",
-    "AnarchistsPrime"
+    "anarchistsprime"
   ],
   "813": [
-    "AMMO",
+    "ammo",
     "ammo-rewards",
-    "Ammo Rewards"
+    "ammo rewards"
   ],
   "814": [
-    "EGAS",
+    "egas",
     "ethgas",
-    "ETHGAS"
+    "ethgas"
   ],
   "815": [
-    "KRONE",
+    "krone",
     "kronecoin",
-    "Kronecoin"
+    "kronecoin"
   ],
   "816": [
-    "ERY",
+    "ery",
     "eryllium",
-    "Eryllium"
+    "eryllium"
   ],
   "817": [
-    "BENJI",
+    "benji",
     "benjirolls",
-    "BenjiRolls"
+    "benjirolls"
   ],
   "818": [
-    "CXT",
+    "cxt",
     "coinonat",
-    "Coinonat"
+    "coinonat"
   ],
   "819": [
-    "GTC",
+    "gtc",
     "global-tour-coin",
-    "Global Tour Coin"
+    "global tour coin"
   ],
   "820": [
-    "B3",
+    "b3",
     "b3coin",
-    "B3Coin"
+    "b3coin"
   ],
   "821": [
-    "MGM",
+    "mgm",
     "magnum",
-    "Magnum"
+    "magnum"
   ],
   "822": [
-    "BIP",
+    "bip",
     "bipcoin",
-    "BipCoin"
+    "bipcoin"
   ],
   "823": [
-    "ASAFE2",
+    "asafe2",
     "allsafe",
-    "AllSafe"
+    "allsafe"
   ],
   "824": [
-    "GEERT",
+    "geert",
     "geertcoin",
-    "GeertCoin"
+    "geertcoin"
   ],
   "825": [
-    "BRAT",
     "brat",
-    "BROTHER"
+    "brat",
+    "brother"
   ],
   "826": [
-    "DIBC",
+    "dibc",
     "dibcoin",
-    "DIBCOIN"
+    "dibcoin"
   ],
   "827": [
-    "LTCR",
+    "ltcr",
     "litecred",
-    "Litecred"
+    "litecred"
   ],
   "828": [
-    "CASH",
+    "cash",
     "cashcoin",
-    "Cashcoin"
+    "cashcoin"
   ],
   "829": [
-    "BNX",
+    "bnx",
     "bnrtxcoin",
-    "BnrtxCoin"
+    "bnrtxcoin"
   ],
   "830": [
-    "MSCN",
+    "mscn",
     "master-swiscoin",
-    "Master Swiscoin"
+    "master swiscoin"
   ],
   "831": [
-    "UET",
+    "uet",
     "useless-ethereum-token",
-    "Useless Ethereum Token"
+    "useless ethereum token"
   ],
   "832": [
-    "VPRC",
+    "vprc",
     "vaperscoin",
-    "VapersCoin"
+    "vaperscoin"
   ],
   "833": [
-    "JS",
+    "js",
     "javascript-token",
-    "JavaScript Token"
+    "javascript token"
   ],
   "834": [
-    "LBTC",
+    "lbtc",
     "litebitcoin",
-    "LiteBitcoin"
+    "litebitcoin"
   ],
   "835": [
-    "WOMEN",
     "women",
-    "WomenCoin"
+    "women",
+    "womencoin"
   ],
   "836": [
-    "ROOFS",
     "roofs",
-    "Roofs"
+    "roofs",
+    "roofs"
   ],
   "837": [
-    "VRS",
+    "vrs",
     "veros",
-    "Veros"
+    "veros"
   ],
   "838": [
-    "XCS",
+    "xcs",
     "cybcsec",
-    "CybCSec"
+    "cybcsec"
   ],
   "839": [
-    "NTWK",
+    "ntwk",
     "network-token",
-    "Network Token"
+    "network token"
   ],
   "840": [
-    "CREVA",
+    "creva",
     "crevacoin",
-    "CrevaCoin"
+    "crevacoin"
   ],
   "841": [
-    "ARGUS",
     "argus",
-    "Argus"
+    "argus",
+    "argus"
   ],
   "842": [
-    "GSR",
+    "gsr",
     "geysercoin",
-    "GeyserCoin"
+    "geysercoin"
   ],
   "843": [
-    "XRC",
+    "xrc",
     "rawcoin2",
-    "Rawcoin"
+    "rawcoin"
   ],
   "844": [
-    "LVPS",
+    "lvps",
     "levoplus",
-    "LevoPlus"
+    "levoplus"
   ],
   "845": [
-    "XNG",
+    "xng",
     "enigma",
-    "Enigma"
+    "enigma"
   ],
   "846": [
-    "HMC",
+    "hmc",
     "harmonycoin-hmc",
-    "HarmonyCoin"
+    "harmonycoin"
   ],
   "847": [
-    "CALC",
+    "calc",
     "caliphcoin",
-    "CaliphCoin"
+    "caliphcoin"
   ],
   "848": [
-    "APW",
+    "apw",
     "applecoin-apw",
-    "AppleCoin"
+    "applecoin"
   ],
   "849": [
-    "UNITY",
+    "unity",
     "supernet-unity",
-    "SuperNET"
+    "supernet"
   ],
   "850": [
-    "VTA",
+    "vta",
     "virtacoin",
-    "Virtacoin"
+    "virtacoin"
   ],
   "851": [
-    "ECN",
+    "ecn",
     "e-coin",
-    "E-coin"
+    "e-coin"
   ],
   "852": [
-    "ARC",
+    "arc",
     "arcade-token",
-    "Arcade Token"
+    "arcade token"
   ],
   "853": [
-    "XC",
+    "xc",
     "xcurrency",
-    "XCurrency"
+    "xcurrency"
   ],
   "854": [
-    "YASH",
+    "yash",
     "yashcoin",
-    "YashCoin"
+    "yashcoin"
   ],
   "855": [
-    "FIMK",
+    "fimk",
     "fimkrypto",
-    "FIMKrypto"
+    "fimkrypto"
   ],
   "856": [
-    "ICOO",
+    "icoo",
     "ico-openledger",
-    "ICO OpenLedger"
+    "ico openledger"
   ],
   "857": [
-    "CRYPT",
+    "crypt",
     "cryptcoin",
-    "CryptCoin"
+    "cryptcoin"
   ],
   "858": [
-    "B@",
+    "b@",
     "bankcoin",
-    "Bankcoin"
+    "bankcoin"
   ],
   "859": [
-    "CBX",
+    "cbx",
     "cryptogenic-bullion",
-    "Crypto Bullion"
+    "crypto bullion"
   ],
   "860": [
-    "RC",
+    "rc",
     "russiacoin",
-    "RussiaCoin"
+    "russiacoin"
   ],
   "861": [
-    "RUSTBITS",
     "rustbits",
-    "Rustbits"
+    "rustbits",
+    "rustbits"
   ],
   "862": [
-    "ADL",
+    "adl",
     "adelphoi",
-    "Adelphoi"
+    "adelphoi"
   ],
   "863": [
-    "ITT",
+    "itt",
     "intelligent-trading-tech",
-    "Intelligent Trading Tech"
+    "intelligent trading tech"
   ],
   "864": [
-    "PIPL",
+    "pipl",
     "piplcoin",
-    "PiplCoin"
+    "piplcoin"
   ],
   "865": [
-    "HTC",
+    "htc",
     "hitcoin",
-    "HitCoin"
+    "hitcoin"
   ],
   "866": [
-    "SDC",
+    "sdc",
     "shadowcash",
-    "ShadowCash"
+    "shadowcash"
   ],
   "867": [
-    "GIM",
+    "gim",
     "gimli",
-    "Gimli"
+    "gimli"
   ],
   "868": [
-    "INPAY",
     "inpay",
-    "InPay"
+    "inpay",
+    "inpay"
   ],
   "869": [
-    "SHORTY",
     "shorty",
-    "Shorty"
+    "shorty",
+    "shorty"
   ],
   "870": [
-    "CASINO",
     "casino",
-    "Casino"
+    "casino",
+    "casino"
   ],
   "871": [
-    "MBI",
+    "mbi",
     "monster-byte",
-    "Monster Byte"
+    "monster byte"
   ],
   "872": [
-    "JNS",
+    "jns",
     "janus",
-    "Janus"
+    "janus"
   ],
   "873": [
-    "NEWB",
+    "newb",
     "newbium",
-    "Newbium"
+    "newbium"
   ],
   "874": [
-    "AHT",
+    "aht",
     "bowhead",
-    "Bowhead"
+    "bowhead"
   ],
   "875": [
-    "LNK",
+    "lnk",
     "link-platform",
-    "Link Platform"
+    "link platform"
   ],
   "876": [
-    "FUCK",
+    "fuck",
     "fucktoken",
-    "FuckToken"
+    "fucktoken"
   ],
   "877": [
-    "METAL",
+    "metal",
     "metalcoin",
-    "MetalCoin"
+    "metalcoin"
   ],
   "878": [
-    "AU",
+    "au",
     "aurumcoin",
-    "AurumCoin"
+    "aurumcoin"
   ],
   "879": [
-    "BTSR",
     "btsr",
-    "BTSR"
+    "btsr",
+    "btsr"
   ],
   "880": [
-    "SHDW",
+    "shdw",
     "shadow-token",
-    "Shadow Token"
+    "shadow token"
   ],
   "881": [
-    "VAL",
+    "val",
     "valorbit",
-    "Valorbit"
+    "valorbit"
   ],
   "882": [
-    "RIYA",
+    "riya",
     "etheriya",
-    "Etheriya"
+    "etheriya"
   ],
   "883": [
-    "STS",
+    "sts",
     "stress",
-    "Stress"
+    "stress"
   ],
   "884": [
-    "UNIC",
+    "unic",
     "unicoin",
-    "UniCoin"
+    "unicoin"
   ],
   "885": [
-    "BUCKS",
+    "bucks",
     "swagbucks",
-    "SwagBucks"
+    "swagbucks"
   ],
   "886": [
-    "USC",
+    "usc",
     "ultimate-secure-cash",
-    "Ultimate Secure Cash"
+    "ultimate secure cash"
   ],
   "887": [
-    "JET",
+    "jet",
     "jetcoin",
-    "Jetcoin"
+    "jetcoin"
   ],
   "888": [
-    "I0C",
+    "i0c",
     "i0coin",
-    "I0Coin"
+    "i0coin"
   ],
   "889": [
-    "SAC",
+    "sac",
     "sacoin",
-    "SACoin"
+    "sacoin"
   ],
   "890": [
-    "WAY",
+    "way",
     "wayguide",
-    "WayGuide"
+    "wayguide"
   ],
   "891": [
-    "HAL",
+    "hal",
     "halcyon",
-    "Halcyon"
+    "halcyon"
   ],
   "892": [
-    "TGC",
+    "tgc",
     "tigercoin",
-    "Tigercoin"
+    "tigercoin"
   ],
   "893": [
-    "FRC",
+    "frc",
     "freicoin",
-    "Freicoin"
+    "freicoin"
   ],
   "894": [
-    "XGR",
+    "xgr",
     "goldreserve",
-    "GoldReserve"
+    "goldreserve"
   ],
   "895": [
-    "SWING",
     "swing",
-    "Swing"
+    "swing",
+    "swing"
   ],
   "896": [
-    "SPEX",
+    "spex",
     "sproutsextreme",
-    "SproutsExtreme"
+    "sproutsextreme"
   ],
   "897": [
-    "ITI",
+    "iti",
     "iticoin",
-    "iTicoin"
+    "iticoin"
   ],
   "898": [
-    "BERN",
+    "bern",
     "berncash",
-    "BERNcash"
+    "berncash"
   ],
   "899": [
-    "CHESS",
+    "chess",
     "chesscoin",
-    "ChessCoin"
+    "chesscoin"
   ],
   "900": [
-    "GLC",
+    "glc",
     "globalcoin",
-    "GlobalCoin"
+    "globalcoin"
   ],
   "901": [
-    "STV",
+    "stv",
     "sativacoin",
-    "Sativacoin"
+    "sativacoin"
   ],
   "902": [
-    "FLY",
+    "fly",
     "flycoin",
-    "Flycoin"
+    "flycoin"
   ],
   "903": [
-    "EMD",
+    "emd",
     "emerald",
-    "Emerald Crypto"
+    "emerald crypto"
   ],
   "904": [
-    "SH",
+    "sh",
     "shilling",
-    "Shilling"
+    "shilling"
   ],
   "905": [
-    "WYV",
+    "wyv",
     "wyvern",
-    "Wyvern"
+    "wyvern"
   ],
   "906": [
-    "BXT",
+    "bxt",
     "bittokens",
-    "BitTokens"
+    "bittokens"
   ],
   "907": [
-    "USDE",
     "usde",
-    "USDe"
+    "usde",
+    "usde"
   ],
   "908": [
     "888",
     "octocoin",
-    "OctoCoin"
+    "octocoin"
   ],
   "909": [
-    "KED",
+    "ked",
     "darsek",
-    "Darsek"
+    "darsek"
   ],
   "910": [
-    "ARI",
+    "ari",
     "aricoin",
-    "Aricoin"
+    "aricoin"
   ],
   "911": [
-    "MEOW",
+    "meow",
     "kittehcoin",
-    "Kittehcoin"
+    "kittehcoin"
   ],
   "912": [
-    "MAD",
+    "mad",
     "satoshimadness",
-    "SatoshiMadness"
+    "satoshimadness"
   ],
   "913": [
-    "AMBER",
+    "amber",
     "ambercoin",
-    "AmberCoin"
+    "ambercoin"
   ],
   "914": [
-    "MNC",
+    "mnc",
     "mincoin",
-    "Mincoin"
+    "mincoin"
   ],
   "915": [
-    "TALK",
+    "talk",
     "btctalkcoin",
-    "BTCtalkcoin"
+    "btctalkcoin"
   ],
   "916": [
-    "BUMBA",
+    "bumba",
     "bumbacoin",
-    "BumbaCoin"
+    "bumbacoin"
   ],
   "917": [
-    "WMC",
+    "wmc",
     "wmcoin",
-    "WMCoin"
+    "wmcoin"
   ],
   "918": [
-    "HXX",
+    "hxx",
     "hexx",
-    "Hexx"
+    "hexx"
   ],
   "919": [
-    "CYP",
+    "cyp",
     "cypher",
-    "Cypher"
+    "cypher"
   ],
   "920": [
-    "RBIES",
+    "rbies",
     "rubies",
-    "Rubies"
+    "rubies"
   ],
   "921": [
-    "FRK",
+    "frk",
     "franko",
-    "Franko"
+    "franko"
   ],
   "922": [
-    "YAC",
+    "yac",
     "yacoin",
-    "Yacoin"
+    "yacoin"
   ],
   "923": [
-    "GRT",
+    "grt",
     "grantcoin",
-    "Grantcoin"
+    "grantcoin"
   ],
   "924": [
-    "EVO",
+    "evo",
     "evotion",
-    "Evotion"
+    "evotion"
   ],
   "925": [
-    "HMP",
+    "hmp",
     "hempcoin-hmp",
-    "HempCoin"
+    "hempcoin"
   ],
   "926": [
-    "RPC",
+    "rpc",
     "ronpaulcoin",
-    "RonPaulCoin"
+    "ronpaulcoin"
   ],
   "927": [
-    "QTL",
+    "qtl",
     "quatloo",
-    "Quatloo"
+    "quatloo"
   ],
   "928": [
-    "GPU",
+    "gpu",
     "gpu-coin",
-    "GPU Coin"
+    "gpu coin"
   ],
   "929": [
-    "PX",
     "px",
-    "PX"
+    "px",
+    "px"
   ],
   "930": [
-    "ANTI",
+    "anti",
     "antibitcoin",
-    "AntiBitcoin"
+    "antibitcoin"
   ],
   "931": [
-    "DLC",
+    "dlc",
     "dollarcoin",
-    "Dollarcoin"
+    "dollarcoin"
   ],
   "932": [
-    "GP",
+    "gp",
     "goldpieces",
-    "GoldPieces"
+    "goldpieces"
   ],
   "933": [
-    "FIRE",
+    "fire",
     "firecoin",
-    "Firecoin"
+    "firecoin"
   ],
   "934": [
-    "JIN",
+    "jin",
     "jin-coin",
-    "Jin Coin"
+    "jin coin"
   ],
   "935": [
-    "ZMC",
+    "zmc",
     "zetamicron",
-    "ZetaMicron"
+    "zetamicron"
   ],
   "936": [
-    "BITZ",
     "bitz",
-    "Bitz"
+    "bitz",
+    "bitz"
   ],
   "937": [
-    "ARCO",
+    "arco",
     "aquariuscoin",
-    "AquariusCoin"
+    "aquariuscoin"
   ],
   "938": [
-    "ISL",
+    "isl",
     "islacoin",
-    "IslaCoin"
+    "islacoin"
   ],
   "939": [
-    "XBTC21",
+    "xbtc21",
     "bitcoin-21",
-    "Bitcoin 21"
+    "bitcoin 21"
   ],
   "940": [
-    "SOON",
+    "soon",
     "sooncoin",
-    "SoonCoin"
+    "sooncoin"
   ],
   "941": [
-    "XCRE",
+    "xcre",
     "creatio",
-    "Creatio"
+    "creatio"
   ],
   "942": [
-    "TAJ",
+    "taj",
     "tajcoin",
-    "TajCoin"
+    "tajcoin"
   ],
   "943": [
-    "CRX",
+    "crx",
     "chronos",
-    "Chronos"
+    "chronos"
   ],
   "944": [
-    "URO",
     "uro",
-    "Uro"
+    "uro",
+    "uro"
   ],
   "945": [
-    "DBTC",
+    "dbtc",
     "debitcoin",
-    "Debitcoin"
+    "debitcoin"
   ],
   "946": [
-    "CORG",
+    "corg",
     "corgicoin",
-    "CorgiCoin"
+    "corgicoin"
   ],
   "947": [
-    "NEVA",
+    "neva",
     "nevacoin",
-    "NevaCoin"
+    "nevacoin"
   ],
   "948": [
-    "BVC",
+    "bvc",
     "beavercoin",
-    "BeaverCoin"
+    "beavercoin"
   ],
   "949": [
-    "DRM",
+    "drm",
     "dreamcoin",
-    "Dreamcoin"
+    "dreamcoin"
   ],
   "950": [
-    "SLING",
     "sling",
-    "Sling"
+    "sling",
+    "sling"
   ],
   "951": [
-    "URC",
+    "urc",
     "unrealcoin",
-    "Unrealcoin"
+    "unrealcoin"
   ],
   "952": [
-    "GCC",
+    "gcc",
     "guccionecoin",
-    "GuccioneCoin"
+    "guccionecoin"
   ],
   "953": [
-    "CF",
+    "cf",
     "californium",
-    "Californium"
+    "californium"
   ],
   "954": [
-    "VEC2",
+    "vec2",
     "vector",
-    "VectorAI"
+    "vectorai"
   ],
   "955": [
-    "CPN",
+    "cpn",
     "compucoin",
-    "CompuCoin"
+    "compucoin"
   ],
   "956": [
-    "CAGE",
+    "cage",
     "cagecoin",
-    "CageCoin"
+    "cagecoin"
   ],
   "957": [
-    "OFF",
+    "off",
     "cthulhu-offerings",
-    "Cthulhu Offerings"
+    "cthulhu offerings"
   ],
   "958": [
-    "SCRT",
+    "scrt",
     "secretcoin",
-    "SecretCoin"
+    "secretcoin"
   ],
   "959": [
-    "MRJA",
+    "mrja",
     "ganjacoin",
-    "GanjaCoin"
+    "ganjacoin"
   ],
   "960": [
-    "RUPX",
+    "rupx",
     "rupaya",
-    "Rupaya"
+    "rupaya"
   ],
   "961": [
-    "MND",
+    "mnd",
     "mindcoin",
-    "MindCoin"
+    "mindcoin"
   ],
   "962": [
-    "BSTAR",
+    "bstar",
     "blackstar",
-    "Blackstar"
+    "blackstar"
   ],
   "963": [
-    "CTO",
+    "cto",
     "crypto",
-    "Crypto"
+    "crypto"
   ],
   "964": [
-    "VC",
+    "vc",
     "virtualcoin",
-    "VirtualCoin"
+    "virtualcoin"
   ],
   "965": [
-    "BLRY",
+    "blry",
     "billarycoin",
-    "BillaryCoin"
+    "billarycoin"
   ],
   "966": [
-    "FLAX",
+    "flax",
     "flaxscript",
-    "Flaxscript"
+    "flaxscript"
   ],
   "967": [
-    "WARP",
     "warp",
-    "WARP"
+    "warp",
+    "warp"
   ],
   "968": [
-    "PRX",
+    "prx",
     "printerium",
-    "Printerium"
+    "printerium"
   ],
   "969": [
-    "IMX",
+    "imx",
     "impact",
-    "Impact"
+    "impact"
   ],
   "970": [
-    "EREAL",
     "ereal",
-    "eREAL"
+    "ereal",
+    "ereal"
   ],
   "971": [
-    "BTQ",
+    "btq",
     "bitquark",
-    "BitQuark"
+    "bitquark"
   ],
   "972": [
-    "PULSE",
     "pulse",
-    "Pulse"
+    "pulse",
+    "pulse"
   ],
   "973": [
-    "DRS",
+    "drs",
     "digital-rupees",
-    "Digital Rupees"
+    "digital rupees"
   ],
   "974": [
-    "PIE",
+    "pie",
     "piecoin",
-    "PIECoin"
+    "piecoin"
   ],
   "975": [
-    "MTM",
+    "mtm",
     "mtmgaming",
-    "MTMGaming"
+    "mtmgaming"
   ],
   "976": [
-    "SONG",
+    "song",
     "songcoin",
-    "SongCoin"
+    "songcoin"
   ],
   "977": [
-    "QBK",
+    "qbk",
     "qibuck-asset",
-    "Qibuck Asset"
+    "qibuck asset"
   ],
   "978": [
-    "JWL",
+    "jwl",
     "jewels",
-    "Jewels"
+    "jewels"
   ],
   "979": [
-    "WORM",
+    "worm",
     "healthywormcoin",
-    "HealthyWormCoin"
+    "healthywormcoin"
   ],
   "980": [
-    "TOR",
+    "tor",
     "torcoin-tor",
-    "Torcoin"
+    "torcoin"
   ],
   "981": [
-    "FLVR",
+    "flvr",
     "flavorcoin",
-    "FlavorCoin"
+    "flavorcoin"
   ],
   "982": [
-    "FUZZ",
+    "fuzz",
     "fuzzballs",
-    "FuzzBalls"
+    "fuzzballs"
   ],
   "983": [
-    "VIP",
+    "vip",
     "vip-tokens",
-    "VIP Tokens"
+    "vip tokens"
   ],
   "984": [
-    "AGLC",
+    "aglc",
     "agrolifecoin",
-    "AgrolifeCoin"
+    "agrolifecoin"
   ],
   "985": [
-    "ZYD",
+    "zyd",
     "zayedcoin",
-    "Zayedcoin"
+    "zayedcoin"
   ],
   "986": [
-    "DLISK",
+    "dlisk",
     "dappster",
-    "DAPPSTER"
+    "dappster"
   ],
   "987": [
-    "DPAY",
     "dpay",
-    "DPAY"
+    "dpay",
+    "dpay"
   ],
   "988": [
-    "CNC",
+    "cnc",
     "chncoin",
-    "CHNCoin"
+    "chncoin"
   ],
   "989": [
-    "CRT",
+    "crt",
     "crtcoin",
-    "CRTCoin"
+    "crtcoin"
   ],
   "990": [
-    "ADCN",
+    "adcn",
     "asiadigicoin",
-    "Asiadigicoin"
+    "asiadigicoin"
   ],
   "991": [
-    "STEPS",
     "steps",
-    "Steps"
+    "steps",
+    "steps"
   ],
   "992": [
-    "BSC",
+    "bsc",
     "bowscoin",
-    "BowsCoin"
+    "bowscoin"
   ],
   "993": [
-    "WBB",
+    "wbb",
     "wild-beast-block",
-    "Wild Beast Block"
+    "wild beast block"
   ],
   "994": [
-    "CWXT",
+    "cwxt",
     "cryptoworldx-token",
-    "CryptoWorldX Token"
+    "cryptoworldx token"
   ],
   "995": [
-    "ATX",
+    "atx",
     "artex-coin",
-    "Artex Coin"
+    "artex coin"
   ],
   "996": [
-    "GBT",
+    "gbt",
     "gamebet-coin",
-    "GameBet Coin"
+    "gamebet coin"
   ],
   "997": [
-    "PLACO",
+    "placo",
     "playercoin",
-    "PlayerCoin"
+    "playercoin"
   ],
   "998": [
-    "EXN",
+    "exn",
     "exchangen",
-    "ExchangeN"
+    "exchangen"
   ],
   "999": [
-    "TAGR",
+    "tagr",
     "tagrcoin",
-    "TAGRcoin"
+    "tagrcoin"
   ],
   "1000": [
-    "BOAT",
+    "boat",
     "doubloon",
-    "BOAT"
+    "boat"
   ],
   "1001": [
-    "BIOS",
+    "bios",
     "bios-crypto",
-    "BiosCrypto"
+    "bioscrypto"
   ],
   "1002": [
-    "ORLY",
+    "orly",
     "orlycoin",
-    "Orlycoin"
+    "orlycoin"
   ],
   "1003": [
-    "CRDNC",
+    "crdnc",
     "credence-coin",
-    "Credence Coin"
+    "credence coin"
   ],
   "1004": [
-    "PLNC",
+    "plnc",
     "plncoin",
-    "PLNcoin"
+    "plncoin"
   ],
   "1005": [
-    "EGO",
     "ego",
-    "EGO"
+    "ego",
+    "ego"
   ],
   "1006": [
-    "PONZI",
+    "ponzi",
     "ponzicoin",
-    "PonziCoin"
+    "ponzicoin"
   ],
   "1007": [
-    "DES",
+    "des",
     "destiny",
-    "Destiny"
+    "destiny"
   ],
   "1008": [
-    "MILO",
+    "milo",
     "milocoin",
-    "MiloCoin"
+    "milocoin"
   ],
   "1009": [
-    "ARB",
+    "arb",
     "arbit",
-    "ARbit"
+    "arbit"
   ],
   "1010": [
-    "SLEVIN",
     "slevin",
-    "Slevin"
+    "slevin",
+    "slevin"
   ],
   "1011": [
-    "DOLLAR",
+    "dollar",
     "dollar-online",
-    "Dollar Online"
+    "dollar online"
   ],
   "1012": [
-    "OS76",
+    "os76",
     "osmiumcoin",
-    "OsmiumCoin"
+    "osmiumcoin"
   ],
   "1013": [
-    "VLTC",
+    "vltc",
     "vault-coin",
-    "Vault Coin"
+    "vault coin"
   ],
   "1014": [
-    "IMPS",
+    "imps",
     "impulsecoin",
-    "ImpulseCoin"
+    "impulsecoin"
   ],
   "1015": [
-    "LIR",
+    "lir",
     "letitride",
-    "LetItRide"
+    "letitride"
   ],
   "1016": [
-    "HVCO",
+    "hvco",
     "high-voltage",
-    "High Voltage"
+    "high voltage"
   ],
   "1017": [
-    "JOBS",
+    "jobs",
     "jobscoin",
-    "JobsCoin"
+    "jobscoin"
   ],
   "1018": [
-    "RIDE",
+    "ride",
     "ride-my-car",
-    "Ride My Car"
+    "ride my car"
   ],
   "1019": [
-    "SDP",
+    "sdp",
     "sydpak",
-    "SydPak"
+    "sydpak"
   ],
   "1020": [
-    "ALTC",
+    "altc",
     "antilitecoin",
-    "Antilitecoin"
+    "antilitecoin"
   ],
   "1021": [
-    "XOC",
+    "xoc",
     "xonecoin",
-    "Xonecoin"
+    "xonecoin"
   ],
   "1022": [
-    "BRAIN",
+    "brain",
     "braincoin",
-    "Braincoin"
+    "braincoin"
   ],
   "1023": [
-    "KNC",
+    "knc",
     "kingn-coin",
-    "KingN Coin"
+    "kingn coin"
   ],
   "1024": [
-    "FXE",
+    "fxe",
     "futurexe",
-    "FuturXe"
+    "futurxe"
   ],
   "1025": [
-    "G3N",
+    "g3n",
     "genstake",
-    "G3N"
+    "g3n"
   ],
   "1026": [
-    "ZNE",
+    "zne",
     "zonecoin",
-    "Zonecoin"
+    "zonecoin"
   ],
   "1027": [
-    "KIC",
+    "kic",
     "kibicoin",
-    "KibiCoin"
+    "kibicoin"
   ],
   "1028": [
-    "SCS",
+    "scs",
     "speedcash",
-    "Speedcash"
+    "speedcash"
   ],
   "1029": [
-    "PEX",
+    "pex",
     "posex",
-    "PosEx"
+    "posex"
   ],
   "1030": [
-    "ELS",
+    "els",
     "elysium",
-    "Elysium"
+    "elysium"
   ],
   "1031": [
-    "CESC",
+    "cesc",
     "cryptoescudo",
-    "CryptoEscudo"
+    "cryptoescudo"
   ],
   "1032": [
-    "GBC",
+    "gbc",
     "gbcgoldcoin",
-    "GBCGoldCoin"
+    "gbcgoldcoin"
   ],
   "1033": [
-    "FRAZ",
+    "fraz",
     "frazcoin",
-    "Frazcoin"
+    "frazcoin"
   ],
   "1034": [
-    "RSGP",
+    "rsgp",
     "rsgpcoin",
-    "RSGPcoin"
+    "rsgpcoin"
   ],
   "1035": [
-    "IBANK",
     "ibank",
-    "iBank"
+    "ibank",
+    "ibank"
   ],
   "1036": [
-    "EBT",
+    "ebt",
     "ebittree-coin",
-    "Ebittree Coin"
+    "ebittree coin"
   ],
   "1037": [
-    "SLFI",
+    "slfi",
     "selfiecoin",
-    "Selfiecoin"
+    "selfiecoin"
   ],
   "1038": [
-    "CRTM",
+    "crtm",
     "corethum",
-    "Corethum"
+    "corethum"
   ],
   "1039": [
-    "P7C",
+    "p7c",
     "p7coin",
-    "P7Coin"
+    "p7coin"
   ],
   "1040": [
-    "VOLT",
+    "volt",
     "bitvolt",
-    "Bitvolt"
+    "bitvolt"
   ],
   "1041": [
-    "CCM100",
+    "ccm100",
     "ccminer",
-    "CCMiner"
+    "ccminer"
   ],
   "1042": [
-    "BIOB",
+    "biob",
     "biobar",
-    "BioBar"
+    "biobar"
   ],
   "1043": [
-    "CAB",
+    "cab",
     "cabbage",
-    "Cabbage"
+    "cabbage"
   ],
   "1044": [
-    "TRADE",
+    "trade",
     "tradecoin-v2",
-    "Tradecoin"
+    "tradecoin"
   ],
   "1045": [
-    "MRNG",
+    "mrng",
     "morningstar-payments",
-    "MorningStar"
+    "morningstar"
   ],
   "1046": [
-    "CTIC2",
+    "ctic2",
     "coimatic-2",
-    "Coimatic 2.0"
+    "coimatic 2.0"
   ],
   "1047": [
-    "COXST",
+    "coxst",
     "coexistcoin",
-    "CoExistCoin"
+    "coexistcoin"
   ],
   "1048": [
-    "CONX",
+    "conx",
     "concoin",
-    "Concoin"
+    "concoin"
   ],
   "1049": [
-    "ULA",
+    "ula",
     "ulatech",
-    "Ulatech"
+    "ulatech"
   ],
   "1050": [
-    "SANDG",
+    "sandg",
     "save-and-gain",
-    "Save and Gain"
+    "save and gain"
   ],
   "1051": [
-    "LEX",
+    "lex",
     "lex4all",
-    "Lex4All"
+    "lex4all"
   ],
   "1052": [
-    "OCEAN",
+    "ocean",
     "burstocean",
-    "BurstOcean"
+    "burstocean"
   ],
   "1053": [
-    "NODC",
+    "nodc",
     "nodecoin",
-    "NodeCoin"
+    "nodecoin"
   ],
   "1054": [
-    "SOCC",
+    "socc",
     "socialcoin-socc",
-    "SocialCoin"
+    "socialcoin"
   ],
   "1055": [
-    "PIZZA",
+    "pizza",
     "pizzacoin",
-    "PizzaCoin"
+    "pizzacoin"
   ],
   "1056": [
-    "SOJ",
+    "soj",
     "sojourn",
-    "Sojourn"
+    "sojourn"
   ],
   "1057": [
-    "TSTR",
+    "tstr",
     "tristar-coin",
-    "Tristar Coin"
+    "tristar coin"
   ],
   "1058": [
-    "DGCS",
+    "dgcs",
     "digital-credits",
-    "Digital Credits"
+    "digital credits"
   ],
   "1059": [
-    "ABN",
+    "abn",
     "abncoin",
-    "Abncoin"
+    "abncoin"
   ],
   "1060": [
-    "DMB",
+    "dmb",
     "digital-money-bits",
-    "Digital Money Bits"
+    "digital money bits"
   ],
   "1061": [
-    "ENV",
+    "env",
     "environ",
-    "Environ"
+    "environ"
   ],
   "1062": [
-    "FAL",
+    "fal",
     "falcoin",
-    "Falcoin"
+    "falcoin"
   ],
   "1063": [
-    "FDC",
+    "fdc",
     "future-digital-currency",
-    "Future Digital Currency"
+    "future digital currency"
   ],
   "1064": [
-    "ELF",
+    "elf",
     "aelf",
     "aelf"
   ],
   "1065": [
-    "ATMC",
+    "atmc",
     "atmcoin",
-    "ATMCoin"
+    "atmcoin"
   ],
   "1066": [
-    "BRD",
+    "brd",
     "bread",
-    "Bread"
+    "bread"
   ],
   "1067": [
-    "BCD",
+    "bcd",
     "bitcoin-diamond",
-    "Bitcoin Diamond [Futures]"
+    "bitcoin diamond [futures]"
   ],
   "1068": [
-    "SMT",
+    "smt",
     "smartmesh",
-    "SmartMesh"
+    "smartmesh"
   ],
   "1069": [
-    "USNBT",
+    "usnbt",
     "nubits",
-    "NuBits"
+    "nubits"
   ],
   "1070": [
-    "NAS",
+    "nas",
     "nebulas-token",
-    "Nebulas"
+    "nebulas"
   ],
   "1071": [
-    "WAX",
     "wax",
-    "WAX"
+    "wax",
+    "wax"
   ],
   "1072": [
-    "MED",
+    "med",
     "medibloc",
-    "Medibloc"
+    "medibloc"
   ],
   "1073": [
-    "CMT",
+    "cmt",
     "cybermiles",
-    "CyberMiles"
+    "cybermiles"
   ],
   "1074": [
-    "DEW",
     "dew",
-    "DEW"
+    "dew",
+    "dew"
   ],
   "1075": [
-    "GTO",
+    "gto",
     "gifto",
-    "Gifto"
+    "gifto"
   ],
   "1076": [
-    "BCX",
+    "bcx",
     "bitcoinx",
-    "BitcoinX [Futures]"
+    "bitcoinx [futures]"
   ],
   "1077": [
-    "SBTC",
+    "sbtc",
     "super-bitcoin",
-    "Super Bitcoin"
+    "super bitcoin"
   ],
   "1078": [
-    "CMS",
+    "cms",
     "comsa-eth",
-    "COMSA [ETH]"
+    "comsa [eth]"
   ],
   "1079": [
-    "BIX",
+    "bix",
     "bibox-token",
-    "Bibox Token"
+    "bibox token"
   ],
   "1080": [
-    "BT2",
+    "bt2",
     "bt2-cst",
-    "BT2 [CST]"
+    "bt2 [cst]"
   ],
   "1081": [
-    "TSL",
+    "tsl",
     "energo",
-    "Energo"
+    "energo"
   ],
   "1082": [
-    "ITC",
+    "itc",
     "iot-chain",
-    "IoT Chain"
+    "iot chain"
   ],
   "1083": [
-    "ORME",
+    "orme",
     "ormeus-coin",
-    "Ormeus Coin"
+    "ormeus coin"
   ],
   "1084": [
-    "AI",
+    "ai",
     "poly-ai",
-    "POLY AI"
+    "poly ai"
   ],
   "1085": [
-    "SPHTX",
+    "sphtx",
     "sophiatx",
-    "SophiaTX"
+    "sophiatx"
   ],
   "1086": [
-    "CLUB",
+    "club",
     "clubcoin",
-    "ClubCoin"
+    "clubcoin"
   ],
   "1087": [
-    "B2X",
+    "b2x",
     "segwit2x",
-    "SegWit2x [Futures]"
+    "segwit2x [futures]"
   ],
   "1088": [
-    "CMS",
+    "cms",
     "comsa-xem",
-    "COMSA [XEM]"
+    "comsa [xem]"
   ],
   "1089": [
-    "GNX",
+    "gnx",
     "genaro-network",
-    "Genaro Network"
+    "genaro network"
   ],
   "1090": [
-    "FRGC",
+    "frgc",
     "fargocoin",
-    "Fargocoin"
+    "fargocoin"
   ],
   "1091": [
-    "SNOV",
+    "snov",
     "snovio",
-    "Snovio"
+    "snovio"
   ],
   "1092": [
-    "MAGE",
+    "mage",
     "magiccoin",
-    "MagicCoin"
+    "magiccoin"
   ],
   "1093": [
-    "NGC",
+    "ngc",
     "naga",
-    "NAGA"
+    "naga"
   ],
   "1094": [
-    "VIU",
+    "viu",
     "viuly",
-    "Viuly"
+    "viuly"
   ],
   "1095": [
-    "HWC",
+    "hwc",
     "hollywoodcoin",
-    "HollyWoodCoin"
+    "hollywoodcoin"
   ],
   "1096": [
-    "DAT",
+    "dat",
     "datum",
-    "Datum"
+    "datum"
   ],
   "1097": [
-    "BTE",
+    "bte",
     "bitserial",
-    "BitSerial"
+    "bitserial"
   ],
   "1098": [
-    "XTZ",
+    "xtz",
     "tezos",
-    "Tezos (Pre-Launch)"
+    "tezos (pre-launch)"
   ],
   "1099": [
-    "STC",
+    "stc",
     "santa-coin",
-    "Santa Coin"
+    "santa coin"
   ],
   "1100": [
-    "WC",
+    "wc",
     "win-coin",
-    "WINCOIN"
+    "wincoin"
   ],
   "1101": [
-    "PRO",
+    "pro",
     "prochain",
-    "ProChain"
+    "prochain"
   ],
   "1102": [
-    "INF",
+    "inf",
     "infchain",
-    "InfChain"
+    "infchain"
   ],
   "1103": [
-    "UGT",
+    "ugt",
     "ug-token",
-    "UG Token"
+    "ug token"
   ],
   "1104": [
-    "ERO",
+    "ero",
     "eroscoin",
-    "Eroscoin"
+    "eroscoin"
   ],
   "1105": [
-    "MKR",
+    "mkr",
     "maker",
-    "Maker"
+    "maker"
   ],
   "1106": [
-    "ICX",
+    "icx",
     "icon-futures",
-    "ICON [Futures]"
+    "icon [futures]"
   ],
   "1107": [
-    "MARX",
+    "marx",
     "marxcoin",
-    "MarxCoin"
+    "marxcoin"
   ],
   "1108": [
-    "AMM",
+    "amm",
     "micromoney",
-    "MicroMoney"
+    "micromoney"
   ],
   "1109": [
-    "LLT",
+    "llt",
     "lltoken",
-    "LLToken"
+    "lltoken"
   ],
   "1110": [
-    "GBG",
+    "gbg",
     "golos-gold",
-    "Golos Gold"
+    "golos gold"
   ],
   "1111": [
-    "UBTC",
+    "ubtc",
     "united-bitcoin",
-    "United Bitcoin"
+    "united bitcoin"
   ],
   "1112": [
-    "WRC",
+    "wrc",
     "worldcore",
-    "Worldcore"
+    "worldcore"
   ],
   "1113": [
-    "GRX",
+    "grx",
     "gold-reward-token",
-    "GOLD Reward Token"
+    "gold reward token"
   ],
   "1114": [
-    "FIL",
+    "fil",
     "filecoin",
-    "Filecoin [Futures]"
+    "filecoin [futures]"
   ],
   "1115": [
-    "MDS",
+    "mds",
     "medishares",
-    "MediShares"
+    "medishares"
   ],
   "1116": [
-    "XID",
+    "xid",
     "sphre-air",
-    "Sphre AIR "
+    "sphre air "
   ],
   "1117": [
-    "QBT",
+    "qbt",
     "qbao",
-    "Qbao"
+    "qbao"
   ],
   "1118": [
-    "XIN",
+    "xin",
     "infinity-economics",
-    "Infinity Economics"
+    "infinity economics"
   ],
   "1119": [
-    "CAPP",
+    "capp",
     "cappasity",
-    "Cappasity"
+    "cappasity"
   ],
   "1120": [
-    "BTU",
+    "btu",
     "bitcoin-unlimited",
-    "Bitcoin Unlimited (Futures)"
+    "bitcoin unlimited (futures)"
   ],
   "1121": [
-    "DTR",
+    "dtr",
     "dynamic-trading-rights",
-    "Dynamic Trading Rights"
+    "dynamic trading rights"
   ],
   "1122": [
-    "DAV",
+    "dav",
     "davorcoin",
-    "DavorCoin"
+    "davorcoin"
   ],
   "1123": [
-    "SAFEX",
+    "safex",
     "safe-exchange-coin",
-    "Safe Exchange Coin"
+    "safe exchange coin"
   ],
   "1124": [
-    "BSR",
+    "bsr",
     "bitsoar",
-    "BitSoar"
+    "bitsoar"
   ],
   "1125": [
-    "BCDN",
+    "bcdn",
     "blockcdn",
-    "BlockCDN"
+    "blockcdn"
   ],
   "1126": [
-    "ZENGOLD",
     "zengold",
-    "ZenGold"
+    "zengold",
+    "zengold"
   ],
   "1127": [
-    "THS",
+    "ths",
     "techshares",
-    "TechShares"
+    "techshares"
   ],
   "1128": [
-    "UQC",
+    "uqc",
     "uquid-coin",
-    "Uquid Coin"
+    "uquid coin"
   ],
   "1129": [
-    "EAG",
+    "eag",
     "ea-coin",
-    "EA Coin"
+    "ea coin"
   ],
   "1130": [
-    "SBC",
+    "sbc",
     "strikebitclub",
-    "StrikeBitClub"
+    "strikebitclub"
   ],
   "1131": [
-    "BT1",
+    "bt1",
     "bt1-cst",
-    "BT1 [CST]"
+    "bt1 [cst]"
   ],
   "1132": [
-    "BOS",
+    "bos",
     "boscoin",
-    "BOScoin"
+    "boscoin"
   ],
   "1133": [
-    "BTCA",
+    "btca",
     "bitair",
-    "Bitair"
+    "bitair"
   ],
   "1134": [
-    "TOK",
+    "tok",
     "tokugawa",
-    "Tokugawa"
+    "tokugawa"
   ],
   "1135": [
-    "VASH",
+    "vash",
     "vpncoin",
-    "VPNCoin"
+    "vpncoin"
   ],
   "1136": [
-    "PKT",
+    "pkt",
     "playkey",
-    "Playkey"
+    "playkey"
   ],
   "1137": [
-    "SJCX",
+    "sjcx",
     "storjcoin-x",
-    "Storjcoin X"
+    "storjcoin x"
   ],
   "1138": [
-    "SHND",
+    "shnd",
     "stronghands",
-    "StrongHands"
+    "stronghands"
   ],
   "1139": [
-    "IGNIS",
     "ignis",
-    "Ignis [Futures]"
+    "ignis",
+    "ignis [futures]"
   ],
   "1140": [
-    "KBR",
+    "kbr",
     "kubera-coin",
-    "Kubera Coin"
+    "kubera coin"
   ],
   "1141": [
-    "SEND",
+    "send",
     "social-send",
-    "Social Send"
+    "social send"
   ],
   "1142": [
-    "ANI",
+    "ani",
     "animecoin",
-    "Animecoin"
+    "animecoin"
   ],
   "1143": [
-    "FOR",
+    "for",
     "force",
-    "FORCE"
+    "force"
   ],
   "1144": [
-    "TER",
+    "ter",
     "terranova",
-    "TerraNova"
+    "terranova"
   ],
   "1145": [
-    "WILD",
+    "wild",
     "wild-crypto",
-    "Wild Crypto"
+    "wild crypto"
   ],
   "1146": [
-    "FLASH",
     "flash",
-    "Flash"
+    "flash",
+    "flash"
   ],
   "1147": [
-    "DON",
+    "don",
     "donationcoin",
-    "Donationcoin"
+    "donationcoin"
   ],
   "1148": [
-    "XRY",
+    "xry",
     "royalties",
-    "Royalties"
+    "royalties"
   ],
   "1149": [
-    "MSD",
     "msd",
-    "MSD"
+    "msd",
+    "msd"
   ],
   "1150": [
-    "RCN",
+    "rcn",
     "rcoin",
-    "Rcoin"
+    "rcoin"
   ],
   "1151": [
-    "SIGMA",
+    "sigma",
     "sigmacoin",
-    "SIGMAcoin"
+    "sigmacoin"
   ],
   "1152": [
-    "STAR",
+    "star",
     "starbase",
-    "Starbase"
+    "starbase"
   ],
   "1153": [
-    "CMP",
+    "cmp",
     "compcoin",
-    "Compcoin"
+    "compcoin"
   ],
   "1154": [
-    "SUR",
+    "sur",
     "suretly",
-    "Suretly"
+    "suretly"
   ],
   "1155": [
-    "MGC",
+    "mgc",
     "mergecoin",
-    "MergeCoin"
+    "mergecoin"
   ],
   "1156": [
-    "PEC",
+    "pec",
     "peacecoin",
-    "Peacecoin"
+    "peacecoin"
   ],
   "1157": [
-    "IBTC",
     "ibtc",
-    "iBTC"
+    "ibtc",
+    "ibtc"
   ],
   "1158": [
-    "XID",
+    "xid",
     "international-diamond",
-    "International Diamond"
+    "international diamond"
   ],
   "1159": [
-    "DEUS",
+    "deus",
     "deuscoin",
-    "DeusCoin"
+    "deuscoin"
   ],
   "1160": [
-    "LTG",
+    "ltg",
     "litecoin-gold",
-    "LiteCoin Gold"
+    "litecoin gold"
   ],
   "1161": [
-    "MCR",
+    "mcr",
     "macro1",
-    "Macro"
+    "macro"
   ],
   "1162": [
-    "BTCM",
+    "btcm",
     "btcmoon",
-    "BTCMoon"
+    "btcmoon"
   ],
   "1163": [
-    "SISA",
     "sisa",
-    "SISA"
+    "sisa",
+    "sisa"
   ],
   "1164": [
-    "BAT",
+    "bat",
     "batcoin",
-    "BatCoin"
+    "batcoin"
   ],
   "1165": [
-    "PLX",
+    "plx",
     "plexcoin",
-    "PlexCoin"
+    "plexcoin"
   ],
   "1166": [
-    "NBIT",
+    "nbit",
     "netbit",
-    "netBit"
+    "netbit"
   ],
   "1167": [
-    "COR",
+    "cor",
     "corion",
-    "CORION"
+    "corion"
   ],
   "1168": [
-    "ELITE",
+    "elite",
     "ethereum-lite",
-    "Ethereum Lite"
+    "ethereum lite"
   ],
   "1169": [
-    "DCRE",
+    "dcre",
     "deltacredits",
-    "DeltaCredits"
+    "deltacredits"
   ],
   "1170": [
-    "PLC",
+    "plc",
     "pluscoin",
-    "PlusCoin"
+    "pluscoin"
   ],
   "1171": [
-    "AKY",
+    "aky",
     "akuya-coin",
-    "Akuya Coin"
+    "akuya coin"
   ],
   "1172": [
-    "ETT",
+    "ett",
     "encryptotel-eth",
-    "EncryptoTel [ETH]"
+    "encryptotel [eth]"
   ],
   "1173": [
-    "OX",
+    "ox",
     "ox-fina",
-    "OX Fina"
+    "ox fina"
   ],
   "1174": [
-    "DAY",
+    "day",
     "chronologic",
-    "Chronologic"
+    "chronologic"
   ],
   "1175": [
-    "FAP",
+    "fap",
     "fapcoin",
-    "FAPcoin"
+    "fapcoin"
   ],
   "1176": [
-    "WOW",
+    "wow",
     "wowcoin",
-    "Wowcoin"
+    "wowcoin"
   ],
   "1177": [
-    "PNX",
+    "pnx",
     "phantomx",
-    "Phantomx"
+    "phantomx"
   ],
   "1178": [
-    "IRL",
+    "irl",
     "irishcoin",
-    "IrishCoin"
+    "irishcoin"
   ],
   "1179": [
-    "OCOW",
     "ocow",
-    "OCOW"
+    "ocow",
+    "ocow"
   ],
   "1180": [
-    "MINEX",
     "minex",
-    "Minex"
+    "minex",
+    "minex"
   ],
   "1181": [
-    "SND",
+    "snd",
     "sand-coin",
-    "Sand Coin"
+    "sand coin"
   ],
   "1182": [
-    "SCT",
+    "sct",
     "soma",
-    "Soma"
+    "soma"
   ],
   "1183": [
-    "NEOG",
+    "neog",
     "neo-gold",
-    "NEO GOLD"
+    "neo gold"
   ],
   "1184": [
-    "AIB",
+    "aib",
     "advanced-internet-blocks",
-    "Advanced Internet Blocks"
+    "advanced internet blocks"
   ],
   "1185": [
-    "EXRN",
+    "exrn",
     "exrnchain",
-    "EXRNchain"
+    "exrnchain"
   ],
   "1186": [
-    "PCN",
+    "pcn",
     "peepcoin",
-    "PeepCoin"
+    "peepcoin"
   ],
   "1187": [
-    "KARMA",
+    "karma",
     "karmacoin",
-    "Karmacoin"
+    "karmacoin"
   ],
   "1188": [
-    "YTN",
+    "ytn",
     "yenten",
-    "YENTEN"
+    "yenten"
   ],
   "1189": [
-    "BLX",
+    "blx",
     "blockchain-index",
-    "Blockchain Index"
+    "blockchain index"
   ],
   "1190": [
-    "UAHPAY",
     "uahpay",
-    "UAHPay"
+    "uahpay",
+    "uahpay"
   ],
   "1191": [
-    "EVR",
+    "evr",
     "everus",
-    "Everus"
+    "everus"
   ],
   "1192": [
-    "TRIA",
+    "tria",
     "triaconta",
-    "Triaconta"
+    "triaconta"
   ],
   "1193": [
-    "BTC2X",
+    "btc2x",
     "bitcoin2x",
-    "Bitcoin2x"
+    "bitcoin2x"
   ],
   "1194": [
-    "ACC",
+    "acc",
     "adcoin",
-    "AdCoin"
+    "adcoin"
   ],
   "1195": [
-    "NAMO",
+    "namo",
     "namocoin",
-    "NamoCoin"
+    "namocoin"
   ],
   "1196": [
-    "COUPE",
+    "coupe",
     "coupecoin",
-    "Coupecoin"
+    "coupecoin"
   ],
   "1197": [
-    "RYZ",
+    "ryz",
     "anryze",
-    "ANRYZE"
+    "anryze"
   ],
   "1198": [
-    "XYLO",
     "xylo",
-    "XYLO"
+    "xylo",
+    "xylo"
   ],
   "1199": [
-    "BTCS",
+    "btcs",
     "bitcoin-silver",
-    "Bitcoin Silver"
+    "bitcoin silver"
   ],
   "1200": [
-    "TOP",
+    "top",
     "topcoin",
-    "TopCoin"
+    "topcoin"
   ],
   "1201": [
-    "FUDD",
+    "fudd",
     "dimoncoin",
-    "DimonCoin"
+    "dimoncoin"
   ],
   "1202": [
-    "HALLO",
+    "hallo",
     "halloween-coin",
-    "Halloween Coin"
+    "halloween coin"
   ],
   "1203": [
-    "MAVRO",
     "mavro",
-    "Mavro"
+    "mavro",
+    "mavro"
   ],
   "1204": [
-    "TRDT",
+    "trdt",
     "trident",
-    "Trident Group"
+    "trident group"
   ],
   "1205": [
-    "NTC",
+    "ntc",
     "natcoin",
-    "Natcoin"
+    "natcoin"
   ],
   "1206": [
-    "PRN",
+    "prn",
     "protean",
-    "Protean"
+    "protean"
   ],
   "1207": [
-    "TCOIN",
+    "tcoin",
     "t-coin",
-    "T-coin"
+    "t-coin"
   ],
   "1208": [
-    "BUB",
+    "bub",
     "bubble",
-    "Bubble"
+    "bubble"
   ],
   "1209": [
-    "GLS",
+    "gls",
     "glasscoin",
-    "GlassCoin"
+    "glasscoin"
   ],
   "1210": [
-    "ABC",
+    "abc",
     "alphabitcoinfund",
-    "Alphabit"
+    "alphabit"
   ],
   "1211": [
-    "EVC",
+    "evc",
     "eventchain",
-    "EventChain"
+    "eventchain"
   ],
   "1212": [
-    "ZBC",
+    "zbc",
     "zilbercoin",
-    "Zilbercoin"
+    "zilbercoin"
   ],
   "1213": [
-    "VULC",
+    "vulc",
     "vulcano",
-    "Vulcano"
+    "vulcano"
   ],
   "1214": [
-    "TESLA",
+    "tesla",
     "teslacoilcoin",
-    "TeslaCoilCoin"
+    "teslacoilcoin"
   ],
   "1215": [
-    "FONZ",
+    "fonz",
     "fonziecoin",
-    "Fonziecoin"
+    "fonziecoin"
   ],
   "1216": [
-    "TOPAZ",
     "topaz",
-    "Topaz Coin"
+    "topaz",
+    "topaz coin"
   ],
   "1217": [
-    "EDRC",
+    "edrc",
     "edrcoin",
-    "EDRCoin"
+    "edrcoin"
   ],
   "1218": [
-    "RBBT",
+    "rbbt",
     "rabbitcoin",
-    "RabbitCoin"
+    "rabbitcoin"
   ],
   "1219": [
-    "DUTCH",
+    "dutch",
     "dutch-coin",
-    "Dutch Coin"
+    "dutch coin"
   ],
   "1220": [
-    "MCI",
+    "mci",
     "musiconomi",
-    "Musiconomi"
+    "musiconomi"
   ],
   "1221": [
-    "UR",
     "ur",
-    "UR"
+    "ur",
+    "ur"
   ],
   "1222": [
-    "SKR",
+    "skr",
     "sakuracoin",
-    "Sakuracoin"
+    "sakuracoin"
   ],
   "1223": [
-    "XOT",
+    "xot",
     "internet-of-things",
-    "Internet of Things"
+    "internet of things"
   ],
   "1224": [
-    "CTIC3",
+    "ctic3",
     "coimatic-3",
-    "Coimatic 3.0"
+    "coimatic 3.0"
   ],
   "1225": [
-    "EUSD",
     "eusd",
-    "eUSD"
+    "eusd",
+    "eusd"
   ],
   "1226": [
-    "BITCF",
+    "bitcf",
     "first-bitcoin-capital",
-    "First Bitcoin Capital"
+    "first bitcoin capital"
   ],
   "1227": [
-    "FRN",
+    "frn",
     "francs",
-    "Francs"
+    "francs"
   ],
   "1228": [
-    "CASH",
+    "cash",
     "cash-poker-pro",
-    "Cash Poker Pro"
+    "cash poker pro"
   ],
   "1229": [
-    "ACES",
     "aces",
-    "Aces"
+    "aces",
+    "aces"
   ],
   "1230": [
-    "SAK",
+    "sak",
     "sharkcoin",
-    "Sharkcoin"
+    "sharkcoin"
   ],
   "1231": [
-    "REGA",
+    "rega",
     "regacoin",
-    "Regacoin"
+    "regacoin"
   ],
   "1232": [
-    "DMC",
+    "dmc",
     "dynamiccoin",
-    "DynamicCoin"
+    "dynamiccoin"
   ],
   "1233": [
-    "IFC",
+    "ifc",
     "infinitecoin",
-    "Infinitecoin"
+    "infinitecoin"
   ],
   "1234": [
-    "PRES",
+    "pres",
     "president-trump",
-    "President Trump"
+    "president trump"
   ],
   "1235": [
-    "RUNNERS",
     "runners",
-    "Runners"
+    "runners",
+    "runners"
   ],
   "1236": [
-    "ZSE",
+    "zse",
     "zsecoin",
-    "ZSEcoin"
+    "zsecoin"
   ],
   "1237": [
-    "WIC",
+    "wic",
     "wi-coin",
-    "Wi Coin"
+    "wi coin"
   ],
   "1238": [
-    "YES",
+    "yes",
     "yescoin",
-    "Yescoin"
+    "yescoin"
   ],
   "1239": [
-    "TELL",
+    "tell",
     "tellurion",
-    "Tellurion"
+    "tellurion"
   ],
   "1240": [
-    "LDCN",
+    "ldcn",
     "landcoin",
-    "LandCoin"
+    "landcoin"
   ],
   "1241": [
-    "GAY",
+    "gay",
     "gaycoin",
-    "GAY Money"
+    "gay money"
   ],
   "1242": [
-    "ELC",
+    "elc",
     "elacoin",
-    "Elacoin"
+    "elacoin"
   ],
   "1243": [
-    "HYTV",
+    "hytv",
     "hyper-tv",
-    "Hyper TV"
+    "hyper tv"
   ],
   "1244": [
-    "DASHS",
     "dashs",
-    "Dashs"
+    "dashs",
+    "dashs"
   ],
   "1245": [
-    "CYC",
+    "cyc",
     "cycling-coin",
-    "Cycling Coin"
+    "cycling coin"
   ],
   "1246": [
-    "BEST",
+    "best",
     "bestchain",
-    "BestChain"
+    "bestchain"
   ],
   "1247": [
-    "AMS",
+    "ams",
     "amsterdamcoin",
-    "AmsterdamCoin"
+    "amsterdamcoin"
   ],
   "1248": [
-    "SWP",
+    "swp",
     "swapcoin",
-    "Swapcoin"
+    "swapcoin"
   ],
   "1249": [
-    "HYPER",
     "hyper",
-    "Hyper"
+    "hyper",
+    "hyper"
   ],
   "1250": [
-    "SKC",
+    "skc",
     "skeincoin",
-    "Skeincoin"
+    "skeincoin"
   ],
   "1251": [
-    "TIE",
+    "tie",
     "ties-network",
-    "TIES Network"
+    "ties network"
   ],
   "1252": [
-    "BET",
+    "bet",
     "betacoin",
-    "BetaCoin"
+    "betacoin"
   ],
   "1253": [
-    "UNRC",
+    "unrc",
     "universalroyalcoin",
-    "UniversalRoyalCoin"
+    "universalroyalcoin"
   ],
   "1254": [
-    "DBG",
+    "dbg",
     "digital-bullion-gold",
-    "Digital Bullion Gold"
+    "digital bullion gold"
   ],
   "1255": [
-    "IQT",
+    "iqt",
     "iquant",
-    "iQuant"
+    "iquant"
   ],
   "1256": [
-    "BLAZR",
+    "blazr",
     "blazercoin",
-    "BlazerCoin"
+    "blazercoin"
   ],
   "1257": [
-    "QBT",
+    "qbt",
     "cubits",
-    "Cubits"
+    "cubits"
   ],
   "1258": [
-    "PDG",
+    "pdg",
     "pinkdog",
-    "PinkDog"
+    "pinkdog"
   ],
   "1259": [
-    "HIGH",
+    "high",
     "high-gain",
-    "High Gain"
+    "high gain"
   ],
   "1260": [
-    "BTBc",
+    "btbc",
     "bitbase",
-    "Bitbase"
+    "bitbase"
   ],
   "1261": [
-    "HNC",
+    "hnc",
     "huncoin",
-    "Huncoin"
+    "huncoin"
   ],
   "1262": [
-    "QORA",
     "qora",
-    "Qora"
+    "qora",
+    "qora"
   ],
   "1263": [
-    "IPY",
+    "ipy",
     "infinity-pay",
-    "Infinity Pay"
+    "infinity pay"
   ],
   "1264": [
-    "ELTC2",
+    "eltc2",
     "eltc",
-    "eLTC"
+    "eltc"
   ],
   "1265": [
-    "UNC",
+    "unc",
     "uncoin",
-    "UNCoin"
+    "uncoin"
   ],
   "1266": [
-    "WA",
+    "wa",
     "wa-space",
-    "WA Space"
+    "wa space"
   ],
   "1267": [
-    "POKE",
+    "poke",
     "pokecoin",
-    "PokeCoin"
+    "pokecoin"
   ],
   "1268": [
-    "FLAP",
+    "flap",
     "flappycoin",
-    "FlappyCoin"
+    "flappycoin"
   ],
   "1269": [
-    "QBC",
+    "qbc",
     "quebecoin",
-    "Quebecoin"
+    "quebecoin"
   ],
   "1270": [
-    "APC",
+    "apc",
     "alpacoin",
-    "AlpaCoin"
+    "alpacoin"
   ],
   "1271": [
-    "SKULL",
+    "skull",
     "pirate-blocks",
-    "Pirate Blocks"
+    "pirate blocks"
   ],
   "1272": [
-    "EGOLD",
     "egold",
-    "eGold"
+    "egold",
+    "egold"
   ],
   "1273": [
-    "XQN",
+    "xqn",
     "quotient",
-    "Quotient"
+    "quotient"
   ],
   "1274": [
-    "PRIMU",
+    "primu",
     "primulon",
-    "Primulon"
+    "primulon"
   ],
   "1275": [
-    "PCS",
+    "pcs",
     "pabyosi-coin-special",
-    "Pabyosi Coin (Special)"
+    "pabyosi coin (special)"
   ],
   "1276": [
-    "GAIN",
+    "gain",
     "ugain",
-    "UGAIN"
+    "ugain"
   ],
   "1277": [
-    "RUBIT",
+    "rubit",
     "rublebit",
-    "RubleBit"
+    "rublebit"
   ],
   "1278": [
-    "INDIA",
+    "india",
     "india-coin",
-    "India Coin"
+    "india coin"
   ],
   "1279": [
-    "LTH",
+    "lth",
     "lathaan",
-    "LAthaan"
+    "lathaan"
   ],
   "1280": [
-    "SHA",
+    "sha",
     "shacoin",
-    "SHACoin"
+    "shacoin"
   ],
   "1281": [
-    "BSN",
+    "bsn",
     "bastonet",
-    "Bastonet"
+    "bastonet"
   ],
   "1282": [
-    "MBL",
+    "mbl",
     "mobilecash",
-    "MobileCash"
+    "mobilecash"
   ],
   "1283": [
-    "TLE",
+    "tle",
     "tattoocoin-limited",
-    "Tattoocoin (Limited Edition)"
+    "tattoocoin (limited edition)"
   ],
   "1284": [
-    "ACN",
+    "acn",
     "avoncoin",
-    "Avoncoin"
+    "avoncoin"
   ],
   "1285": [
-    "BXC",
+    "bxc",
     "bitcedi",
-    "Bitcedi"
+    "bitcedi"
   ],
   "1286": [
-    "BIRDS",
     "birds",
-    "Birds"
+    "birds",
+    "birds"
   ],
   "1287": [
-    "MMXVI",
     "mmxvi",
-    "MMXVI"
+    "mmxvi",
+    "mmxvi"
   ],
   "1288": [
-    "MONEY",
+    "money",
     "moneycoin",
-    "MoneyCoin"
+    "moneycoin"
   ],
   "1289": [
-    "TRICK",
+    "trick",
     "trickycoin",
-    "TrickyCoin"
+    "trickycoin"
   ],
   "1290": [
-    "TERA",
+    "tera",
     "teracoin",
-    "TeraCoin"
+    "teracoin"
   ],
   "1291": [
-    "EBIT",
     "ebit",
-    "eBIT"
+    "ebit",
+    "ebit"
   ],
   "1292": [
-    "ROYAL",
+    "royal",
     "royalcoin",
-    "RoyalCoin"
+    "royalcoin"
   ],
   "1293": [
-    "WSX",
+    "wsx",
     "wearesatoshi",
-    "WeAreSatoshi"
+    "wearesatoshi"
   ],
   "1294": [
-    "GMX",
+    "gmx",
     "goldmaxcoin",
-    "GoldMaxCoin"
+    "goldmaxcoin"
   ],
   "1295": [
-    "SFE",
+    "sfe",
     "safecoin",
-    "SafeCoin"
+    "safecoin"
   ],
   "1296": [
-    "CLINT",
+    "clint",
     "clinton",
-    "Clinton"
+    "clinton"
   ],
   "1297": [
-    "HDLB",
+    "hdlb",
     "hodl-bucks",
-    "HODL Bucks"
+    "hodl bucks"
   ],
   "1298": [
-    "10MT",
+    "10mt",
     "10mtoken",
-    "10M Token"
+    "10m token"
   ],
   "1299": [
-    "LEPEN",
     "lepen",
-    "LePen"
+    "lepen",
+    "lepen"
   ],
   "1300": [
-    "LAZ",
+    "laz",
     "lazaruscoin",
-    "Lazaruscoin"
+    "lazaruscoin"
   ],
   "1301": [
-    "FBL",
+    "fbl",
     "faceblock",
-    "Faceblock"
+    "faceblock"
   ],
   "1302": [
-    "AV",
+    "av",
     "avatarcoin",
-    "AvatarCoin"
+    "avatarcoin"
   ],
   "1303": [
-    "RUPX",
+    "rupx",
     "rupaya-old",
-    "Rupaya [OLD]"
+    "rupaya [old]"
   ],
   "1304": [
-    "BGR",
+    "bgr",
     "bongger",
-    "Bongger"
+    "bongger"
   ],
   "1305": [
-    "CHEAP",
+    "cheap",
     "cheapcoin",
-    "Cheapcoin"
+    "cheapcoin"
   ],
   "1306": [
-    "MAGN",
+    "magn",
     "magnetcoin",
-    "Magnetcoin"
+    "magnetcoin"
   ],
   "1307": [
-    "CYDER",
     "cyder",
-    "Cyder"
+    "cyder",
+    "cyder"
   ],
   "1308": [
-    "FFC",
+    "ffc",
     "fireflycoin",
-    "FireFlyCoin"
+    "fireflycoin"
   ],
   "1309": [
-    "XTD",
+    "xtd",
     "xtd-coin",
-    "XTD Coin"
+    "xtd coin"
   ],
   "1310": [
-    "MONETA",
+    "moneta",
     "moneta2",
-    "Moneta"
+    "moneta"
   ],
   "1311": [
-    "XAU",
+    "xau",
     "xaucoin",
-    "Xaucoin"
+    "xaucoin"
   ],
   "1312": [
-    "BITOK",
     "bitok",
-    "Bitok"
+    "bitok",
+    "bitok"
   ],
   "1313": [
-    "GRN",
+    "grn",
     "granitecoin",
-    "Granite"
+    "granite"
   ],
   "1314": [
-    "SPORT",
+    "sport",
     "sportscoin",
-    "SportsCoin"
+    "sportscoin"
   ],
   "1315": [
-    "GOLF",
+    "golf",
     "golfcoin",
-    "Golfcoin"
+    "golfcoin"
   ],
   "1316": [
-    "SNAKE",
+    "snake",
     "snakeeyes",
-    "SnakeEyes"
+    "snakeeyes"
   ],
   "1317": [
-    "AXIOM",
     "axiom",
-    "Axiom"
+    "axiom",
+    "axiom"
   ],
   "1318": [
-    "HCC",
+    "hcc",
     "happy-creator-coin",
-    "Happy Creator Coin"
+    "happy creator coin"
   ],
   "1319": [
-    "9COIN",
     "9coin",
-    "9COIN"
+    "9coin",
+    "9coin"
   ],
   "1320": [
-    "TURBO",
+    "turbo",
     "turbocoin",
-    "TurboCoin"
+    "turbocoin"
   ],
   "1321": [
-    "LKC",
+    "lkc",
     "linkedcoin",
-    "LinkedCoin"
+    "linkedcoin"
   ],
   "1322": [
-    "XSTC",
+    "xstc",
     "safe-trade-coin",
-    "Safe Trade Coin"
+    "safe trade coin"
   ],
   "1323": [
-    "RHFC",
+    "rhfc",
     "rhfcoin",
-    "RHFCoin"
+    "rhfcoin"
   ],
   "1324": [
-    "UTA",
+    "uta",
     "utacoin",
-    "UtaCoin"
+    "utacoin"
   ],
   "1325": [
-    "RICHX",
+    "richx",
     "richcoin",
-    "RichCoin"
+    "richcoin"
   ],
   "1326": [
-    "ANTX",
+    "antx",
     "antimatter",
-    "Antimatter"
+    "antimatter"
   ],
   "1327": [
-    "PRM",
+    "prm",
     "prismchain",
-    "PrismChain"
+    "prismchain"
   ],
   "1328": [
-    "IVZ",
+    "ivz",
     "invisiblecoin",
-    "InvisibleCoin"
+    "invisiblecoin"
   ],
   "1329": [
-    "FUTC",
+    "futc",
     "futcoin",
-    "FutCoin"
+    "futcoin"
   ],
   "1330": [
-    "CC",
+    "cc",
     "cybercoin",
-    "CyberCoin"
+    "cybercoin"
   ],
   "1331": [
-    "DISK",
+    "disk",
     "darklisk",
-    "DarkLisk"
+    "darklisk"
   ],
   "1332": [
-    "KASHH",
+    "kashh",
     "kashhcoin",
-    "KashhCoin"
+    "kashhcoin"
   ],
   "1333": [
-    "PSY",
+    "psy",
     "psilocybin",
-    "Psilocybin"
+    "psilocybin"
   ],
   "1334": [
-    "STEX",
     "stex",
-    "STEX"
+    "stex",
+    "stex"
   ],
   "1335": [
-    "FAZZ",
+    "fazz",
     "fazzcoin",
-    "Fazzcoin"
+    "fazzcoin"
   ],
   "1336": [
-    "FRWC",
+    "frwc",
     "frankywillcoin",
-    "FrankyWillCoin"
+    "frankywillcoin"
   ],
   "1337": [
-    "ASN",
+    "asn",
     "aseancoin",
-    "Aseancoin"
+    "aseancoin"
   ],
   "1338": [
-    "CME",
+    "cme",
     "cashme",
-    "Cashme"
+    "cashme"
   ],
   "1339": [
-    "OMC",
+    "omc",
     "omicron",
-    "Omicron"
+    "omicron"
   ],
   "1340": [
-    "WINK",
     "wink",
-    "Wink"
+    "wink",
+    "wink"
   ],
   "1341": [
-    "GUC",
+    "guc",
     "goldunioncoin",
-    "GoldUnionCoin"
+    "goldunioncoin"
   ],
   "1342": [
-    "BIT",
+    "bit",
     "first-bitcoin",
-    "First Bitcoin"
+    "first bitcoin"
   ],
   "1343": [
-    "FID",
+    "fid",
     "bitfid",
-    "BITFID"
+    "bitfid"
   ],
   "1344": [
-    "TEAM",
+    "team",
     "teamup",
-    "TeamUp"
+    "teamup"
   ],
   "1345": [
-    "DUB",
+    "dub",
     "dubstep",
-    "Dubstep"
+    "dubstep"
   ],
   "1346": [
-    "PAYP",
+    "payp",
     "paypeer",
-    "PayPeer"
+    "paypeer"
   ],
   "1347": [
-    "MEN",
+    "men",
     "peoplecoin",
-    "PeopleCoin"
+    "peoplecoin"
   ],
   "1348": [
-    "GML",
+    "gml",
     "gameleaguecoin",
-    "GameLeagueCoin"
+    "gameleaguecoin"
   ],
   "1349": [
-    "VOYA",
+    "voya",
     "voyacoin",
-    "Voyacoin"
+    "voyacoin"
   ],
   "1350": [
-    "EGG",
+    "egg",
     "eggcoin",
-    "EggCoin"
+    "eggcoin"
   ],
   "1351": [
-    "SHELL",
+    "shell",
     "shellcoin",
-    "ShellCoin"
+    "shellcoin"
   ],
   "1352": [
-    "X2",
     "x2",
-    "X2"
+    "x2",
+    "x2"
   ],
   "1353": [
-    "OPES",
+    "opes",
     "opescoin",
-    "Opescoin"
+    "opescoin"
   ],
   "1354": [
-    "BAC",
+    "bac",
     "bitalphacoin",
-    "BitAlphaCoin"
+    "bitalphacoin"
   ],
   "1355": [
-    "OP",
+    "op",
     "operand",
-    "Operand"
+    "operand"
   ],
   "1356": [
-    "TCR",
+    "tcr",
     "thecreed",
-    "TheCreed"
+    "thecreed"
   ],
   "1357": [
-    "GARY",
+    "gary",
     "president-johnson",
-    "President Johnson"
+    "president johnson"
   ],
   "1358": [
-    "TODAY",
+    "today",
     "todaycoin",
-    "TodayCoin"
+    "todaycoin"
   ],
   "1359": [
-    "CBD",
+    "cbd",
     "cbd-crystals",
-    "CBD Crystals"
+    "cbd crystals"
   ],
   "1360": [
-    "GBRC",
+    "gbrc",
     "global-business-revolution",
-    "Global Business Revolution"
+    "global business revolution"
   ],
   "1361": [
-    "XDE2",
+    "xde2",
     "xde-ii",
-    "XDE II"
+    "xde ii"
   ],
   "1362": [
-    "XVE",
+    "xve",
     "the-vegan-initiative",
-    "The Vegan Initiative"
+    "the vegan initiative"
   ],
   "1363": [
-    "ADK",
+    "adk",
     "aidos-kuneen",
-    "Aidos Kuneen"
+    "aidos kuneen"
   ],
   "1364": [
-    "YEL",
+    "yel",
     "yellow-token",
-    "Yellow Token"
+    "yellow token"
   ],
   "1365": [
-    "CSC",
+    "csc",
     "casinocoin",
-    "CasinoCoin"
+    "casinocoin"
   ],
   "1366": [
-    "SYNC",
     "sync",
-    "Sync"
+    "sync",
+    "sync"
   ],
   "1367": [
-    "NBE",
+    "nbe",
     "bitcentavo",
-    "BitCentavo"
+    "bitcentavo"
   ],
   "1368": [
-    "MGC",
+    "mgc",
     "gulfcoin",
-    "GulfCoin"
+    "gulfcoin"
   ],
   "1369": [
-    "FC",
+    "fc",
     "facecoin",
-    "Facecoin"
-  ],
-  "1370": [
-    "EDOGE",
-    "etherdoge",
-    "EtherDoge"
+    "facecoin"
   ]
 }

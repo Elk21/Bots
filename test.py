@@ -5,5 +5,4 @@ import json
 
 
 
-print(1 + 3.2)
-
+print(shit_to_name('Btc'))

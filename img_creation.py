@@ -1,3 +1,4 @@
+import json
 from PIL import Image, ImageDraw, ImageFont
 import requests
 from bs4 import BeautifulSoup
@@ -120,6 +121,13 @@ def create_single_coin_img(coin='bitcoin'):
     img.save('img/' + coin + '.png', "PNG")
     return img
 
+def shit_to_name (x):
+    file = json.load(open('data/coin_names.json'))
+    for e in file:
+        if x in e:
+            return e[1]
+    else:
+        return None
 
 #
 #

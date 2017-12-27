@@ -1,10 +1,9 @@
+import json
+
 from PIL import Image, ImageDraw, ImageFont
 import requests
 from bs4 import BeautifulSoup
 from io import BytesIO
-import os
-import telebot
-import time
 
 
 def get_image(name):
@@ -37,6 +36,18 @@ def draw_text(self, draw, pos, color=(0, 0, 0, 255), text='', size=16):
     draw.text(pos, fill=color, text=text, font=fnt)
 
 
+def shit_to_name(x):
+    x = x.lower()
+    file = json.load(open('data/coin_names.json'))
+
+    for i in range(1, len(file)):
+        print(file[str(i)])
+        if x in file[str(i)]:
+            return file[str(i)][1]
+    else:
+        return None
+
+
 class SingleCoin:
     coins = ['ripple', 'bitcoin', 'cardano', 'iota', 'litecoin', 'bitcoin-cash', 'ethereum']
     font = 'RML.ttf'
@@ -50,7 +61,7 @@ class SingleCoin:
     img_url = ''
 
     def __init__(self, coin):
-        self.coin = coin
+        self.coin = shit_to_name(coin)
         self.draw()
 
     def draw(self):
