@@ -16,6 +16,13 @@ def get_image(name):
     return image
 
 
+def get_icon(name):
+    r = requests.get('https://coinmarketcap.com/currencies/' + name + '/')
+    soup = BeautifulSoup(r.text, 'lxml')
+    icon = soup.find('h1').find('img').get('src')
+    return icon
+
+
 def get_html(url):
     r = requests.get(url)
     return r.text
