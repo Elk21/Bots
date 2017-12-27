@@ -3,6 +3,5 @@ from PIL import Image, ImageDraw, ImageFont
 import json
 
 
+x = SingleCoin('btc')
 
-
-print(shit_to_name('Btc'))

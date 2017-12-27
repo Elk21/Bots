@@ -5,6 +5,8 @@ import requests
 from bs4 import BeautifulSoup
 from io import BytesIO
 
+font = 'RML.ttf'
+
 
 def get_image(name):
     url = 'https://coinmarketcap.com/'
@@ -31,8 +33,8 @@ def convert_big_value(x):
         return str(round(float(x) / 1000000000, 3)) + ' M'
 
 
-def draw_text(self, draw, pos, color=(0, 0, 0, 255), text='', size=16):
-    fnt = ImageFont.truetype("fonts/" + self.font, size)
+def draw_text(draw, pos, color=(0, 0, 0, 255), text='', size=16):
+    fnt = ImageFont.truetype("fonts/" + font, size)
     draw.text(pos, fill=color, text=text, font=fnt)
 
 
@@ -49,8 +51,6 @@ def shit_to_name(x):
 
 
 class SingleCoin:
-    coins = ['ripple', 'bitcoin', 'cardano', 'iota', 'litecoin', 'bitcoin-cash', 'ethereum']
-    font = 'RML.ttf'
     width = 300
     height = 150
     dx = 2
@@ -96,7 +96,7 @@ class SingleCoin:
                   icon)
 
         # Symbol
-        draw_text(draw,
+        draw_text(draw=draw,
                   pos=(
                       self.width - graph.width + self.l_font + 6 * self.dx, self.height - (self.l_font + self.dy)),
                   text=symbol,
