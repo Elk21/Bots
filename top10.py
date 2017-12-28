@@ -81,7 +81,7 @@ class SingleRow:
 
             # Price volume
             draw_text(draw=draw,
-                      pos=(self.dx + dx*2, dy),
+                      pos=(self.dx + dx*3 - self.dx*2, dy),
                       text=convert_big_value(market_cap) + '$',
                       size=self.s_font,
                       font='RMM.ttf')
@@ -92,4 +92,3 @@ class SingleRow:
         else:
             print('Wrong input.\nPlz try again')
             return None
-
