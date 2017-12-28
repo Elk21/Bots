@@ -3,7 +3,7 @@ from PIL import ImageFont
 import requests
 from bs4 import BeautifulSoup
 
-font = 'RML.ttf'
+my_chat_id = '414313741'
 
 
 def get_image(name):
@@ -38,7 +38,7 @@ def convert_big_value(x):
         return str(round(float(x) / 1000000000, 3)) + ' M'
 
 
-def draw_text(draw, pos, color=(0, 0, 0, 255), text='', size=16):
+def draw_text(draw, pos, color=(0, 0, 0, 255), text='', size=16, font='RML.ttf'):
     fnt = ImageFont.truetype("fonts/" + font, size)
     draw.text(pos, fill=color, text=text, font=fnt)
 
@@ -52,3 +52,12 @@ def shit_to_name(x):
             return file[str(i)][1]
     else:
         return None
+
+
+def get_top10():
+    url = 'https://api.coinmarketcap.com/v1/ticker/?limit=10'
+    rq = requests.get(url).json()
+    names = []
+    for e in rq:
+        names.append(str(e['id']))
+    return names
