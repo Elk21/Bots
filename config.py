@@ -34,8 +34,13 @@ def get_color(x):
 
 
 def convert_big_value(x):
+    ret = ''
     if float(x) >= 1000000:
-        return str(round(float(x) / 1000000000, 3)) + ' M'
+        ret = str(round(float(x) / 1000000000, 3)) + ' M'
+    dx = 9 - len(ret)
+    for i in range(dx):
+        ret = ' ' + ret
+    return ret
 
 
 def draw_text(draw, pos, color=(0, 0, 0, 255), text='', size=16, font='RML.ttf'):
@@ -61,3 +66,10 @@ def get_top10():
     for e in rq:
         names.append(str(e['id']))
     return names
+
+
+def add_space(x):
+    if float(x) >= 0:
+        return ' ' + str(x)
+    else:
+        return x
