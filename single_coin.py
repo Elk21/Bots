@@ -82,7 +82,7 @@ class SingleCoin:
                   text='VOL ' + convert_big_value(volume_usd_24h) + '$',
                   size=self.s_font)
 
-        self.img_url = 'img/' + coin + '.png'
+        self.img_url = 'single_coin.png'
         img.save(self.img_url, "PNG")
         return self.img_url
 
