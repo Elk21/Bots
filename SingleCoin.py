@@ -16,19 +16,21 @@ class SingleCoin:
     l_font = 34
     img_url = ''
 
-    def __init__(self, coin):
-        self.coin = shit_to_name(coin)
-        self.draw()
+    #
+    # def __init__(self):
+    #
 
-    def draw(self):
+    def create_image(self, coin):
+        coin = shit_to_name(coin)
         # Здесь, первый параметр это тип картинки, может быть:
         # 1 (черно-белый), L (монохромный, оттенки серого),
         # RGB, RGBA (RGB с альфа каналом), CMYK, YCbCr, I (32 bit Integer pixels),
         # F (32 bit Float pixels).
+
         img = Image.new("RGBA", (self.width, self.height), (240, 240, 240, 255))
         draw = ImageDraw.Draw(img)
 
-        url = 'https://api.coinmarketcap.com/v1/ticker/' + self.coin + '/'
+        url = 'https://api.coinmarketcap.com/v1/ticker/' + coin + '/'
         rq = requests.get(url).json()[0]
         _id = rq['name']
         price_usd = rq['price_usd']
@@ -89,9 +91,10 @@ class SingleCoin:
                   pos=(6, self.height - (self.s_font + self.dy)),
                   text='VOL ' + convert_big_value(volume_usd_24h) + '$',
                   size=self.s_font)
-        del draw
-        self.img_url = 'img/' + self.coin + '.png'
-        img.save(self.img_url, "PNG")
 
-    def get_url(self):
+        self.img_url = 'img/' + coin + '.png'
+        img.save(self.img_url, "PNG")
+        return self.img_url
+
+    def get_path(self):
         return self.img_url
