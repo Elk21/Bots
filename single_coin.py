@@ -15,8 +15,8 @@ class SingleCoin:
     img_url = ''
 
     def create_image(self, coin):
+        coin = shit_to_name(coin)
         if coin:
-            coin = shit_to_name(coin)
 
             img = Image.new("RGBA", (self.width, self.height), (240, 240, 240, 255))
             draw = ImageDraw.Draw(img)
@@ -83,11 +83,11 @@ class SingleCoin:
                       text='VOL ' + convert_big_value(volume_usd_24h) + '$',
                       size=self.s_font)
 
-            self.img_url = 'img/' + coin + '.png'
+            self.img_url = 'img/single_coin.png'
             img.save(self.img_url, "PNG")
             return self.img_url
         else:
-            print('12312312')
+            print('Wrong input.\nPlz try again')
 
     def get_path(self):
         return self.img_url
