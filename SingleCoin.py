@@ -1,5 +1,3 @@
-import json
-
 from PIL import Image, ImageDraw
 import requests
 from io import BytesIO
@@ -16,16 +14,8 @@ class SingleCoin:
     l_font = 34
     img_url = ''
 
-    #
-    # def __init__(self):
-    #
-
     def create_image(self, coin):
         coin = shit_to_name(coin)
-        # Здесь, первый параметр это тип картинки, может быть:
-        # 1 (черно-белый), L (монохромный, оттенки серого),
-        # RGB, RGBA (RGB с альфа каналом), CMYK, YCbCr, I (32 bit Integer pixels),
-        # F (32 bit Float pixels).
 
         img = Image.new("RGBA", (self.width, self.height), (240, 240, 240, 255))
         draw = ImageDraw.Draw(img)
