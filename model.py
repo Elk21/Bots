@@ -11,4 +11,5 @@ class Model:
         self.message = message
 
     def get_image(self):
-        self.single_coin.create_image(self.message)
+        if type(self.message) is str:
+            self.single_coin.create_image(self.message)
