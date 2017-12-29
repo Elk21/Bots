@@ -35,7 +35,16 @@ class SingleCoin:
             # Graph
             img_rq = requests.get(get_image(_id))
             graph = Image.open(BytesIO(img_rq.content)).convert('RGBA')
-            img.paste(graph, (self.width - graph.width - 2, 10), graph)
+            img.paste(graph, (self.width - graph.width - 2, 20), graph)
+
+
+            # Name
+            name = _id[0].capitalize() + _id[1:]
+            draw_text(draw=draw,
+                      pos=(self.width - graph.width + self.l_font + 9 * self.dx,
+                           self.height - (self.l_font + self.dy) - self.s_font),
+                      text=name,
+                      size=self.s_font)
 
             # Coin icon
             icon_rq = requests.get(get_icon(_id))
@@ -46,8 +55,8 @@ class SingleCoin:
 
             # Symbol
             draw_text(draw=draw,
-                      pos=(
-                          self.width - graph.width + self.l_font + 8 * self.dx, self.height - (self.l_font + self.dy)),
+                      pos=(self.width - graph.width + self.l_font + 8 * self.dx,
+                           self.height - (self.l_font + self.dy)),
                       text=symbol,
                       size=self.l_font)
 
@@ -93,5 +102,3 @@ class SingleCoin:
     def get_path(self):
         return self.img_url
 
-
-x = SingleCoin().create_image('miota')
