@@ -24,11 +24,16 @@ def index():
         chat_id = r['message']['chat']['id']
         message = r['message']['text']
 
-        model.set_message(message)
-        image_type = model.get_image()
-        view.set_chat_id(chat_id)
-        view.send_buttons()
-        view.send_image(image_type)
+        if message == '/start':
+            view.send_buttons()
+        else:
+            model.set_message(message)
+            try:
+                image_type = model.get_image()
+            except NameError:
+                view.send_message('Wrong input, try again')
+            view.set_chat_id(chat_id)
+            view.send_image(image_type)
 
         return jsonify(r)
 
