@@ -97,7 +97,7 @@ class SingleCoin:
             img.save(self.img_url, "PNG")
             return self.img_url
         else:
-            print('Wrong input.\nPlz try again')
+            raise NameError("Invalid coin")
 
     def get_path(self):
         return self.img_url

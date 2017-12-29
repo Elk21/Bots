@@ -20,7 +20,7 @@ class Top10:
             img.paste(row.create_image(e), (0, int(self.height / 10 * i)))
             i += 1
 
-        img_url = 'img/big.png'
+        img_url = 'img/top.png'
         img.save(img_url, "PNG")
 
     def get_url(self):
