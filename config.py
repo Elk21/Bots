@@ -3,8 +3,6 @@ from PIL import ImageFont
 import requests
 from bs4 import BeautifulSoup
 
-my_chat_id = '414313741'
-
 
 def get_image(name):
     url = 'https://coinmarketcap.com/'
