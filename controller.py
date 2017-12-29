@@ -23,9 +23,12 @@ def index():
         r = request.get_json()
         chat_id = r['message']['chat']['id']
         message = r['message']['text']
+
         model.set_message(message)
-        model.get_image()
-        view.send(chat_id)
+        image_type = model.get_image()
+        view.set_chat_id(chat_id)
+        view.send_buttons()
+        view.send_image(image_type)
 
         return jsonify(r)
 
